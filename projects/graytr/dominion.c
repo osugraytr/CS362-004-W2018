@@ -1375,7 +1375,7 @@ int village_card(int currentPlayer, struct gameState *state, int handPos){
 //	printf("---->Starting Village function!\n");
 
       //+1 Card
-      drawCard(currentPlayer, state);
+      //drawCard(currentPlayer, state);
 			
       //+2 Actions
       state->numActions = state->numActions++;
