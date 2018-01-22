@@ -1359,7 +1359,7 @@ int smithy_card(int currentPlayer, struct gameState *state, int handPos){
 //	printf("---->Starting Smithy function!\n");
       //+3 Cards
       int i = 0;
-      for (i = 0; i <= 3; i++)
+      for (i = 0; i < 3; i++)
       {
         drawCard(currentPlayer, state);
       }
@@ -1378,7 +1378,7 @@ int village_card(int currentPlayer, struct gameState *state, int handPos){
       drawCard(currentPlayer, state);
 			
       //+2 Actions
-      state->numActions = state->numActions++;
+      state->numActions = state->numActions + 2;
 			
       //discard played card from hand
       discardCard(handPos, currentPlayer, state, 0);
@@ -1412,7 +1412,7 @@ int adventurer_card(int currentPlayer, struct gameState *state, int handPos, int
 
 int great_hall_card(int currentPlayer, struct gameState *state, int handPos){
       //+1 Card
-      //drawCard(currentPlayer, state);
+      drawCard(currentPlayer, state);
 			
       //+1 Actions
       state->numActions++;
@@ -1423,7 +1423,7 @@ int great_hall_card(int currentPlayer, struct gameState *state, int handPos){
 }
 
 int steward_card(int currentPlayer, struct gameState *state, int handPos, int choice1, int choice2, int choice3){
-      if (choice2 == 1)
+      if (choice1 == 1)
 	{
 	  //+2 cards
 	  drawCard(currentPlayer, state);
@@ -1431,7 +1431,7 @@ int steward_card(int currentPlayer, struct gameState *state, int handPos, int ch
 
   drawCard(currentPlayer, state);
 	}
-      else if (choice2 == 2)
+      else if (choice1 == 2)
 	{
 	  //+2 coins
 	  state->coins = state->coins + 2;
