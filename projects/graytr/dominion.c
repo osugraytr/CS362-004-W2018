@@ -1390,6 +1390,7 @@ int village_card(int currentPlayer, struct gameState *state, int handPos){
 
 int adventurer_card(int currentPlayer, struct gameState *state, int handPos, int drawntreasure, int cardDrawn, int z, int temphand[]){
       while(drawntreasure<2){
+//	printf("Deck size: %d\n",state->deckCount[0]);
 	if (state->deckCount[currentPlayer] <1){//if the deck is empty we need to shuffle discard and add to deck
 	  shuffle(currentPlayer, state);
 	}
