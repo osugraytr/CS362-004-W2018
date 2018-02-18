@@ -49,6 +49,10 @@ int main() {
     int result_hand1 = -1;
     int result_deck0 = -1;
     int result_deck1 = -1;
+    int randomHandCount0 = 0;
+    int randomHandCount1 = 0;
+    int randomDeckCount0 = 0;
+    int randomDeckCount1 = 0;
     srand(time(NULL));
 
 
@@ -74,6 +78,10 @@ int main() {
     			for (handCount1 = 0; handCount1 <= maxhandCount; handCount1++)
     			{
 	testCount++;
+	randomHandCount0 = (rand()%500);
+	randomHandCount1 = (rand()%500);
+	randomDeckCount0 = (rand()%500);
+	randomDeckCount1 = (rand()%500);
 	// Things to note:
 	//	to call: 	isGameOver(&G) 
 	//	initilization:	int isGameOver(struct gameState *state) {
@@ -85,30 +93,29 @@ int main() {
 	//
 		
 #if (NOISY_TEST == 1)
-        printf("Test #%d Player 1 deck size: %d, hand size: %d | Player 2 deck size: %d, hand size: %d :", testCount, deckCount0, handCount0, deckCount1, handCount1);
+        printf("Test #%d Player 1 deck size: %d, hand size: %d | Player 2 deck size: %d, hand size: %d :", testCount, randomDeckCount0, randomHandCount0, randomDeckCount1, randomHandCount1);
 #endif
         memset(&G, 23, sizeof(struct gameState));   // clear the game state
         r = initializeGame(numPlayer, k, seed, &G); // initialize a new game
     	//G.handp[p][handPos];			// Set handPos to smithy
 
+        G.handCount[0] = randomHandCount0;                 // set the number of cards on hand	
+        G.handCount[1] = randomHandCount1;                 // set the number of cards on hand	
 
-        G.handCount[0] = handCount0;                 // set the number of cards on hand	
-        G.handCount[1] = handCount1;                 // set the number of cards on hand	
+        G.deckCount[0] = randomDeckCount0;                 // set the number of cards on hand	
+        G.deckCount[1] = randomDeckCount1;                 // set the number of cards on hand	
 
-        G.deckCount[0] = deckCount0;                 // set the number of cards on hand	
-        G.deckCount[1] = deckCount1;                 // set the number of cards on hand	
-
-	expected_hand0 = handCount0+2;
-	if(deckCount0<3){	// Sets Expected dexk and hand size for player 1
+	expected_hand0 = randomHandCount0+2;
+	if(randomDeckCount0<3){	// Sets Expected dexk and hand size for player 1
 		expected_deck0 = 0;
-		expected_hand0 = (handCount0+deckCount0)-1;
+		expected_hand0 = (randomHandCount0+randomDeckCount0)-1;
 	}
 	else{
-		expected_deck0 = deckCount0-3;	
+		expected_deck0 = randomDeckCount0-3;	
 	}
 
-	expected_hand1 = handCount1; // Expected hand size for player 2
-	expected_deck1 = deckCount1; // Expected deck size for player 2
+	expected_hand1 = randomHandCount1; // Expected hand size for player 2
+	expected_deck1 = randomDeckCount1; // Expected deck size for player 2
             		
     	//printf("Player %d's turn = %d\n", whoseTurn(&G));
     	//printf("->Count P0 ->Before: hand count = %d | deck cout = %d\n", G.handCount[0], G.deckCount[0]);
