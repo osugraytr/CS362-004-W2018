@@ -1,159 +1,179 @@
-/* randomtestcardtest1.c
- * Random test for village card from the dominion-base code, dominion.c.
+/* -----------------------------------------------------------------------
+ * Demonstration of how to write unit tests for dominion-base
+ * Include the following lines in your makefile:
+ *
+ * testUpdateCoins: testUpdateCoins.c dominion.o rngs.o
+ *      gcc -o testUpdateCoins -g  testUpdateCoins.c dominion.o rngs.o $(CFLAGS)
+ * -----------------------------------------------------------------------
  */
 
 #include "dominion.h"
 #include "dominion_helpers.h"
-#include "rngs.h"
-#include <stdio.h>
 #include <string.h>
+#include <stdio.h>
 #include <assert.h>
-#include <stdlib.h>
+#include "rngs.h"
 
-#define TESTCARD "village"
+// set NOISY_TEST to 0 to remove printfs from output
+#define NOISY_TEST 1
 
-int main()
-{
-	int i, actionCount, cardCount;
+int main() {
+    int i;
+    int seed = 1000;
+    int numPlayer = 2;
+    int maxBonus = 10;
+    int p = 0, r, handCount0 = 0, handCount1 = 0, deckCount0 = 0, deckCount1 = 0;
+    int bonus;
+    int k[10] = {adventurer, council_room, feast, gardens, mine
+               , remodel, smithy, village, baron, great_hall};
+    struct gameState G;
+    int maxhandCount = 5;
+    int handPos = 0;
+    int testCount = 0;
+    int choice1 = -1;
+    int choice2 = -1;
+    int choice3 = -1;
+    // arrays of all coppers, silvers, and golds
+    int coppers[MAX_HAND];
+    int silvers[MAX_HAND];
+    int golds[MAX_HAND];
+    int failed_test = 0;
+    int passed_test = 0;
 
-	/* Set up random seed */
-	srand(0);
+    int expected_hand0 = -1;
+    int expected_hand1 = -1;
+    int expected_deck0 = -1;
+    int expected_deck1 = -1;
 
-	/* Set up variables needed for viilage*/
-	int handPos = 0;
-	int p;
+    int result_hand0 = -1;
+    int result_hand1 = -1;
+    int result_deck0 = -1;
+    int result_deck1 = -1;
+    int randomHandCount0 = 0;
+    int randomHandCount1 = 0;
+    int randomDeckCount0 = 0;
+    int randomDeckCount1 = 0;
+    srand(time(NULL));
 
-	int curses[MAX_HAND];
-	for(i = 0; i < MAX_HAND; i++)
-	{
-		curses[i] = curse;
+
+    for (i = 0; i < MAX_HAND; i++)
+    {
+        coppers[i] = copper;
+        silvers[i] = silver;
+        golds[i] = gold;
+    }
+    //gainCard(gold, state, 1, currentPlayer);
+    
+//    memcpy(G.hand[p], smithy, sizeof(int) * maxhandCount0); // set all the cards to smithy
+//    G.hand[0][0] = smithy;
+//    printf("\n\nhere-> %d\n\n\n",G.hand[0][0]);
+    
+    printf ("TESTING Smithy_card():\n"); // printf ("TESTING updateCoins():\n");
+    for (deckCount0 = 0; deckCount0 <= maxhandCount; deckCount0++)
+    {
+    	for (deckCount1 = 0; deckCount1 <= maxhandCount; deckCount1++)
+    	{
+    		for (handCount0 = 0; handCount0 <= maxhandCount; handCount0++)
+    		{
+    			for (handCount1 = 0; handCount1 <= maxhandCount; handCount1++)
+    			{
+	testCount++;
+	randomHandCount0 = (rand()%500);
+	randomHandCount1 = (rand()%500);
+	randomDeckCount0 = (rand()%500);
+	randomDeckCount1 = (rand()%500);
+	// Things to note:
+	//	to call: 	isGameOver(&G) 
+	//	initilization:	int isGameOver(struct gameState *state) {
+	//	variables used:		
+	//			state->supplyCount[province]
+	//			declared in function:
+	//				int i; == itorator
+	//				int j; == number of empty supply piles of 25 piles
+	//
+		
+#if (NOISY_TEST == 1)
+        printf("Test #%d Player 1 deck size: %d, hand size: %d | Player 2 deck size: %d, hand size: %d :", testCount, randomDeckCount0, randomHandCount0, randomDeckCount1, randomHandCount1);
+#endif
+        memset(&G, 23, sizeof(struct gameState));   // clear the game state
+        r = initializeGame(numPlayer, k, seed, &G); // initialize a new game
+    	//G.handp[p][handPos];			// Set handPos to smithy
+
+        G.handCount[0] = randomHandCount0;                 // set the number of cards on hand	
+        G.handCount[1] = randomHandCount1;                 // set the number of cards on hand	
+
+        G.deckCount[0] = randomDeckCount0;                 // set the number of cards on hand	
+        G.deckCount[1] = randomDeckCount1;                 // set the number of cards on hand	
+
+	expected_hand0 = randomHandCount0+2;
+	if(randomDeckCount0<3){	// Sets Expected dexk and hand size for player 1
+		expected_deck0 = 0;
+		expected_hand0 = (randomHandCount0+randomDeckCount0)-1;
+	}
+	else{
+		expected_deck0 = randomDeckCount0-3;	
 	}
 
-	/* Set up variables needed for game state initialization */
-	int numPlayers = 2;
-	int randomSeed = 1000;
-	int k1[10] = {adventurer, council_room, feast, gardens, mine,
-				remodel, smithy, village, baron, great_hall};
-	struct gameState G, testG;
-
-	/* Initialize a game state and player cards */
-	initializeGame(numPlayers, k1, randomSeed, &G);
-
-	printf("----------------Random Card Test 2: %s----------------\n", TESTCARD);
-
-	/* Begin random tester */
-	int randomHandCount;
-	int randomNumActions;
-	int addedCards;
-	int failCountActions = 0;
-	int failCountCards = 0;
-	int passCountActions = 0;
-	int passCountCards = 0;
-	int loopCount = 0;
+	expected_hand1 = randomHandCount1; // Expected hand size for player 2
+	expected_deck1 = randomDeckCount1; // Expected deck size for player 2
+            		
+    	//printf("Player %d's turn = %d\n", whoseTurn(&G));
+    	//printf("->Count P0 ->Before: hand count = %d | deck cout = %d\n", G.handCount[0], G.deckCount[0]);
+    	//printf("->Count P2 ->Before: hand count = %d | deck cout = %d\n", G.handCount[1], G.deckCount[1]);
 	
-	while(loopCount < 1000)
-	{
+	
+	cardEffect(smithy, choice1, choice2, choice3, &G, handPos, 1); // default player 0's turn
 
-		/* Copy game state to a test case */
-		memcpy(&testG, &G, sizeof(struct gameState));
 
-		/* Test if 1 cards are added to the hand */
-		for(p = 0; p < numPlayers; p++)
-		{
-			/* Randomize hand count */
-			/* Randomize actions */
-			randomHandCount = (rand() + 0) % (1000 + 1);
-			randomNumActions = (rand() + 0) % (1000 + 1);
-			
-			/* Set hand count */
-			/* Set added cards */
-			/* Set actions */
-			testG.handCount[p] = randomHandCount;
-			addedCards = 0;
-			testG.numActions = randomNumActions;
+    	//printf("<-Count P0 <-After: hand count = %d | deck cout = %d\n", G.handCount[0], G.deckCount[0]);
+    	//printf("<-Count P2 <-After: hand count = %d | deck cout = %d\n", G.handCount[1], G.deckCount[1]);
+	
+        //updateCoins(p, &G, bonus);//TODO: change this to work for isGameOver();
 
-			/* Set all cards to curses, enum value = 0 */
-			memcpy(testG.hand[p], curses, sizeof(int) * randomHandCount);
+    	result_hand0 = G.handCount[0];
+    	result_hand1 = G.handCount[1];
+    	result_deck0 = G.deckCount[0];
+    	result_deck1 = G.deckCount[1];
 
-			/* Print initial hand stats */
-			printf("Player %d hand before village\n", p + 1);
-			printf("Cards = %d\n", testG.handCount[p]);
-			printf("Actions = %d\n", testG.numActions);
-
-			/* Printing hand
-			for(i = 0; i < 5; i++)
-			{ 
-				printf("testG.hand[%d] = %d\n", i, testG.hand[p][i]); 
-			}
-			*/
-
-			/* Play village */
-			play_village(p, &testG, handPos);
-
-			/* Print hand and test */
-			printf("Player %d hand after village\n", p + 1);
-			printf("Number of actions = %d, expected = %d\n", testG.numActions, randomNumActions + 2);
-			/* Test if number of actions is correct */
-			if(testG.numActions == randomNumActions + 2)
-			{
-				printf("PASS\n");
-				passCountActions++;
-			}
-			else
-			{
-				printf("FAIL\n");
-				failCountActions++;
-			}
-
-			/* Print hand
-			printf("Player %d hand after village\n", p + 1);
-			for(i = 0; i < 5; i++)
-			{
-				printf("testG.hand[%d] = %d\n", i, testG.hand[p][i]);
-			}
-			*/
-
-			/* Test if number of cards added is correct */
-			addedCards = 0;
-
-			for(i = 0; i < randomHandCount; i++)
-			{
-
-				if(testG.hand[p][i] != 0)
-				{
-					addedCards++;
+	
+//				printf("rd1 = %d, rd0 = %d\ned1 = %d, ed0 = %d\nrh1 = %d, rh0 = %d\neh1 = %d, eh0 = %d\n", result_deck1, result_deck0, expected_deck1, expected_deck0, result_hand1, result_hand0, expected_hand1, expected_hand0);
+				// Fail if p1's things change at all
+				// Fail if p0's hand is not +2 or deck is not -3
+				
+				//See if test passed
+				if(result_hand0==expected_hand0){
+					if(result_hand1==expected_hand1){
+						if(result_deck1==expected_deck1){
+							if(result_deck0==expected_deck0){
+								passed_test++;
+								printf("	PASSED TEST\n");
+							}
+							else{
+								failed_test++;
+								printf("\n	FAILED TEST\n");
+							}
+						}
+						else{
+							failed_test++;
+							printf("\n	FAILED TEST\n");
+						}
+					}
+					else{
+						failed_test++;
+						printf("\n	FAILED TEST\n");
+					}
 				}
-
+				else{
+					failed_test++;
+					printf("\n	FAILED TEST\n");
+				}
+				
 			}
-
-			/* Print test */
-			printf("Number of cards added = %d, expected = %d\n", addedCards, 1);
-
-			if(addedCards == 1)
-			{
-				printf("PASS\n");
-				passCountCards++;
-			}
-			else
-			{
-				printf("FAIL\n");
-				failCountCards++;
-			}
-
 		}
-		
-		loopCount++;
+    	}
+    }
+    printf("All tests passed!\n");
+    printf("\nTimes ran: %d | Tests Failed: %d\n", testCount, failed_test);	
 
-	} //end main while()
-
-	printf("TEST COMPLETED\n");
-	printf("Loop count %d\n", loopCount);
-	printf("Pass Actions count %d\n", passCountActions);
-	printf("Fail Actions count %d\n", failCountActions);
-	printf("Pass Card Added count %d\n", passCountCards);
-	printf("Fail Card Added count %d\n", failCountCards);
-
-
-	return 0;
-
+    return 0;
 }

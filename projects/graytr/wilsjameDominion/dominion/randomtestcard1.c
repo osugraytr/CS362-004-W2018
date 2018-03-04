@@ -1,99 +1,100 @@
-/* randomcardtest1.c
- * Random test for smithy card from the dominion-base code, dominion.c.
+/* -----------------------------------------------------------------------
+ * Demonstration of how to write unit tests for dominion-base
+ * Include the following lines in your makefile:
+ *
+ * testUpdateCoins: testUpdateCoins.c dominion.o rngs.o
+ *      gcc -o testUpdateCoins -g  testUpdateCoins.c dominion.o rngs.o $(CFLAGS)
+ * -----------------------------------------------------------------------
  */
 
 #include "dominion.h"
 #include "dominion_helpers.h"
-#include "rngs.h"
-#include <stdio.h>
 #include <string.h>
+#include <stdio.h>
 #include <assert.h>
-#include <stdlib.h>
+#include "rngs.h"
 
-#define TESTCARD "Smithy"
+// set NOISY_TEST to 0 to remove printfs from output
+#define NOISY_TEST 1
 
-int main()
-{
-	int i;
+int main() {
+    int i;
+    int seed = 1000;
+    int numPlayer = 2;
+    int maxBonus = 10;
+    int p = 0, r, handCount0 = 0, handCount1 = 0, deckCount0 = 0, deckCount1 = 0;
+    int bonus;
+    int k[10] = {adventurer, council_room, feast, gardens, mine
+               , remodel, smithy, village, baron, great_hall};
+    struct gameState G;
+    int maxhandCount = 50;
+    int handPos = 0;
+    int testCount = 0;
+    int choice1 = -1;
+    int choice2 = -1;
+    int choice3 = -1;
+    // arrays of all coppers, silvers, and golds
+    int failed_test = 0;
+    int passed_test = 0;
+    int expected_hand_player1 = -1;
+    int expected_action_player1 = -1;
+    int handCount = 0;
+    int maxActionCount = 50;
+    int actionCount = -1;
+    int randomHandCount = 0;
+    int randomActionCount = 0;
+    srand(time(NULL));
+    //gainCard(gold, state, 1, currentPlayer);
+    
+    printf ("RANDOM TESTING Great_wall():\n"); // printf ("TESTING updateCoins():\n");
+    for (actionCount = 0; actionCount <= maxActionCount; actionCount++)
+    {
+    	for (handCount = 0; handCount <= maxhandCount; handCount++)
+    	{
+	testCount++;
+	// Things to note:
+	//	to call: 	isGameOver(&G) 
+	//	initilization:	int isGameOver(struct gameState *state) {
+	//	variables used:		
+	//			state->supplyCount[province]
+	//			declared in function:
+	//				int i; == itorator
+	//				int j; == number of empty supply piles of 25 piles
+	//
+		
+#if (NOISY_TEST == 1)
+	printf("Test #%d: actionCount = %d, handCount = %d | ", testCount, actionCount, handCount);
+#endif
+        memset(&G, 23, sizeof(struct gameState));   // clear the game state
+        r = initializeGame(numPlayer, k, seed, &G); // initialize a new game
+	
+	
+	randomHandCount = (rand()%500)-1;
+	randomActionCount = (rand()%500);
+	
+	
+	G.numActions = randomActionCount;	// Assign action number
+	G.handCount[0] = randomHandCount;	// Assign hand number
+        
+	expected_hand_player1 = randomHandCount;
+	expected_action_player1 = randomActionCount+1;
+	//cardEffect(smithy, choice1, choice2, choice3, &G, handPos, 1); // default player 0's turn
+	cardEffect(great_hall, choice1, choice2, choice3, &G, handPos, 1); // default player 0's turn
 
-	/* Set up random seed */
-	srand(0);
-
-	/* Set up variables needed for smithy */
-	int currentPlayer;
-	int handPos = 0;
-
-	/* Set up variables needed for game state initialization */
-	int numPlayers = 2;
-	int randomSeed = 1000;
-	int k1[10] = {adventurer, council_room, feast, gardens, mine,
-				remodel, smithy, village, baron, great_hall};
-	struct gameState G, testG;
-
-	/* Initialize a game state and player cards */
-	initializeGame(numPlayers, k1, randomSeed, &G);
-
-	printf("----------------Random Card Test 1: %s----------------\n", TESTCARD);
-
-	/* Begin random tester */
-	int randomHandCount;
-	int passCount = 0;
-	int failCount = 0;
-	int loopCount = 0;
-
-	while(loopCount < 1000)
-	{
-		/* Randomize hand count */
-		randomHandCount = (rand() + 0) % (1000 + 1);
-
-		/* Copy game state to a test case */
-		memcpy(&testG, &G, sizeof(struct gameState));
-
-		/* Player 1 */
-		currentPlayer = 0;
-		printf("Initial p1 hand size = %d\n", testG.handCount[currentPlayer] = randomHandCount);
-		play_smithy(currentPlayer, &testG, 0);
-		printf("Hand size after smithy = %d, expected = %d\n", testG.handCount[currentPlayer], randomHandCount + 3);
-
-		/* Assert */
-		if(testG.handCount[currentPlayer] == randomHandCount + 3)
-		{
-			printf("PASS\n");
-			passCount++;
-		}
-		else
-		{
-			printf("FAIL\n");
-			failCount++;
-		}
-
-		/* Player 2 */
-		currentPlayer = 1;
-		printf("Initial p2 hand size = %d\n", testG.handCount[currentPlayer] = randomHandCount);
-		play_smithy(currentPlayer, &testG, 0);
-		printf("Hand size after smithy = %d, expected = %d\n", testG.handCount[currentPlayer], randomHandCount + 3);
-
-		/* Assert */
-		if(testG.handCount[currentPlayer] == randomHandCount + 3)
-		{
-			printf("PASS\n");
-			passCount++;
-		}
-		else
-		{
-			printf("FAIL\n");
-			failCount++;
-		}
-
-		loopCount++;
+	if(expected_action_player1==G.numActions&&expected_hand_player1==G.handCount[0]){
+		passed_test++;
+		printf("	Passed:");
 	}
+	else{
+		failed_test++;
+		printf("	Failed:");
+	}
+	printf(" Exp act: %d, Act: %d; Exp hnd: %d, hnd: %d\n",expected_action_player1,G.numActions,expected_hand_player1,G.handCount[0]);
+	
+    	}
+    }
+    printf("All tests passed!\n");
+    printf("\nTimes ran: %d | Tests Failed: %d\n", testCount, failed_test);	
 
-	printf("Loop count: %d\n", loopCount);
-	printf("Test count: %d\n", loopCount * 2);
-	printf("Pass count: %d\n", passCount);
-	printf("Fail count: %d\n", failCount);
-	printf("TEST COMPLETED\n");
-
-	return 0;
-
+    return 0;
 }

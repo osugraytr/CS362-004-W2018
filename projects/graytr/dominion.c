@@ -206,6 +206,7 @@ int shuffle(int player, struct gameState *state) {
   int card;
   int i;
 
+
   if (state->deckCount[player] < 1)
     return -1;
   qsort ((void*)(state->deck[player]), state->deckCount[player], sizeof(int), compare); 
@@ -1178,11 +1179,16 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
       return 0;
 		
     case outpost:
-      //set outpost flag
-      state->outpostPlayed++;
+      if(state->outpostPlayed!=0){
+        printf("Outpost flag set!\n");
+      }
+      else{
+        //set outpost flag
+        state->outpostPlayed++;
 			
-      //discard card
-      discardCard(handPos, currentPlayer, state, 0);
+        //discard card
+        discardCard(handPos, currentPlayer, state, 0);
+      }
       return 0;
 		
     case salvager:
@@ -1392,7 +1398,11 @@ int adventurer_card(int currentPlayer, struct gameState *state, int handPos, int
       while(drawntreasure<2){
 //	printf("Deck size: %d\n",state->deckCount[0]);
 	if (state->deckCount[currentPlayer] <1){//if the deck is empty we need to shuffle discard and add to deck
-	  shuffle(currentPlayer, state);
+	  
+  	  //printf("\nEntered the shuffle function\n");
+  	  //printf("deckCount: %d\n",state->deckCount[currentPlayer]);
+//	  shuffle(currentPlayer, state);
+  	  //printf("\nExited  the shuffle function\n");
 	}
 	drawCard(currentPlayer, state);
 	cardDrawn = state->hand[currentPlayer][state->handCount[currentPlayer]-1];//top card of hand is most recently drawn card.

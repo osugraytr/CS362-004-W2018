@@ -1,0 +1,62 @@
+Bug 1: Adventure
+
+	Bug description:
+		The adventure function should shuffle the cards if the DeckCount is less than 1.
+		Instead of doing this task, the function returns a bad value and fails a test.
+
+	Debugging:
+		After looking at the code, This snip here:
+		
+		Lines 36-38 of dominion.c:
+			______
+			if (state->deckCount[currentPlayer] <1){//if the deck is empty we need to shuffle discard and add to deck
+		  		shuffle(currentPlayer, state);
+			}
+			_____
+		
+		This tells me that any time the deckCount is less than 1, the shuffle function is called.
+		
+		We can now assume that the bug doesn't occur inside of the adventurer function itself, but  inside of a called funtion by adventurer
+
+		
+		I decided to look into the shuffle function in dominion.c.
+
+
+		I found the bug almost immediatly, I found that the shuffle function returns "-1" if the deckCount is less than 1.
+
+		Lines 379-380 in dominion.c:
+  			if (state->deckCount[player] < 1)
+  			  return -1;
+
+		BUG FOUND, on line 380 of dominion.c
+
+
+Bug 2: Smithy
+
+	Bug description:
+		The Outpost test would fail when the outpost flag was greater than 0, or the deckcount was less than 1.
+
+	Debugging:	
+		After looking at the test results, I found that most of the time the function tests failed
+		it was because the outpost flag was already set. There was one test that the outpost flag was not set. 
+
+		I decided to start looking inside of the "outpost" case inside of "dominion.c"
+
+		I found the bug pretty quick
+
+		Lines 1359-1365 of the dominion.c file:
+		
+		    case outpost:
+		      //set outpost flag
+		      state->outpostPlayed++;
+			
+		      //discard card
+		      discardCard(handPos, currentPlayer, state, 0);
+		      return 0;
+		
+		I found the bug on these lines. The bug was that the function did not check to see if the outpost flag was set.
+
+		BUG FOUND, on lines 1359-1365
+
+
+

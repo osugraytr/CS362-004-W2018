@@ -1,0 +1,7580 @@
+TESTING Adventuer_card():
+RandomHandCount: 131
+RandomDeckCount: 22
+	Passed
+RandomHandCount: 465
+RandomDeckCount: 439
+	Passed
+RandomHandCount: 42
+RandomDeckCount: 276
+	Passed
+RandomHandCount: 54
+RandomDeckCount: 136
+	Passed
+RandomHandCount: 106
+RandomDeckCount: 197
+	Passed
+RandomHandCount: 53
+RandomDeckCount: 289
+	Passed
+RandomHandCount: 246
+RandomDeckCount: 17
+	Passed
+RandomHandCount: 50
+RandomDeckCount: 193
+	Passed
+RandomHandCount: 215
+RandomDeckCount: 375
+	Passed
+RandomHandCount: 118
+RandomDeckCount: 34
+	Passed
+RandomHandCount: 132
+RandomDeckCount: 339
+	Passed
+RandomHandCount: 361
+RandomDeckCount: 217
+	Passed
+RandomHandCount: 13
+RandomDeckCount: 126
+	Passed
+RandomHandCount: 15
+RandomDeckCount: 124
+	Passed
+RandomHandCount: 275
+RandomDeckCount: 254
+	Passed
+RandomHandCount: 230
+RandomDeckCount: 408
+	Passed
+RandomHandCount: 275
+RandomDeckCount: 49
+	Passed
+RandomHandCount: 198
+RandomDeckCount: 171
+	Passed
+RandomHandCount: 324
+RandomDeckCount: 106
+	Passed
+RandomHandCount: 307
+RandomDeckCount: 284
+	Passed
+RandomHandCount: 302
+RandomDeckCount: 362
+	Passed
+RandomHandCount: 424
+RandomDeckCount: 403
+	Passed
+RandomHandCount: 379
+RandomDeckCount: 329
+	Passed
+RandomHandCount: 95
+RandomDeckCount: 448
+	Passed
+RandomHandCount: 203
+RandomDeckCount: 67
+	Passed
+RandomHandCount: 481
+RandomDeckCount: 190
+	Passed
+RandomHandCount: 405
+RandomDeckCount: 196
+	Passed
+RandomHandCount: 406
+RandomDeckCount: 272
+	Passed
+RandomHandCount: 173
+RandomDeckCount: 423
+	Passed
+RandomHandCount: 395
+RandomDeckCount: 450
+	Passed
+RandomHandCount: 176
+RandomDeckCount: 480
+	Passed
+RandomHandCount: 209
+RandomDeckCount: 305
+	Passed
+RandomHandCount: 28
+RandomDeckCount: 409
+	Passed
+RandomHandCount: 476
+RandomDeckCount: 207
+	Passed
+RandomHandCount: 15
+RandomDeckCount: 137
+	Passed
+RandomHandCount: 342
+RandomDeckCount: 171
+	Passed
+RandomHandCount: 498
+RandomDeckCount: 121
+	Passed
+RandomHandCount: 73
+RandomDeckCount: 231
+	Passed
+RandomHandCount: 449
+RandomDeckCount: 22
+	Passed
+RandomHandCount: 178
+RandomDeckCount: 6
+	Passed
+RandomHandCount: 88
+RandomDeckCount: 13
+	Passed
+RandomHandCount: 195
+RandomDeckCount: 347
+	Passed
+RandomHandCount: 60
+RandomDeckCount: 103
+	Passed
+RandomHandCount: 119
+RandomDeckCount: 235
+	Passed
+RandomHandCount: 26
+RandomDeckCount: 368
+	Passed
+RandomHandCount: 184
+RandomDeckCount: 56
+	Passed
+RandomHandCount: 199
+RandomDeckCount: 395
+	Passed
+RandomHandCount: 213
+RandomDeckCount: 82
+	Passed
+RandomHandCount: 156
+RandomDeckCount: 191
+	Passed
+RandomHandCount: 288
+RandomDeckCount: 25
+	Passed
+RandomHandCount: 179
+RandomDeckCount: 484
+	Passed
+RandomHandCount: 195
+RandomDeckCount: 31
+	Passed
+RandomHandCount: 104
+RandomDeckCount: 123
+	Passed
+RandomHandCount: 262
+RandomDeckCount: 407
+	Passed
+RandomHandCount: 144
+RandomDeckCount: 294
+	Passed
+RandomHandCount: 413
+RandomDeckCount: 235
+	Passed
+RandomHandCount: 307
+RandomDeckCount: 110
+	Passed
+RandomHandCount: 433
+RandomDeckCount: 221
+	Passed
+RandomHandCount: 65
+RandomDeckCount: 54
+	Passed
+RandomHandCount: 456
+RandomDeckCount: 445
+	Passed
+RandomHandCount: 422
+RandomDeckCount: 494
+	Passed
+
+
+here is happend->
+
+RandomHandCount: 0
+RandomDeckCount: 475
+	Passed
+RandomHandCount: 389
+RandomDeckCount: 67
+	Passed
+RandomHandCount: 56
+RandomDeckCount: 399
+	Passed
+RandomHandCount: 109
+RandomDeckCount: 346
+	Passed
+RandomHandCount: 423
+RandomDeckCount: 290
+	Passed
+RandomHandCount: 182
+RandomDeckCount: 472
+	Passed
+RandomHandCount: 321
+RandomDeckCount: 140
+	Passed
+RandomHandCount: 94
+RandomDeckCount: 437
+	Passed
+RandomHandCount: 47
+RandomDeckCount: 93
+	Passed
+RandomHandCount: 230
+RandomDeckCount: 314
+	Passed
+RandomHandCount: 327
+RandomDeckCount: 391
+	Passed
+RandomHandCount: 423
+RandomDeckCount: 114
+	Passed
+RandomHandCount: 112
+RandomDeckCount: 342
+	Passed
+RandomHandCount: 168
+RandomDeckCount: 70
+	Passed
+RandomHandCount: 286
+RandomDeckCount: 444
+	Passed
+RandomHandCount: 415
+RandomDeckCount: 141
+	Passed
+RandomHandCount: 418
+RandomDeckCount: 306
+	Passed
+RandomHandCount: 207
+RandomDeckCount: 477
+	Passed
+RandomHandCount: 204
+RandomDeckCount: 319
+	Passed
+RandomHandCount: 174
+RandomDeckCount: 481
+	Passed
+RandomHandCount: 108
+RandomDeckCount: 210
+	Passed
+RandomHandCount: 453
+RandomDeckCount: 283
+	Passed
+RandomHandCount: 350
+RandomDeckCount: 401
+	Passed
+RandomHandCount: 219
+RandomDeckCount: 251
+	Passed
+RandomHandCount: 493
+RandomDeckCount: 304
+	Passed
+RandomHandCount: 64
+RandomDeckCount: 174
+	Passed
+RandomHandCount: 194
+RandomDeckCount: 341
+	Passed
+RandomHandCount: 288
+RandomDeckCount: 160
+	Passed
+RandomHandCount: 183
+RandomDeckCount: 458
+	Passed
+RandomHandCount: 81
+RandomDeckCount: 471
+	Passed
+RandomHandCount: 253
+RandomDeckCount: 499
+	Passed
+RandomHandCount: 111
+RandomDeckCount: 173
+	Passed
+RandomHandCount: 156
+RandomDeckCount: 321
+	Passed
+RandomHandCount: 1
+RandomDeckCount: 215
+	Passed
+RandomHandCount: 491
+RandomDeckCount: 30
+	Passed
+RandomHandCount: 195
+RandomDeckCount: 453
+	Passed
+RandomHandCount: 239
+RandomDeckCount: 2
+	Failed
+RandomHandCount: 236
+RandomDeckCount: 91
+	Passed
+RandomHandCount: 403
+RandomDeckCount: 309
+	Passed
+RandomHandCount: 341
+RandomDeckCount: 398
+	Passed
+RandomHandCount: 112
+RandomDeckCount: 407
+	Passed
+RandomHandCount: 72
+RandomDeckCount: 161
+	Passed
+RandomHandCount: 248
+RandomDeckCount: 214
+	Passed
+RandomHandCount: 172
+RandomDeckCount: 433
+	Passed
+RandomHandCount: 171
+RandomDeckCount: 256
+	Passed
+RandomHandCount: 255
+RandomDeckCount: 278
+	Passed
+RandomHandCount: 106
+RandomDeckCount: 369
+	Passed
+RandomHandCount: 450
+RandomDeckCount: 264
+	Passed
+RandomHandCount: 41
+RandomDeckCount: 306
+	Passed
+RandomHandCount: 478
+RandomDeckCount: 34
+	Passed
+RandomHandCount: 335
+RandomDeckCount: 28
+	Passed
+RandomHandCount: 338
+RandomDeckCount: 76
+	Passed
+RandomHandCount: 29
+RandomDeckCount: 76
+	Passed
+RandomHandCount: 19
+RandomDeckCount: 434
+	Passed
+RandomHandCount: 385
+RandomDeckCount: 362
+	Passed
+RandomHandCount: 184
+RandomDeckCount: 351
+	Passed
+RandomHandCount: 121
+RandomDeckCount: 110
+	Passed
+RandomHandCount: 363
+RandomDeckCount: 223
+	Passed
+RandomHandCount: 323
+RandomDeckCount: 38
+	Passed
+RandomHandCount: 7
+RandomDeckCount: 348
+	Passed
+RandomHandCount: 293
+RandomDeckCount: 264
+	Passed
+RandomHandCount: 125
+RandomDeckCount: 401
+	Passed
+RandomHandCount: 484
+RandomDeckCount: 429
+	Passed
+RandomHandCount: 164
+RandomDeckCount: 379
+	Passed
+RandomHandCount: 234
+RandomDeckCount: 497
+	Passed
+RandomHandCount: 264
+RandomDeckCount: 71
+	Passed
+RandomHandCount: 24
+RandomDeckCount: 105
+	Passed
+RandomHandCount: -1
+RandomDeckCount: 55
+	Passed
+RandomHandCount: 180
+RandomDeckCount: 20
+	Passed
+RandomHandCount: 341
+RandomDeckCount: 419
+	Passed
+RandomHandCount: 233
+RandomDeckCount: 379
+	Passed
+RandomHandCount: 122
+RandomDeckCount: 356
+	Passed
+RandomHandCount: 488
+RandomDeckCount: 487
+	Passed
+RandomHandCount: 78
+RandomDeckCount: 313
+	Passed
+RandomHandCount: 24
+RandomDeckCount: 87
+	Passed
+RandomHandCount: 160
+RandomDeckCount: 319
+	Passed
+RandomHandCount: 203
+RandomDeckCount: 139
+	Passed
+RandomHandCount: 71
+RandomDeckCount: 189
+	Passed
+RandomHandCount: 67
+RandomDeckCount: 90
+	Passed
+RandomHandCount: 68
+RandomDeckCount: 304
+	Passed
+RandomHandCount: 86
+RandomDeckCount: 334
+	Passed
+RandomHandCount: 226
+RandomDeckCount: 464
+	Passed
+RandomHandCount: 438
+RandomDeckCount: 79
+	Passed
+RandomHandCount: 370
+RandomDeckCount: 473
+	Passed
+RandomHandCount: 98
+RandomDeckCount: 65
+	Passed
+RandomHandCount: 243
+RandomDeckCount: 334
+	Passed
+RandomHandCount: 443
+RandomDeckCount: 367
+	Passed
+RandomHandCount: 41
+RandomDeckCount: 433
+	Passed
+RandomHandCount: 354
+RandomDeckCount: 122
+	Passed
+RandomHandCount: 97
+RandomDeckCount: 232
+	Passed
+RandomHandCount: 60
+RandomDeckCount: 111
+	Passed
+RandomHandCount: 403
+RandomDeckCount: 265
+	Passed
+RandomHandCount: 249
+RandomDeckCount: 476
+	Passed
+RandomHandCount: 306
+RandomDeckCount: 319
+	Passed
+RandomHandCount: 417
+RandomDeckCount: 376
+	Passed
+RandomHandCount: 474
+RandomDeckCount: 5
+	Passed
+RandomHandCount: 61
+RandomDeckCount: 202
+	Passed
+RandomHandCount: 320
+RandomDeckCount: 354
+	Passed
+RandomHandCount: 133
+RandomDeckCount: 193
+	Passed
+RandomHandCount: 326
+RandomDeckCount: 233
+	Passed
+RandomHandCount: 257
+RandomDeckCount: 423
+	Passed
+RandomHandCount: 418
+RandomDeckCount: 203
+	Passed
+RandomHandCount: 290
+RandomDeckCount: 462
+	Passed
+RandomHandCount: 487
+RandomDeckCount: 498
+	Passed
+RandomHandCount: 435
+RandomDeckCount: 87
+	Passed
+RandomHandCount: 81
+RandomDeckCount: 349
+	Passed
+RandomHandCount: 49
+RandomDeckCount: 486
+	Passed
+RandomHandCount: 114
+RandomDeckCount: 301
+	Passed
+RandomHandCount: 314
+RandomDeckCount: 274
+	Passed
+RandomHandCount: 471
+RandomDeckCount: 233
+	Passed
+RandomHandCount: 1
+RandomDeckCount: 447
+	Passed
+RandomHandCount: 90
+RandomDeckCount: 64
+	Passed
+
+
+here is happend->
+
+RandomHandCount: 0
+RandomDeckCount: 412
+	Passed
+RandomHandCount: 269
+RandomDeckCount: 135
+	Passed
+RandomHandCount: 104
+RandomDeckCount: 449
+	Passed
+RandomHandCount: 220
+RandomDeckCount: 216
+	Passed
+RandomHandCount: 372
+RandomDeckCount: 140
+	Passed
+RandomHandCount: 270
+RandomDeckCount: 16
+	Passed
+RandomHandCount: 453
+RandomDeckCount: 259
+	Passed
+RandomHandCount: 13
+RandomDeckCount: 242
+	Passed
+RandomHandCount: 197
+RandomDeckCount: 96
+	Passed
+RandomHandCount: 91
+RandomDeckCount: 249
+	Passed
+RandomHandCount: 434
+RandomDeckCount: 59
+	Passed
+RandomHandCount: 401
+RandomDeckCount: 250
+	Passed
+RandomHandCount: 332
+RandomDeckCount: 374
+	Passed
+RandomHandCount: 482
+RandomDeckCount: 187
+	Passed
+RandomHandCount: 320
+RandomDeckCount: 74
+	Passed
+RandomHandCount: 250
+RandomDeckCount: 322
+	Passed
+RandomHandCount: 486
+RandomDeckCount: 374
+	Passed
+RandomHandCount: 309
+RandomDeckCount: 444
+	Passed
+RandomHandCount: 322
+RandomDeckCount: 31
+	Passed
+RandomHandCount: 159
+RandomDeckCount: 196
+	Passed
+RandomHandCount: 22
+RandomDeckCount: 431
+	Passed
+RandomHandCount: 63
+RandomDeckCount: 330
+	Passed
+RandomHandCount: 42
+RandomDeckCount: 78
+	Passed
+RandomHandCount: 71
+RandomDeckCount: 241
+	Passed
+RandomHandCount: 26
+RandomDeckCount: 16
+	Passed
+RandomHandCount: 341
+RandomDeckCount: 314
+	Passed
+RandomHandCount: 426
+RandomDeckCount: 96
+	Passed
+RandomHandCount: 63
+RandomDeckCount: 260
+	Passed
+RandomHandCount: 469
+RandomDeckCount: 47
+	Passed
+RandomHandCount: 298
+RandomDeckCount: 291
+	Passed
+RandomHandCount: 473
+RandomDeckCount: 403
+	Passed
+RandomHandCount: 465
+RandomDeckCount: 313
+	Passed
+RandomHandCount: 276
+RandomDeckCount: 128
+	Passed
+RandomHandCount: 256
+RandomDeckCount: 100
+	Passed
+RandomHandCount: 158
+RandomDeckCount: 270
+	Passed
+RandomHandCount: 148
+RandomDeckCount: 34
+	Passed
+RandomHandCount: 52
+RandomDeckCount: 213
+	Passed
+RandomHandCount: 363
+RandomDeckCount: 96
+	Passed
+RandomHandCount: 143
+RandomDeckCount: 289
+	Passed
+RandomHandCount: 189
+RandomDeckCount: 23
+	Passed
+RandomHandCount: 304
+RandomDeckCount: 384
+	Passed
+RandomHandCount: 336
+RandomDeckCount: 233
+	Passed
+RandomHandCount: 480
+RandomDeckCount: 253
+	Passed
+RandomHandCount: 344
+RandomDeckCount: 451
+	Passed
+RandomHandCount: 151
+RandomDeckCount: 145
+	Passed
+RandomHandCount: 94
+RandomDeckCount: 126
+	Passed
+RandomHandCount: 47
+RandomDeckCount: 413
+	Passed
+RandomHandCount: 438
+RandomDeckCount: 177
+	Passed
+RandomHandCount: 40
+RandomDeckCount: 49
+	Passed
+RandomHandCount: 276
+RandomDeckCount: 52
+	Passed
+RandomHandCount: 318
+RandomDeckCount: 278
+	Passed
+RandomHandCount: 85
+RandomDeckCount: 224
+	Passed
+RandomHandCount: 491
+RandomDeckCount: 303
+	Passed
+RandomHandCount: 320
+RandomDeckCount: 488
+	Passed
+RandomHandCount: 91
+RandomDeckCount: 363
+	Passed
+RandomHandCount: 10
+RandomDeckCount: 249
+	Passed
+RandomHandCount: 246
+RandomDeckCount: 200
+	Passed
+RandomHandCount: 333
+RandomDeckCount: 228
+	Passed
+RandomHandCount: 452
+RandomDeckCount: 32
+	Passed
+RandomHandCount: 31
+RandomDeckCount: 105
+	Passed
+RandomHandCount: 28
+RandomDeckCount: 127
+	Passed
+RandomHandCount: 83
+RandomDeckCount: 429
+	Passed
+RandomHandCount: 391
+RandomDeckCount: 23
+	Passed
+RandomHandCount: 105
+RandomDeckCount: 433
+	Passed
+RandomHandCount: 423
+RandomDeckCount: 235
+	Passed
+RandomHandCount: 484
+RandomDeckCount: 95
+	Passed
+RandomHandCount: 13
+RandomDeckCount: 423
+	Passed
+RandomHandCount: 319
+RandomDeckCount: 6
+	Passed
+RandomHandCount: 225
+RandomDeckCount: 141
+	Passed
+RandomHandCount: 345
+RandomDeckCount: 170
+	Passed
+RandomHandCount: 355
+RandomDeckCount: 357
+	Passed
+RandomHandCount: 419
+RandomDeckCount: 103
+	Passed
+RandomHandCount: 56
+RandomDeckCount: 254
+	Passed
+RandomHandCount: 183
+RandomDeckCount: 362
+	Passed
+RandomHandCount: 137
+RandomDeckCount: 216
+	Passed
+RandomHandCount: 466
+RandomDeckCount: 167
+	Passed
+RandomHandCount: 194
+RandomDeckCount: 51
+	Passed
+RandomHandCount: 95
+RandomDeckCount: 87
+	Passed
+RandomHandCount: 426
+RandomDeckCount: 202
+	Passed
+RandomHandCount: 371
+RandomDeckCount: 351
+	Passed
+RandomHandCount: 437
+RandomDeckCount: 209
+	Passed
+RandomHandCount: 446
+RandomDeckCount: 304
+	Passed
+RandomHandCount: 483
+RandomDeckCount: 119
+	Passed
+RandomHandCount: 161
+RandomDeckCount: 211
+	Passed
+RandomHandCount: 259
+RandomDeckCount: 8
+	Passed
+RandomHandCount: 380
+RandomDeckCount: 468
+	Passed
+RandomHandCount: 364
+RandomDeckCount: 153
+	Passed
+RandomHandCount: 70
+RandomDeckCount: 274
+	Passed
+RandomHandCount: 259
+RandomDeckCount: 107
+	Passed
+RandomHandCount: 135
+RandomDeckCount: 398
+	Passed
+RandomHandCount: 322
+RandomDeckCount: 103
+	Passed
+RandomHandCount: 417
+RandomDeckCount: 370
+	Passed
+RandomHandCount: 6
+RandomDeckCount: 14
+	Passed
+RandomHandCount: 308
+RandomDeckCount: 434
+	Passed
+RandomHandCount: 68
+RandomDeckCount: 181
+	Passed
+RandomHandCount: 136
+RandomDeckCount: 359
+	Passed
+RandomHandCount: 241
+RandomDeckCount: 436
+	Passed
+RandomHandCount: 162
+RandomDeckCount: 227
+	Passed
+RandomHandCount: 54
+RandomDeckCount: 325
+	Passed
+RandomHandCount: 289
+RandomDeckCount: 167
+	Passed
+RandomHandCount: 332
+RandomDeckCount: 171
+	Passed
+RandomHandCount: 134
+RandomDeckCount: 198
+	Passed
+RandomHandCount: 176
+RandomDeckCount: 59
+	Passed
+RandomHandCount: 323
+RandomDeckCount: 437
+	Passed
+RandomHandCount: 165
+RandomDeckCount: 460
+	Passed
+RandomHandCount: 186
+RandomDeckCount: 490
+	Passed
+RandomHandCount: 414
+RandomDeckCount: 105
+	Passed
+RandomHandCount: 211
+RandomDeckCount: 422
+	Passed
+RandomHandCount: 119
+RandomDeckCount: 22
+	Passed
+RandomHandCount: 207
+RandomDeckCount: 41
+	Passed
+RandomHandCount: 54
+RandomDeckCount: 346
+	Passed
+RandomHandCount: 399
+RandomDeckCount: 298
+	Passed
+RandomHandCount: 281
+RandomDeckCount: 63
+	Passed
+RandomHandCount: 376
+RandomDeckCount: 190
+	Passed
+RandomHandCount: 387
+RandomDeckCount: 167
+	Passed
+RandomHandCount: 356
+RandomDeckCount: 221
+	Passed
+RandomHandCount: 189
+RandomDeckCount: 493
+	Passed
+RandomHandCount: 270
+RandomDeckCount: 367
+	Passed
+RandomHandCount: 51
+RandomDeckCount: 95
+	Passed
+RandomHandCount: 155
+RandomDeckCount: 70
+	Passed
+RandomHandCount: 406
+RandomDeckCount: 344
+	Passed
+RandomHandCount: 59
+RandomDeckCount: 322
+	Passed
+RandomHandCount: 300
+RandomDeckCount: 125
+	Passed
+RandomHandCount: 244
+RandomDeckCount: 273
+	Passed
+RandomHandCount: 146
+RandomDeckCount: 305
+	Passed
+RandomHandCount: 313
+RandomDeckCount: 54
+	Passed
+RandomHandCount: 150
+RandomDeckCount: 214
+	Passed
+RandomHandCount: 203
+RandomDeckCount: 286
+	Passed
+RandomHandCount: 276
+RandomDeckCount: 81
+	Passed
+RandomHandCount: 475
+RandomDeckCount: 17
+	Passed
+RandomHandCount: 247
+RandomDeckCount: 185
+	Passed
+RandomHandCount: 89
+RandomDeckCount: 291
+	Passed
+RandomHandCount: 29
+RandomDeckCount: 361
+	Passed
+RandomHandCount: 157
+RandomDeckCount: 434
+	Passed
+RandomHandCount: 307
+RandomDeckCount: 167
+	Passed
+RandomHandCount: 4
+RandomDeckCount: 215
+	Passed
+RandomHandCount: 10
+RandomDeckCount: 417
+	Passed
+RandomHandCount: 389
+RandomDeckCount: 312
+	Passed
+RandomHandCount: 41
+RandomDeckCount: 487
+	Passed
+RandomHandCount: 85
+RandomDeckCount: 41
+	Passed
+RandomHandCount: 291
+RandomDeckCount: 252
+	Passed
+RandomHandCount: 95
+RandomDeckCount: 296
+	Passed
+RandomHandCount: 466
+RandomDeckCount: 300
+	Passed
+RandomHandCount: 81
+RandomDeckCount: 96
+	Passed
+RandomHandCount: 233
+RandomDeckCount: 410
+	Passed
+RandomHandCount: 113
+RandomDeckCount: 334
+	Passed
+RandomHandCount: 446
+RandomDeckCount: 204
+	Passed
+RandomHandCount: 124
+RandomDeckCount: 478
+	Passed
+RandomHandCount: 417
+RandomDeckCount: 136
+	Passed
+RandomHandCount: 411
+RandomDeckCount: 226
+	Passed
+RandomHandCount: 302
+RandomDeckCount: 417
+	Passed
+RandomHandCount: 293
+RandomDeckCount: 166
+	Passed
+RandomHandCount: 334
+RandomDeckCount: 184
+	Passed
+RandomHandCount: 329
+RandomDeckCount: 377
+	Passed
+RandomHandCount: 170
+RandomDeckCount: 268
+	Passed
+RandomHandCount: 418
+RandomDeckCount: 463
+	Passed
+RandomHandCount: 20
+RandomDeckCount: 367
+	Passed
+RandomHandCount: 258
+RandomDeckCount: 488
+	Passed
+RandomHandCount: 18
+RandomDeckCount: 193
+	Passed
+RandomHandCount: 83
+RandomDeckCount: 105
+	Passed
+RandomHandCount: 454
+RandomDeckCount: 50
+	Passed
+RandomHandCount: 439
+RandomDeckCount: 403
+	Passed
+RandomHandCount: 254
+RandomDeckCount: 417
+	Passed
+RandomHandCount: 380
+RandomDeckCount: 25
+	Passed
+RandomHandCount: 52
+RandomDeckCount: 145
+	Passed
+RandomHandCount: 250
+RandomDeckCount: 208
+	Passed
+RandomHandCount: 62
+RandomDeckCount: 397
+	Passed
+RandomHandCount: 373
+RandomDeckCount: 398
+	Passed
+RandomHandCount: 80
+RandomDeckCount: 205
+	Passed
+RandomHandCount: 126
+RandomDeckCount: 104
+	Passed
+RandomHandCount: 472
+RandomDeckCount: 398
+	Passed
+RandomHandCount: 419
+RandomDeckCount: 494
+	Passed
+RandomHandCount: 116
+RandomDeckCount: 31
+	Passed
+RandomHandCount: 333
+RandomDeckCount: 137
+	Passed
+RandomHandCount: 76
+RandomDeckCount: 271
+	Passed
+RandomHandCount: 241
+RandomDeckCount: 32
+	Passed
+RandomHandCount: 320
+RandomDeckCount: 34
+	Passed
+RandomHandCount: 286
+RandomDeckCount: 428
+	Passed
+RandomHandCount: 451
+RandomDeckCount: 168
+	Passed
+RandomHandCount: 452
+RandomDeckCount: 357
+	Passed
+RandomHandCount: 313
+RandomDeckCount: 57
+	Passed
+RandomHandCount: 65
+RandomDeckCount: 229
+	Passed
+RandomHandCount: 453
+RandomDeckCount: 440
+	Passed
+RandomHandCount: 478
+RandomDeckCount: 388
+	Passed
+RandomHandCount: 496
+RandomDeckCount: 106
+	Passed
+RandomHandCount: 343
+RandomDeckCount: 323
+	Passed
+RandomHandCount: 356
+RandomDeckCount: 116
+	Passed
+RandomHandCount: 316
+RandomDeckCount: 474
+	Passed
+RandomHandCount: 147
+RandomDeckCount: 4
+	Passed
+RandomHandCount: 462
+RandomDeckCount: 225
+	Passed
+RandomHandCount: 274
+RandomDeckCount: 58
+	Passed
+RandomHandCount: 108
+RandomDeckCount: 448
+	Passed
+RandomHandCount: 91
+RandomDeckCount: 397
+	Passed
+RandomHandCount: 376
+RandomDeckCount: 44
+	Passed
+RandomHandCount: 416
+RandomDeckCount: 182
+	Passed
+RandomHandCount: 253
+RandomDeckCount: 83
+	Passed
+RandomHandCount: 90
+RandomDeckCount: 320
+	Passed
+RandomHandCount: 311
+RandomDeckCount: 46
+	Passed
+RandomHandCount: 111
+RandomDeckCount: 291
+	Passed
+RandomHandCount: 285
+RandomDeckCount: 110
+	Passed
+RandomHandCount: 249
+RandomDeckCount: 482
+	Passed
+RandomHandCount: 432
+RandomDeckCount: 459
+	Passed
+RandomHandCount: 98
+RandomDeckCount: 102
+	Passed
+RandomHandCount: 432
+RandomDeckCount: 247
+	Passed
+RandomHandCount: 457
+RandomDeckCount: 397
+	Passed
+RandomHandCount: 323
+RandomDeckCount: 233
+	Passed
+RandomHandCount: 454
+RandomDeckCount: 285
+	Passed
+RandomHandCount: 33
+RandomDeckCount: 399
+	Passed
+RandomHandCount: 181
+RandomDeckCount: 263
+	Passed
+RandomHandCount: 295
+RandomDeckCount: 100
+	Passed
+RandomHandCount: 444
+RandomDeckCount: 50
+	Passed
+RandomHandCount: 34
+RandomDeckCount: 37
+	Passed
+RandomHandCount: 221
+RandomDeckCount: 348
+	Passed
+RandomHandCount: 434
+RandomDeckCount: 334
+	Passed
+RandomHandCount: 490
+RandomDeckCount: 73
+	Passed
+RandomHandCount: 295
+RandomDeckCount: 93
+	Passed
+RandomHandCount: 54
+RandomDeckCount: 81
+	Passed
+RandomHandCount: 51
+RandomDeckCount: 6
+	Passed
+RandomHandCount: 183
+RandomDeckCount: 486
+	Passed
+RandomHandCount: 104
+RandomDeckCount: 494
+	Passed
+RandomHandCount: 234
+RandomDeckCount: 429
+	Passed
+RandomHandCount: 227
+RandomDeckCount: 42
+	Passed
+RandomHandCount: 214
+RandomDeckCount: 114
+	Passed
+RandomHandCount: 440
+RandomDeckCount: 249
+	Passed
+RandomHandCount: 376
+RandomDeckCount: 89
+	Passed
+RandomHandCount: 200
+RandomDeckCount: 174
+	Passed
+RandomHandCount: 138
+RandomDeckCount: 237
+	Passed
+RandomHandCount: 62
+RandomDeckCount: 361
+	Passed
+RandomHandCount: 436
+RandomDeckCount: 498
+	Passed
+RandomHandCount: 47
+RandomDeckCount: 428
+	Passed
+RandomHandCount: 422
+RandomDeckCount: 344
+	Passed
+RandomHandCount: 21
+RandomDeckCount: 331
+	Passed
+RandomHandCount: 425
+RandomDeckCount: 74
+	Passed
+RandomHandCount: 336
+RandomDeckCount: 462
+	Passed
+RandomHandCount: 411
+RandomDeckCount: 443
+	Passed
+RandomHandCount: 455
+RandomDeckCount: 499
+	Passed
+RandomHandCount: 223
+RandomDeckCount: 36
+	Passed
+RandomHandCount: 40
+RandomDeckCount: 291
+	Passed
+RandomHandCount: 149
+RandomDeckCount: 335
+	Passed
+RandomHandCount: 40
+RandomDeckCount: 379
+	Passed
+RandomHandCount: 423
+RandomDeckCount: 94
+	Passed
+RandomHandCount: 53
+RandomDeckCount: 416
+	Passed
+RandomHandCount: 330
+RandomDeckCount: 117
+	Passed
+RandomHandCount: 276
+RandomDeckCount: 268
+	Passed
+RandomHandCount: 467
+RandomDeckCount: 325
+	Passed
+RandomHandCount: 48
+RandomDeckCount: 391
+	Passed
+RandomHandCount: 21
+RandomDeckCount: 71
+	Passed
+RandomHandCount: 73
+RandomDeckCount: 448
+	Passed
+RandomHandCount: 496
+RandomDeckCount: 412
+	Passed
+RandomHandCount: 261
+RandomDeckCount: 262
+	Passed
+RandomHandCount: 206
+RandomDeckCount: 70
+	Passed
+RandomHandCount: 260
+RandomDeckCount: 283
+	Passed
+RandomHandCount: 106
+RandomDeckCount: 155
+	Passed
+RandomHandCount: 74
+RandomDeckCount: 109
+	Passed
+RandomHandCount: 489
+RandomDeckCount: 468
+	Passed
+RandomHandCount: 340
+RandomDeckCount: 266
+	Passed
+RandomHandCount: 61
+RandomDeckCount: 395
+	Passed
+RandomHandCount: 181
+RandomDeckCount: 394
+	Passed
+RandomHandCount: 11
+RandomDeckCount: 460
+	Passed
+RandomHandCount: 13
+RandomDeckCount: 332
+	Passed
+RandomHandCount: 136
+RandomDeckCount: 63
+	Passed
+RandomHandCount: 223
+RandomDeckCount: 159
+	Passed
+RandomHandCount: 485
+RandomDeckCount: 298
+	Passed
+RandomHandCount: 458
+RandomDeckCount: 484
+	Passed
+RandomHandCount: 61
+RandomDeckCount: 73
+	Passed
+RandomHandCount: 245
+RandomDeckCount: 121
+	Passed
+RandomHandCount: 143
+RandomDeckCount: 359
+	Passed
+RandomHandCount: 404
+RandomDeckCount: 103
+	Passed
+RandomHandCount: 13
+RandomDeckCount: 332
+	Passed
+RandomHandCount: 211
+RandomDeckCount: 356
+	Passed
+RandomHandCount: 299
+RandomDeckCount: 53
+	Passed
+RandomHandCount: 122
+RandomDeckCount: 214
+	Passed
+RandomHandCount: 299
+RandomDeckCount: 157
+	Passed
+RandomHandCount: 107
+RandomDeckCount: 165
+	Passed
+RandomHandCount: 468
+RandomDeckCount: 475
+	Passed
+RandomHandCount: 496
+RandomDeckCount: 107
+	Passed
+RandomHandCount: 37
+RandomDeckCount: 73
+	Passed
+RandomHandCount: 117
+RandomDeckCount: 25
+	Passed
+RandomHandCount: 371
+RandomDeckCount: 430
+	Passed
+RandomHandCount: 360
+RandomDeckCount: 286
+	Passed
+RandomHandCount: 2
+RandomDeckCount: 459
+	Passed
+RandomHandCount: 407
+RandomDeckCount: 147
+	Passed
+RandomHandCount: 317
+RandomDeckCount: 165
+	Passed
+RandomHandCount: 249
+RandomDeckCount: 185
+	Passed
+RandomHandCount: 496
+RandomDeckCount: 315
+	Passed
+RandomHandCount: 40
+RandomDeckCount: 297
+	Passed
+RandomHandCount: 219
+RandomDeckCount: 16
+	Passed
+RandomHandCount: 10
+RandomDeckCount: 21
+	Passed
+RandomHandCount: 173
+RandomDeckCount: 472
+	Passed
+RandomHandCount: 37
+RandomDeckCount: 143
+	Passed
+RandomHandCount: 446
+RandomDeckCount: 35
+	Passed
+RandomHandCount: 249
+RandomDeckCount: 337
+	Passed
+RandomHandCount: 108
+RandomDeckCount: 221
+	Passed
+RandomHandCount: 213
+RandomDeckCount: 333
+	Passed
+RandomHandCount: 150
+RandomDeckCount: 75
+	Passed
+RandomHandCount: 118
+RandomDeckCount: 154
+	Passed
+RandomHandCount: 33
+RandomDeckCount: 379
+	Passed
+RandomHandCount: 301
+RandomDeckCount: 205
+	Passed
+RandomHandCount: 43
+RandomDeckCount: 404
+	Passed
+RandomHandCount: 389
+RandomDeckCount: 41
+	Passed
+RandomHandCount: 70
+RandomDeckCount: 431
+	Passed
+RandomHandCount: 189
+RandomDeckCount: 292
+	Passed
+RandomHandCount: 299
+RandomDeckCount: 202
+	Passed
+RandomHandCount: 164
+RandomDeckCount: 474
+	Passed
+RandomHandCount: 25
+RandomDeckCount: 203
+	Passed
+RandomHandCount: 116
+RandomDeckCount: 325
+	Passed
+RandomHandCount: 89
+RandomDeckCount: 220
+	Passed
+RandomHandCount: 13
+RandomDeckCount: 199
+	Passed
+RandomHandCount: 440
+RandomDeckCount: 229
+	Passed
+RandomHandCount: 31
+RandomDeckCount: 444
+	Passed
+RandomHandCount: 303
+RandomDeckCount: 4
+	Passed
+RandomHandCount: 449
+RandomDeckCount: 191
+	Passed
+RandomHandCount: 382
+RandomDeckCount: 104
+	Passed
+RandomHandCount: 247
+RandomDeckCount: 428
+	Passed
+RandomHandCount: 8
+RandomDeckCount: 138
+	Passed
+RandomHandCount: 320
+RandomDeckCount: 80
+	Passed
+RandomHandCount: 420
+RandomDeckCount: 12
+	Passed
+RandomHandCount: 223
+RandomDeckCount: 221
+	Passed
+RandomHandCount: 65
+RandomDeckCount: 389
+	Passed
+RandomHandCount: 46
+RandomDeckCount: 92
+	Passed
+RandomHandCount: 443
+RandomDeckCount: 165
+	Passed
+RandomHandCount: 268
+RandomDeckCount: 35
+	Passed
+RandomHandCount: 236
+RandomDeckCount: 283
+	Passed
+RandomHandCount: 85
+RandomDeckCount: 30
+	Passed
+RandomHandCount: 11
+RandomDeckCount: 119
+	Passed
+RandomHandCount: 473
+RandomDeckCount: 169
+	Passed
+RandomHandCount: 122
+RandomDeckCount: 424
+	Passed
+RandomHandCount: 211
+RandomDeckCount: 358
+	Passed
+RandomHandCount: 28
+RandomDeckCount: 460
+	Passed
+RandomHandCount: 137
+RandomDeckCount: 390
+	Passed
+RandomHandCount: 449
+RandomDeckCount: 460
+	Passed
+RandomHandCount: 321
+RandomDeckCount: 223
+	Passed
+RandomHandCount: 471
+RandomDeckCount: 47
+	Passed
+RandomHandCount: 296
+RandomDeckCount: 38
+	Passed
+RandomHandCount: 287
+RandomDeckCount: 344
+	Passed
+RandomHandCount: 481
+RandomDeckCount: 85
+	Passed
+RandomHandCount: 360
+RandomDeckCount: 251
+	Passed
+RandomHandCount: 119
+RandomDeckCount: 98
+	Passed
+RandomHandCount: 33
+RandomDeckCount: 206
+	Passed
+RandomHandCount: 479
+RandomDeckCount: 399
+	Passed
+RandomHandCount: 176
+RandomDeckCount: 454
+	Passed
+RandomHandCount: 67
+RandomDeckCount: 152
+	Passed
+RandomHandCount: 230
+RandomDeckCount: 132
+	Passed
+RandomHandCount: 10
+RandomDeckCount: 112
+	Passed
+RandomHandCount: 91
+RandomDeckCount: 149
+	Passed
+RandomHandCount: 353
+RandomDeckCount: 394
+	Passed
+RandomHandCount: 108
+RandomDeckCount: 176
+	Passed
+RandomHandCount: 116
+RandomDeckCount: 433
+	Passed
+RandomHandCount: 74
+RandomDeckCount: 414
+	Passed
+RandomHandCount: 470
+RandomDeckCount: 216
+	Passed
+RandomHandCount: 110
+RandomDeckCount: 305
+	Passed
+RandomHandCount: 300
+RandomDeckCount: 472
+	Passed
+RandomHandCount: 55
+RandomDeckCount: 273
+	Passed
+RandomHandCount: 422
+RandomDeckCount: 443
+	Passed
+RandomHandCount: 330
+RandomDeckCount: 403
+	Passed
+RandomHandCount: 341
+RandomDeckCount: 361
+	Passed
+RandomHandCount: 209
+RandomDeckCount: 262
+	Passed
+RandomHandCount: 12
+RandomDeckCount: 293
+	Passed
+RandomHandCount: 393
+RandomDeckCount: 376
+	Passed
+RandomHandCount: 404
+RandomDeckCount: 486
+	Passed
+RandomHandCount: 377
+RandomDeckCount: 111
+	Passed
+RandomHandCount: 379
+RandomDeckCount: 487
+	Passed
+RandomHandCount: 138
+RandomDeckCount: 349
+	Passed
+RandomHandCount: 272
+RandomDeckCount: 215
+	Passed
+RandomHandCount: 263
+RandomDeckCount: 244
+	Passed
+RandomHandCount: 430
+RandomDeckCount: 375
+	Passed
+RandomHandCount: 49
+RandomDeckCount: 84
+	Passed
+RandomHandCount: 198
+RandomDeckCount: 458
+	Passed
+RandomHandCount: 356
+RandomDeckCount: 122
+	Passed
+RandomHandCount: 400
+RandomDeckCount: 40
+	Passed
+RandomHandCount: 25
+RandomDeckCount: 243
+	Passed
+RandomHandCount: 400
+RandomDeckCount: 236
+	Passed
+RandomHandCount: 356
+RandomDeckCount: 415
+	Passed
+RandomHandCount: 380
+RandomDeckCount: 251
+	Passed
+RandomHandCount: 142
+RandomDeckCount: 286
+	Passed
+RandomHandCount: 236
+RandomDeckCount: 21
+	Passed
+RandomHandCount: 248
+RandomDeckCount: 469
+	Passed
+RandomHandCount: 360
+RandomDeckCount: 388
+	Passed
+RandomHandCount: 318
+RandomDeckCount: 134
+	Passed
+RandomHandCount: 102
+RandomDeckCount: 435
+	Passed
+RandomHandCount: 229
+RandomDeckCount: 386
+	Passed
+RandomHandCount: 161
+RandomDeckCount: 132
+	Passed
+RandomHandCount: 469
+RandomDeckCount: 361
+	Passed
+RandomHandCount: 90
+RandomDeckCount: 179
+	Passed
+RandomHandCount: 483
+RandomDeckCount: 344
+	Passed
+RandomHandCount: 219
+RandomDeckCount: 362
+	Passed
+RandomHandCount: 87
+RandomDeckCount: 121
+	Passed
+RandomHandCount: 449
+RandomDeckCount: 445
+	Passed
+RandomHandCount: 387
+RandomDeckCount: 331
+	Passed
+RandomHandCount: 48
+RandomDeckCount: 32
+	Passed
+RandomHandCount: 468
+RandomDeckCount: 286
+	Passed
+RandomHandCount: 52
+RandomDeckCount: 218
+	Passed
+RandomHandCount: 107
+RandomDeckCount: 414
+	Passed
+RandomHandCount: 457
+RandomDeckCount: 279
+	Passed
+RandomHandCount: 399
+RandomDeckCount: 62
+	Passed
+RandomHandCount: 65
+RandomDeckCount: 131
+	Passed
+RandomHandCount: 299
+RandomDeckCount: 228
+	Passed
+RandomHandCount: 262
+RandomDeckCount: 123
+	Passed
+RandomHandCount: 440
+RandomDeckCount: 354
+	Passed
+RandomHandCount: 301
+RandomDeckCount: 277
+	Passed
+RandomHandCount: 198
+RandomDeckCount: 374
+	Passed
+RandomHandCount: 138
+RandomDeckCount: 139
+	Passed
+RandomHandCount: 347
+RandomDeckCount: 441
+	Passed
+RandomHandCount: 435
+RandomDeckCount: 236
+	Passed
+RandomHandCount: 271
+RandomDeckCount: 485
+	Passed
+RandomHandCount: 119
+RandomDeckCount: 93
+	Passed
+RandomHandCount: 123
+RandomDeckCount: 26
+	Passed
+RandomHandCount: 162
+RandomDeckCount: 84
+	Passed
+RandomHandCount: 291
+RandomDeckCount: 122
+	Passed
+RandomHandCount: 214
+RandomDeckCount: 193
+	Passed
+RandomHandCount: 35
+RandomDeckCount: 281
+	Passed
+RandomHandCount: 323
+RandomDeckCount: 336
+	Passed
+RandomHandCount: 8
+RandomDeckCount: 439
+	Passed
+RandomHandCount: 458
+RandomDeckCount: 450
+	Passed
+RandomHandCount: 145
+RandomDeckCount: 114
+	Passed
+RandomHandCount: 227
+RandomDeckCount: 197
+	Passed
+RandomHandCount: 487
+RandomDeckCount: 219
+	Passed
+RandomHandCount: 187
+RandomDeckCount: 336
+	Passed
+RandomHandCount: 160
+RandomDeckCount: 124
+	Passed
+RandomHandCount: 424
+RandomDeckCount: 285
+	Passed
+RandomHandCount: 461
+RandomDeckCount: 397
+	Passed
+RandomHandCount: 378
+RandomDeckCount: 438
+	Passed
+RandomHandCount: 422
+RandomDeckCount: 42
+	Passed
+RandomHandCount: 373
+RandomDeckCount: 68
+	Passed
+RandomHandCount: 15
+RandomDeckCount: 89
+	Passed
+RandomHandCount: 260
+RandomDeckCount: 52
+	Passed
+RandomHandCount: 369
+RandomDeckCount: 437
+	Passed
+RandomHandCount: 240
+RandomDeckCount: 231
+	Passed
+RandomHandCount: 227
+RandomDeckCount: 200
+	Passed
+RandomHandCount: 180
+RandomDeckCount: 374
+	Passed
+RandomHandCount: 165
+RandomDeckCount: 261
+	Passed
+RandomHandCount: 70
+RandomDeckCount: 155
+	Passed
+RandomHandCount: 332
+RandomDeckCount: 259
+	Passed
+RandomHandCount: 342
+RandomDeckCount: 346
+	Passed
+RandomHandCount: 235
+RandomDeckCount: 120
+	Passed
+RandomHandCount: 130
+RandomDeckCount: 50
+	Passed
+RandomHandCount: 17
+RandomDeckCount: 362
+	Passed
+RandomHandCount: 339
+RandomDeckCount: 441
+	Passed
+RandomHandCount: 256
+RandomDeckCount: 214
+	Passed
+RandomHandCount: 8
+RandomDeckCount: 273
+	Passed
+RandomHandCount: 302
+RandomDeckCount: 122
+	Passed
+RandomHandCount: 325
+RandomDeckCount: 25
+	Passed
+RandomHandCount: 410
+RandomDeckCount: 67
+	Passed
+RandomHandCount: 255
+RandomDeckCount: 140
+	Passed
+RandomHandCount: 118
+RandomDeckCount: 289
+	Passed
+RandomHandCount: 13
+RandomDeckCount: 138
+	Passed
+RandomHandCount: 50
+RandomDeckCount: 438
+	Passed
+RandomHandCount: 144
+RandomDeckCount: 236
+	Passed
+RandomHandCount: 48
+RandomDeckCount: 488
+	Passed
+RandomHandCount: 81
+RandomDeckCount: 137
+	Passed
+RandomHandCount: 108
+RandomDeckCount: 65
+	Passed
+RandomHandCount: 186
+RandomDeckCount: 479
+	Passed
+RandomHandCount: 427
+RandomDeckCount: 379
+	Passed
+RandomHandCount: 271
+RandomDeckCount: 37
+	Passed
+RandomHandCount: 92
+RandomDeckCount: 282
+	Passed
+RandomHandCount: 309
+RandomDeckCount: 248
+	Passed
+RandomHandCount: 255
+RandomDeckCount: 488
+	Passed
+RandomHandCount: 272
+RandomDeckCount: 168
+	Passed
+RandomHandCount: 406
+RandomDeckCount: 29
+	Passed
+RandomHandCount: 307
+RandomDeckCount: 379
+	Passed
+RandomHandCount: 318
+RandomDeckCount: 174
+	Passed
+RandomHandCount: 16
+RandomDeckCount: 222
+	Passed
+RandomHandCount: 111
+RandomDeckCount: 162
+	Passed
+RandomHandCount: 457
+RandomDeckCount: 14
+	Passed
+RandomHandCount: 1
+RandomDeckCount: 392
+	Passed
+RandomHandCount: 150
+RandomDeckCount: 463
+	Passed
+RandomHandCount: 456
+RandomDeckCount: 191
+	Passed
+RandomHandCount: 441
+RandomDeckCount: 237
+	Passed
+RandomHandCount: 69
+RandomDeckCount: 215
+	Passed
+RandomHandCount: 273
+RandomDeckCount: 16
+	Passed
+RandomHandCount: 348
+RandomDeckCount: 437
+	Passed
+RandomHandCount: 263
+RandomDeckCount: 105
+	Passed
+RandomHandCount: 276
+RandomDeckCount: 390
+	Passed
+RandomHandCount: 124
+RandomDeckCount: 185
+	Passed
+RandomHandCount: 418
+RandomDeckCount: 285
+	Passed
+RandomHandCount: 415
+RandomDeckCount: 90
+	Passed
+RandomHandCount: 459
+RandomDeckCount: 433
+	Passed
+RandomHandCount: 311
+RandomDeckCount: 424
+	Passed
+RandomHandCount: 446
+RandomDeckCount: 122
+	Passed
+RandomHandCount: 437
+RandomDeckCount: 449
+	Passed
+RandomHandCount: 13
+RandomDeckCount: 90
+	Passed
+RandomHandCount: 412
+RandomDeckCount: 324
+	Passed
+RandomHandCount: 280
+RandomDeckCount: 207
+	Passed
+RandomHandCount: 412
+RandomDeckCount: 203
+	Passed
+RandomHandCount: 421
+RandomDeckCount: 40
+	Passed
+RandomHandCount: 218
+RandomDeckCount: 123
+	Passed
+RandomHandCount: 476
+RandomDeckCount: 336
+	Passed
+RandomHandCount: 228
+RandomDeckCount: 106
+	Passed
+RandomHandCount: 225
+RandomDeckCount: 206
+	Passed
+RandomHandCount: 142
+RandomDeckCount: 497
+	Passed
+RandomHandCount: 491
+RandomDeckCount: 59
+	Passed
+RandomHandCount: 87
+RandomDeckCount: 452
+	Passed
+RandomHandCount: 491
+RandomDeckCount: 252
+	Passed
+RandomHandCount: 227
+RandomDeckCount: 439
+	Passed
+RandomHandCount: 374
+RandomDeckCount: 167
+	Passed
+RandomHandCount: 240
+RandomDeckCount: 241
+	Passed
+RandomHandCount: 108
+RandomDeckCount: 154
+	Passed
+RandomHandCount: 416
+RandomDeckCount: 242
+	Passed
+RandomHandCount: 360
+RandomDeckCount: 331
+	Passed
+RandomHandCount: 444
+RandomDeckCount: 136
+	Passed
+RandomHandCount: 370
+RandomDeckCount: 17
+	Passed
+RandomHandCount: 258
+RandomDeckCount: 200
+	Passed
+RandomHandCount: 204
+RandomDeckCount: 340
+	Passed
+RandomHandCount: 305
+RandomDeckCount: 431
+	Passed
+RandomHandCount: 46
+RandomDeckCount: 302
+	Passed
+RandomHandCount: 279
+RandomDeckCount: 39
+	Passed
+RandomHandCount: 360
+RandomDeckCount: 368
+	Passed
+RandomHandCount: 342
+RandomDeckCount: 206
+	Passed
+RandomHandCount: 472
+RandomDeckCount: 71
+	Passed
+RandomHandCount: 496
+RandomDeckCount: 348
+	Passed
+RandomHandCount: 237
+RandomDeckCount: 238
+	Passed
+RandomHandCount: 440
+RandomDeckCount: 347
+	Passed
+RandomHandCount: 243
+RandomDeckCount: 359
+	Passed
+RandomHandCount: 88
+RandomDeckCount: 458
+	Passed
+RandomHandCount: 189
+RandomDeckCount: 387
+	Passed
+RandomHandCount: 93
+RandomDeckCount: 61
+	Passed
+RandomHandCount: 403
+RandomDeckCount: 205
+	Passed
+RandomHandCount: 112
+RandomDeckCount: 461
+	Passed
+RandomHandCount: 45
+RandomDeckCount: 271
+	Passed
+RandomHandCount: 391
+RandomDeckCount: 93
+	Passed
+RandomHandCount: 72
+RandomDeckCount: 24
+	Passed
+RandomHandCount: 483
+RandomDeckCount: 435
+	Passed
+RandomHandCount: 392
+RandomDeckCount: 179
+	Passed
+RandomHandCount: 140
+RandomDeckCount: 218
+	Passed
+RandomHandCount: 249
+RandomDeckCount: 490
+	Passed
+RandomHandCount: 65
+RandomDeckCount: 341
+	Passed
+RandomHandCount: 228
+RandomDeckCount: 7
+	Passed
+RandomHandCount: 39
+RandomDeckCount: 325
+	Passed
+RandomHandCount: 217
+RandomDeckCount: 482
+	Passed
+RandomHandCount: 282
+RandomDeckCount: 408
+	Passed
+RandomHandCount: 368
+RandomDeckCount: 377
+	Passed
+RandomHandCount: 320
+RandomDeckCount: 125
+	Passed
+RandomHandCount: 434
+RandomDeckCount: 434
+	Passed
+RandomHandCount: 85
+RandomDeckCount: 481
+	Passed
+RandomHandCount: 57
+RandomDeckCount: 330
+	Passed
+RandomHandCount: 425
+RandomDeckCount: 131
+	Passed
+RandomHandCount: 353
+RandomDeckCount: 262
+	Passed
+RandomHandCount: 65
+RandomDeckCount: 99
+	Passed
+RandomHandCount: 440
+RandomDeckCount: 59
+	Passed
+RandomHandCount: 316
+RandomDeckCount: 43
+	Passed
+RandomHandCount: 401
+RandomDeckCount: 235
+	Passed
+RandomHandCount: 383
+RandomDeckCount: 131
+	Passed
+RandomHandCount: 94
+RandomDeckCount: 277
+	Passed
+RandomHandCount: 455
+RandomDeckCount: 313
+	Passed
+RandomHandCount: 258
+RandomDeckCount: 92
+	Passed
+RandomHandCount: 73
+RandomDeckCount: 480
+	Passed
+RandomHandCount: 320
+RandomDeckCount: 247
+	Passed
+RandomHandCount: 456
+RandomDeckCount: 256
+	Passed
+RandomHandCount: 33
+RandomDeckCount: 395
+	Passed
+RandomHandCount: 236
+RandomDeckCount: 92
+	Passed
+RandomHandCount: 76
+RandomDeckCount: 15
+	Passed
+RandomHandCount: 222
+RandomDeckCount: 283
+	Passed
+RandomHandCount: 276
+RandomDeckCount: 142
+	Passed
+RandomHandCount: 234
+RandomDeckCount: 70
+	Passed
+RandomHandCount: 52
+RandomDeckCount: 52
+	Passed
+RandomHandCount: 113
+RandomDeckCount: 455
+	Passed
+RandomHandCount: 139
+RandomDeckCount: 498
+	Passed
+RandomHandCount: 85
+RandomDeckCount: 87
+	Passed
+RandomHandCount: 126
+RandomDeckCount: 395
+	Passed
+RandomHandCount: 251
+RandomDeckCount: 386
+	Passed
+RandomHandCount: 338
+RandomDeckCount: 326
+	Passed
+RandomHandCount: 217
+RandomDeckCount: 160
+	Passed
+RandomHandCount: 73
+RandomDeckCount: 27
+	Passed
+RandomHandCount: 416
+RandomDeckCount: 108
+	Passed
+RandomHandCount: 421
+RandomDeckCount: 6
+	Passed
+RandomHandCount: 51
+RandomDeckCount: 351
+	Passed
+RandomHandCount: 21
+RandomDeckCount: 275
+	Passed
+RandomHandCount: 134
+RandomDeckCount: 151
+	Passed
+RandomHandCount: 268
+RandomDeckCount: 370
+	Passed
+RandomHandCount: 221
+RandomDeckCount: 323
+	Passed
+RandomHandCount: 273
+RandomDeckCount: 336
+	Passed
+RandomHandCount: 277
+RandomDeckCount: 414
+	Passed
+RandomHandCount: 185
+RandomDeckCount: 217
+	Passed
+RandomHandCount: 352
+RandomDeckCount: 314
+	Passed
+RandomHandCount: 463
+RandomDeckCount: 106
+	Passed
+RandomHandCount: 51
+RandomDeckCount: 303
+	Passed
+RandomHandCount: 283
+RandomDeckCount: 271
+	Passed
+RandomHandCount: 462
+RandomDeckCount: 358
+	Passed
+RandomHandCount: 149
+RandomDeckCount: 232
+	Passed
+RandomHandCount: 317
+RandomDeckCount: 73
+	Passed
+RandomHandCount: 238
+RandomDeckCount: 370
+	Passed
+RandomHandCount: 423
+RandomDeckCount: 113
+	Passed
+RandomHandCount: 497
+RandomDeckCount: 411
+	Passed
+RandomHandCount: 263
+RandomDeckCount: 267
+	Passed
+RandomHandCount: 280
+RandomDeckCount: 338
+	Passed
+RandomHandCount: 441
+RandomDeckCount: 56
+	Passed
+RandomHandCount: 173
+RandomDeckCount: 221
+	Passed
+RandomHandCount: 321
+RandomDeckCount: 213
+	Passed
+RandomHandCount: 289
+RandomDeckCount: 28
+	Passed
+RandomHandCount: 26
+RandomDeckCount: 106
+	Passed
+RandomHandCount: 133
+RandomDeckCount: 431
+	Passed
+RandomHandCount: 408
+RandomDeckCount: 418
+	Passed
+RandomHandCount: 53
+RandomDeckCount: 224
+	Passed
+RandomHandCount: 128
+RandomDeckCount: 205
+	Passed
+RandomHandCount: 456
+RandomDeckCount: 299
+	Passed
+RandomHandCount: 277
+RandomDeckCount: 196
+	Passed
+RandomHandCount: 21
+RandomDeckCount: 54
+	Passed
+RandomHandCount: 308
+RandomDeckCount: 20
+	Passed
+RandomHandCount: 465
+RandomDeckCount: 425
+	Passed
+RandomHandCount: 138
+RandomDeckCount: 99
+	Passed
+RandomHandCount: 263
+RandomDeckCount: 82
+	Passed
+RandomHandCount: 6
+RandomDeckCount: 290
+	Passed
+RandomHandCount: 154
+RandomDeckCount: 330
+	Passed
+RandomHandCount: 2
+RandomDeckCount: 297
+	Passed
+RandomHandCount: 357
+RandomDeckCount: 382
+	Passed
+RandomHandCount: 402
+RandomDeckCount: 344
+	Passed
+RandomHandCount: 165
+RandomDeckCount: 312
+	Passed
+RandomHandCount: 261
+RandomDeckCount: 220
+	Passed
+RandomHandCount: 387
+RandomDeckCount: 243
+	Passed
+RandomHandCount: 424
+RandomDeckCount: 345
+	Passed
+RandomHandCount: 42
+RandomDeckCount: 55
+	Passed
+RandomHandCount: 392
+RandomDeckCount: 65
+	Passed
+RandomHandCount: 461
+RandomDeckCount: 54
+	Passed
+RandomHandCount: 436
+RandomDeckCount: 280
+	Passed
+RandomHandCount: 479
+RandomDeckCount: 76
+	Passed
+RandomHandCount: 378
+RandomDeckCount: 96
+	Passed
+RandomHandCount: 9
+RandomDeckCount: 387
+	Passed
+RandomHandCount: 385
+RandomDeckCount: 17
+	Passed
+RandomHandCount: 68
+RandomDeckCount: 242
+	Passed
+RandomHandCount: 165
+RandomDeckCount: 279
+	Passed
+RandomHandCount: 475
+RandomDeckCount: 69
+	Passed
+RandomHandCount: 122
+RandomDeckCount: 142
+	Passed
+RandomHandCount: 232
+RandomDeckCount: 237
+	Passed
+RandomHandCount: 362
+RandomDeckCount: 122
+	Passed
+RandomHandCount: 480
+RandomDeckCount: 140
+	Passed
+RandomHandCount: 318
+RandomDeckCount: 24
+	Passed
+RandomHandCount: 47
+RandomDeckCount: 213
+	Passed
+RandomHandCount: 440
+RandomDeckCount: 10
+	Passed
+RandomHandCount: 266
+RandomDeckCount: 378
+	Passed
+RandomHandCount: 289
+RandomDeckCount: 99
+	Passed
+RandomHandCount: 305
+RandomDeckCount: 21
+	Passed
+RandomHandCount: 46
+RandomDeckCount: 169
+	Passed
+RandomHandCount: 407
+RandomDeckCount: 286
+	Passed
+RandomHandCount: 37
+RandomDeckCount: 477
+	Passed
+RandomHandCount: 27
+RandomDeckCount: 205
+	Passed
+RandomHandCount: 255
+RandomDeckCount: 356
+	Passed
+RandomHandCount: 125
+RandomDeckCount: 231
+	Passed
+RandomHandCount: 498
+RandomDeckCount: 360
+	Passed
+RandomHandCount: 468
+RandomDeckCount: 214
+	Passed
+RandomHandCount: 333
+RandomDeckCount: 450
+	Passed
+RandomHandCount: 353
+RandomDeckCount: 153
+	Passed
+RandomHandCount: 325
+RandomDeckCount: 402
+	Passed
+RandomHandCount: 217
+RandomDeckCount: 267
+	Passed
+RandomHandCount: 263
+RandomDeckCount: 486
+	Passed
+RandomHandCount: 144
+RandomDeckCount: 406
+	Passed
+RandomHandCount: 436
+RandomDeckCount: 451
+	Passed
+RandomHandCount: 427
+RandomDeckCount: 485
+	Passed
+RandomHandCount: 471
+RandomDeckCount: 188
+	Passed
+RandomHandCount: 270
+RandomDeckCount: 11
+	Passed
+RandomHandCount: 17
+RandomDeckCount: 151
+	Passed
+RandomHandCount: 215
+RandomDeckCount: 126
+	Passed
+RandomHandCount: 6
+RandomDeckCount: 342
+	Passed
+RandomHandCount: 357
+RandomDeckCount: 6
+	Passed
+RandomHandCount: 53
+RandomDeckCount: 179
+	Passed
+RandomHandCount: 219
+RandomDeckCount: 388
+	Passed
+RandomHandCount: 128
+RandomDeckCount: 427
+	Passed
+RandomHandCount: 393
+RandomDeckCount: 307
+	Passed
+RandomHandCount: 180
+RandomDeckCount: 112
+	Passed
+RandomHandCount: 73
+RandomDeckCount: 298
+	Passed
+RandomHandCount: 449
+RandomDeckCount: 71
+	Passed
+RandomHandCount: 203
+RandomDeckCount: 240
+	Passed
+RandomHandCount: 21
+RandomDeckCount: 484
+	Passed
+RandomHandCount: 224
+RandomDeckCount: 347
+	Passed
+RandomHandCount: 172
+RandomDeckCount: 348
+	Passed
+RandomHandCount: 357
+RandomDeckCount: 191
+	Passed
+RandomHandCount: 498
+RandomDeckCount: 74
+	Passed
+RandomHandCount: 168
+RandomDeckCount: 6
+	Passed
+RandomHandCount: 415
+RandomDeckCount: 27
+	Passed
+RandomHandCount: 364
+RandomDeckCount: 323
+	Passed
+RandomHandCount: 205
+RandomDeckCount: 437
+	Passed
+RandomHandCount: 210
+RandomDeckCount: 187
+	Passed
+RandomHandCount: 215
+RandomDeckCount: 105
+	Passed
+RandomHandCount: 493
+RandomDeckCount: 250
+	Passed
+RandomHandCount: 69
+RandomDeckCount: 68
+	Passed
+RandomHandCount: 47
+RandomDeckCount: 20
+	Passed
+RandomHandCount: 490
+RandomDeckCount: 104
+	Passed
+RandomHandCount: 259
+RandomDeckCount: 366
+	Passed
+RandomHandCount: 88
+RandomDeckCount: 337
+	Passed
+RandomHandCount: 212
+RandomDeckCount: 114
+	Passed
+RandomHandCount: 184
+RandomDeckCount: 71
+	Passed
+RandomHandCount: 304
+RandomDeckCount: 36
+	Passed
+RandomHandCount: 144
+RandomDeckCount: 326
+	Passed
+RandomHandCount: 394
+RandomDeckCount: 413
+	Passed
+RandomHandCount: 353
+RandomDeckCount: 260
+	Passed
+RandomHandCount: 235
+RandomDeckCount: 412
+	Passed
+RandomHandCount: 48
+RandomDeckCount: 300
+	Passed
+RandomHandCount: 99
+RandomDeckCount: 266
+	Passed
+RandomHandCount: 256
+RandomDeckCount: 94
+	Passed
+RandomHandCount: 15
+RandomDeckCount: 327
+	Passed
+RandomHandCount: 14
+RandomDeckCount: 416
+	Passed
+RandomHandCount: 199
+RandomDeckCount: 358
+	Passed
+RandomHandCount: 19
+RandomDeckCount: 312
+	Passed
+RandomHandCount: 223
+RandomDeckCount: 109
+	Passed
+RandomHandCount: 149
+RandomDeckCount: 437
+	Passed
+RandomHandCount: 222
+RandomDeckCount: 187
+	Passed
+RandomHandCount: 7
+RandomDeckCount: 380
+	Passed
+RandomHandCount: 223
+RandomDeckCount: 5
+	Passed
+RandomHandCount: 206
+RandomDeckCount: 119
+	Passed
+RandomHandCount: 270
+RandomDeckCount: 413
+	Passed
+RandomHandCount: 230
+RandomDeckCount: 7
+	Passed
+RandomHandCount: 324
+RandomDeckCount: 280
+	Passed
+RandomHandCount: 158
+RandomDeckCount: 425
+	Passed
+RandomHandCount: 397
+RandomDeckCount: 417
+	Passed
+RandomHandCount: 371
+RandomDeckCount: 414
+	Passed
+RandomHandCount: 95
+RandomDeckCount: 239
+	Passed
+RandomHandCount: 329
+RandomDeckCount: 296
+	Passed
+RandomHandCount: 96
+RandomDeckCount: 351
+	Passed
+RandomHandCount: 108
+RandomDeckCount: 322
+	Passed
+RandomHandCount: 311
+RandomDeckCount: 111
+	Passed
+RandomHandCount: 110
+RandomDeckCount: 388
+	Passed
+RandomHandCount: 297
+RandomDeckCount: 120
+	Passed
+RandomHandCount: 267
+RandomDeckCount: 374
+	Passed
+RandomHandCount: 476
+RandomDeckCount: 327
+	Passed
+RandomHandCount: 344
+RandomDeckCount: 248
+	Passed
+RandomHandCount: 239
+RandomDeckCount: 76
+	Passed
+RandomHandCount: 107
+RandomDeckCount: 66
+	Passed
+RandomHandCount: 356
+RandomDeckCount: 267
+	Passed
+RandomHandCount: 342
+RandomDeckCount: 107
+	Passed
+RandomHandCount: 183
+RandomDeckCount: 67
+	Passed
+RandomHandCount: 21
+RandomDeckCount: 281
+	Passed
+RandomHandCount: 305
+RandomDeckCount: 204
+	Passed
+RandomHandCount: 428
+RandomDeckCount: 256
+	Passed
+RandomHandCount: 406
+RandomDeckCount: 390
+	Passed
+RandomHandCount: 429
+RandomDeckCount: 220
+	Passed
+
+
+here is happend->
+
+RandomHandCount: 0
+RandomDeckCount: 41
+	Passed
+RandomHandCount: 107
+RandomDeckCount: 152
+	Passed
+RandomHandCount: 12
+RandomDeckCount: 228
+	Passed
+RandomHandCount: 377
+RandomDeckCount: 491
+	Passed
+RandomHandCount: 55
+RandomDeckCount: 224
+	Passed
+RandomHandCount: 238
+RandomDeckCount: 296
+	Passed
+RandomHandCount: 151
+RandomDeckCount: 347
+	Passed
+RandomHandCount: 213
+RandomDeckCount: 361
+	Passed
+RandomHandCount: 466
+RandomDeckCount: 410
+	Passed
+RandomHandCount: 468
+RandomDeckCount: 151
+	Passed
+RandomHandCount: 476
+RandomDeckCount: 343
+	Passed
+RandomHandCount: 283
+RandomDeckCount: 136
+	Passed
+RandomHandCount: 46
+RandomDeckCount: 66
+	Passed
+RandomHandCount: 391
+RandomDeckCount: 455
+	Passed
+RandomHandCount: 455
+RandomDeckCount: 174
+	Passed
+RandomHandCount: 26
+RandomDeckCount: 310
+	Passed
+RandomHandCount: 66
+RandomDeckCount: 135
+	Passed
+RandomHandCount: 313
+RandomDeckCount: 81
+	Passed
+RandomHandCount: 362
+RandomDeckCount: 44
+	Passed
+RandomHandCount: 423
+RandomDeckCount: 271
+	Passed
+RandomHandCount: 267
+RandomDeckCount: 15
+	Passed
+RandomHandCount: 419
+RandomDeckCount: 273
+	Passed
+RandomHandCount: 214
+RandomDeckCount: 134
+	Passed
+RandomHandCount: 133
+RandomDeckCount: 182
+	Passed
+RandomHandCount: 43
+RandomDeckCount: 103
+	Passed
+RandomHandCount: 184
+RandomDeckCount: 22
+	Passed
+RandomHandCount: 445
+RandomDeckCount: 322
+	Passed
+RandomHandCount: 9
+RandomDeckCount: 346
+	Passed
+RandomHandCount: 387
+RandomDeckCount: 254
+	Passed
+RandomHandCount: 300
+RandomDeckCount: 196
+	Passed
+RandomHandCount: 427
+RandomDeckCount: 180
+	Passed
+RandomHandCount: 5
+RandomDeckCount: 347
+	Passed
+RandomHandCount: 314
+RandomDeckCount: 172
+	Passed
+RandomHandCount: 279
+RandomDeckCount: 30
+	Passed
+RandomHandCount: 216
+RandomDeckCount: 204
+	Passed
+RandomHandCount: 301
+RandomDeckCount: 337
+	Passed
+RandomHandCount: 71
+RandomDeckCount: 222
+	Passed
+RandomHandCount: 109
+RandomDeckCount: 287
+	Passed
+RandomHandCount: 207
+RandomDeckCount: 245
+	Passed
+RandomHandCount: 468
+RandomDeckCount: 105
+	Passed
+RandomHandCount: 199
+RandomDeckCount: 154
+	Passed
+RandomHandCount: 478
+RandomDeckCount: 499
+	Passed
+RandomHandCount: 475
+RandomDeckCount: 489
+	Passed
+RandomHandCount: 344
+RandomDeckCount: 216
+	Passed
+RandomHandCount: 242
+RandomDeckCount: 498
+	Passed
+RandomHandCount: 412
+RandomDeckCount: 23
+	Passed
+RandomHandCount: 177
+RandomDeckCount: 419
+	Passed
+RandomHandCount: 369
+RandomDeckCount: 345
+	Passed
+RandomHandCount: 443
+RandomDeckCount: 151
+	Passed
+RandomHandCount: 226
+RandomDeckCount: 161
+	Passed
+RandomHandCount: 354
+RandomDeckCount: 381
+	Passed
+RandomHandCount: 497
+RandomDeckCount: 279
+	Passed
+RandomHandCount: 102
+RandomDeckCount: 461
+	Passed
+RandomHandCount: 65
+RandomDeckCount: 164
+	Passed
+RandomHandCount: 57
+RandomDeckCount: 35
+	Passed
+RandomHandCount: 268
+RandomDeckCount: 258
+	Passed
+RandomHandCount: 41
+RandomDeckCount: 248
+	Passed
+RandomHandCount: 108
+RandomDeckCount: 370
+	Passed
+RandomHandCount: 88
+RandomDeckCount: 306
+	Passed
+RandomHandCount: 86
+RandomDeckCount: 332
+	Passed
+RandomHandCount: 155
+RandomDeckCount: 0
+	Failed
+RandomHandCount: 206
+RandomDeckCount: 186
+	Passed
+RandomHandCount: 270
+RandomDeckCount: 77
+	Passed
+RandomHandCount: 382
+RandomDeckCount: 215
+	Passed
+RandomHandCount: 227
+RandomDeckCount: 111
+	Passed
+RandomHandCount: 375
+RandomDeckCount: 436
+	Passed
+RandomHandCount: 491
+RandomDeckCount: 227
+	Passed
+RandomHandCount: 214
+RandomDeckCount: 448
+	Passed
+RandomHandCount: 187
+RandomDeckCount: 282
+	Passed
+RandomHandCount: 111
+RandomDeckCount: 246
+	Passed
+RandomHandCount: 168
+RandomDeckCount: 233
+	Passed
+RandomHandCount: 355
+RandomDeckCount: 63
+	Passed
+RandomHandCount: 332
+RandomDeckCount: 318
+	Passed
+RandomHandCount: 433
+RandomDeckCount: 422
+	Passed
+RandomHandCount: 123
+RandomDeckCount: 373
+	Passed
+RandomHandCount: 105
+RandomDeckCount: 133
+	Passed
+RandomHandCount: 224
+RandomDeckCount: 313
+	Passed
+RandomHandCount: 318
+RandomDeckCount: 496
+	Passed
+RandomHandCount: 389
+RandomDeckCount: 203
+	Passed
+RandomHandCount: 63
+RandomDeckCount: 471
+	Passed
+RandomHandCount: 313
+RandomDeckCount: 292
+	Passed
+RandomHandCount: 258
+RandomDeckCount: 158
+	Passed
+RandomHandCount: 18
+RandomDeckCount: 474
+	Passed
+RandomHandCount: 105
+RandomDeckCount: 59
+	Passed
+RandomHandCount: 107
+RandomDeckCount: 70
+	Passed
+RandomHandCount: 304
+RandomDeckCount: 130
+	Passed
+RandomHandCount: 302
+RandomDeckCount: 14
+	Passed
+RandomHandCount: 192
+RandomDeckCount: 488
+	Passed
+RandomHandCount: 331
+RandomDeckCount: 479
+	Passed
+RandomHandCount: 409
+RandomDeckCount: 308
+	Passed
+RandomHandCount: 351
+RandomDeckCount: 368
+	Passed
+RandomHandCount: 440
+RandomDeckCount: 77
+	Passed
+RandomHandCount: 180
+RandomDeckCount: 261
+	Passed
+RandomHandCount: 425
+RandomDeckCount: 424
+	Passed
+RandomHandCount: 315
+RandomDeckCount: 490
+	Passed
+RandomHandCount: 394
+RandomDeckCount: 482
+	Passed
+RandomHandCount: 281
+RandomDeckCount: 154
+	Passed
+RandomHandCount: 139
+RandomDeckCount: 302
+	Passed
+RandomHandCount: 479
+RandomDeckCount: 247
+	Passed
+RandomHandCount: 212
+RandomDeckCount: 441
+	Passed
+RandomHandCount: 168
+RandomDeckCount: 19
+	Passed
+RandomHandCount: 70
+RandomDeckCount: 473
+	Passed
+RandomHandCount: 32
+RandomDeckCount: 116
+	Passed
+RandomHandCount: 312
+RandomDeckCount: 217
+	Passed
+RandomHandCount: 95
+RandomDeckCount: 76
+	Passed
+RandomHandCount: 24
+RandomDeckCount: 300
+	Passed
+RandomHandCount: 443
+RandomDeckCount: 467
+	Passed
+RandomHandCount: 377
+RandomDeckCount: 126
+	Passed
+RandomHandCount: 79
+RandomDeckCount: 304
+	Passed
+RandomHandCount: 401
+RandomDeckCount: 396
+	Passed
+RandomHandCount: 145
+RandomDeckCount: 149
+	Passed
+RandomHandCount: 377
+RandomDeckCount: 428
+	Passed
+RandomHandCount: 154
+RandomDeckCount: 18
+	Passed
+RandomHandCount: 81
+RandomDeckCount: 135
+	Passed
+RandomHandCount: 116
+RandomDeckCount: 296
+	Passed
+RandomHandCount: 427
+RandomDeckCount: 287
+	Passed
+RandomHandCount: 166
+RandomDeckCount: 499
+	Passed
+RandomHandCount: 111
+RandomDeckCount: 52
+	Passed
+RandomHandCount: 115
+RandomDeckCount: 277
+	Passed
+RandomHandCount: 268
+RandomDeckCount: 64
+	Passed
+RandomHandCount: 352
+RandomDeckCount: 294
+	Passed
+RandomHandCount: 363
+RandomDeckCount: 298
+	Passed
+RandomHandCount: 112
+RandomDeckCount: 242
+	Passed
+RandomHandCount: 275
+RandomDeckCount: 193
+	Passed
+RandomHandCount: 397
+RandomDeckCount: 178
+	Passed
+RandomHandCount: 88
+RandomDeckCount: 396
+	Passed
+RandomHandCount: 326
+RandomDeckCount: 319
+	Passed
+RandomHandCount: 324
+RandomDeckCount: 334
+	Passed
+RandomHandCount: 189
+RandomDeckCount: 259
+	Passed
+RandomHandCount: 468
+RandomDeckCount: 159
+	Passed
+RandomHandCount: 406
+RandomDeckCount: 398
+	Passed
+RandomHandCount: 445
+RandomDeckCount: 74
+	Passed
+RandomHandCount: 248
+RandomDeckCount: 410
+	Passed
+RandomHandCount: 477
+RandomDeckCount: 217
+	Passed
+RandomHandCount: 187
+RandomDeckCount: 247
+	Passed
+RandomHandCount: 280
+RandomDeckCount: 41
+	Passed
+RandomHandCount: 393
+RandomDeckCount: 146
+	Passed
+RandomHandCount: 190
+RandomDeckCount: 359
+	Passed
+RandomHandCount: 239
+RandomDeckCount: 467
+	Passed
+RandomHandCount: 52
+RandomDeckCount: 491
+	Passed
+RandomHandCount: 496
+RandomDeckCount: 494
+	Passed
+RandomHandCount: 386
+RandomDeckCount: 176
+	Passed
+RandomHandCount: 165
+RandomDeckCount: 64
+	Passed
+RandomHandCount: 9
+RandomDeckCount: 356
+	Passed
+RandomHandCount: 175
+RandomDeckCount: 332
+	Passed
+RandomHandCount: 14
+RandomDeckCount: 83
+	Passed
+RandomHandCount: 81
+RandomDeckCount: 314
+	Passed
+RandomHandCount: 9
+RandomDeckCount: 331
+	Passed
+RandomHandCount: 75
+RandomDeckCount: 488
+	Passed
+RandomHandCount: 400
+RandomDeckCount: 116
+	Passed
+RandomHandCount: 87
+RandomDeckCount: 182
+	Passed
+RandomHandCount: 9
+RandomDeckCount: 334
+	Passed
+RandomHandCount: 179
+RandomDeckCount: 201
+	Passed
+RandomHandCount: 192
+RandomDeckCount: 421
+	Passed
+RandomHandCount: 20
+RandomDeckCount: 98
+	Passed
+RandomHandCount: 263
+RandomDeckCount: 18
+	Passed
+RandomHandCount: 92
+RandomDeckCount: 151
+	Passed
+RandomHandCount: 194
+RandomDeckCount: 111
+	Passed
+RandomHandCount: 67
+RandomDeckCount: 57
+	Passed
+RandomHandCount: 466
+RandomDeckCount: 244
+	Passed
+RandomHandCount: 388
+RandomDeckCount: 334
+	Passed
+RandomHandCount: 326
+RandomDeckCount: 323
+	Passed
+RandomHandCount: 147
+RandomDeckCount: 337
+	Passed
+RandomHandCount: 6
+RandomDeckCount: 77
+	Passed
+RandomHandCount: 177
+RandomDeckCount: 408
+	Passed
+RandomHandCount: 192
+RandomDeckCount: 266
+	Passed
+RandomHandCount: 89
+RandomDeckCount: 203
+	Passed
+RandomHandCount: 451
+RandomDeckCount: 271
+	Passed
+RandomHandCount: 256
+RandomDeckCount: 145
+	Passed
+RandomHandCount: 43
+RandomDeckCount: 278
+	Passed
+RandomHandCount: 243
+RandomDeckCount: 308
+	Passed
+RandomHandCount: 295
+RandomDeckCount: 189
+	Passed
+RandomHandCount: 310
+RandomDeckCount: 343
+	Passed
+RandomHandCount: 299
+RandomDeckCount: 379
+	Passed
+RandomHandCount: 252
+RandomDeckCount: 119
+	Passed
+RandomHandCount: 122
+RandomDeckCount: 142
+	Passed
+RandomHandCount: 452
+RandomDeckCount: 303
+	Passed
+RandomHandCount: 317
+RandomDeckCount: 454
+	Passed
+RandomHandCount: 491
+RandomDeckCount: 325
+	Passed
+RandomHandCount: 30
+RandomDeckCount: 170
+	Passed
+RandomHandCount: 232
+RandomDeckCount: 76
+	Passed
+RandomHandCount: 287
+RandomDeckCount: 175
+	Passed
+RandomHandCount: 279
+RandomDeckCount: 240
+	Passed
+RandomHandCount: 297
+RandomDeckCount: 37
+	Passed
+RandomHandCount: 237
+RandomDeckCount: 342
+	Passed
+RandomHandCount: 166
+RandomDeckCount: 334
+	Passed
+RandomHandCount: 1
+RandomDeckCount: 315
+	Passed
+RandomHandCount: 374
+RandomDeckCount: 166
+	Passed
+RandomHandCount: 158
+RandomDeckCount: 27
+	Passed
+RandomHandCount: 44
+RandomDeckCount: 412
+	Passed
+RandomHandCount: 145
+RandomDeckCount: 21
+	Passed
+RandomHandCount: 405
+RandomDeckCount: 451
+	Passed
+RandomHandCount: 175
+RandomDeckCount: 76
+	Passed
+RandomHandCount: 256
+RandomDeckCount: 168
+	Passed
+RandomHandCount: 400
+RandomDeckCount: 140
+	Passed
+RandomHandCount: 190
+RandomDeckCount: 486
+	Passed
+RandomHandCount: 216
+RandomDeckCount: 331
+	Passed
+RandomHandCount: 161
+RandomDeckCount: 349
+	Passed
+RandomHandCount: 423
+RandomDeckCount: 460
+	Passed
+RandomHandCount: 237
+RandomDeckCount: 162
+	Passed
+RandomHandCount: 154
+RandomDeckCount: 405
+	Passed
+RandomHandCount: 347
+RandomDeckCount: 9
+	Passed
+RandomHandCount: 71
+RandomDeckCount: 223
+	Passed
+RandomHandCount: 174
+RandomDeckCount: 231
+	Passed
+RandomHandCount: 249
+RandomDeckCount: 73
+	Passed
+RandomHandCount: 494
+RandomDeckCount: 396
+	Passed
+RandomHandCount: 93
+RandomDeckCount: 254
+	Passed
+RandomHandCount: 198
+RandomDeckCount: 270
+	Passed
+RandomHandCount: 329
+RandomDeckCount: 309
+	Passed
+RandomHandCount: 289
+RandomDeckCount: 84
+	Passed
+RandomHandCount: 448
+RandomDeckCount: 333
+	Passed
+RandomHandCount: 69
+RandomDeckCount: 18
+	Passed
+RandomHandCount: 164
+RandomDeckCount: 232
+	Passed
+RandomHandCount: 218
+RandomDeckCount: 89
+	Passed
+RandomHandCount: 44
+RandomDeckCount: 457
+	Passed
+RandomHandCount: 102
+RandomDeckCount: 52
+	Passed
+RandomHandCount: 213
+RandomDeckCount: 451
+	Passed
+RandomHandCount: 60
+RandomDeckCount: 287
+	Passed
+RandomHandCount: 173
+RandomDeckCount: 89
+	Passed
+RandomHandCount: 369
+RandomDeckCount: 424
+	Passed
+RandomHandCount: 161
+RandomDeckCount: 218
+	Passed
+RandomHandCount: 171
+RandomDeckCount: 108
+	Passed
+RandomHandCount: 323
+RandomDeckCount: 223
+	Passed
+RandomHandCount: 229
+RandomDeckCount: 6
+	Passed
+RandomHandCount: 31
+RandomDeckCount: 20
+	Passed
+RandomHandCount: 89
+RandomDeckCount: 334
+	Passed
+RandomHandCount: 353
+RandomDeckCount: 13
+	Passed
+RandomHandCount: 351
+RandomDeckCount: 371
+	Passed
+RandomHandCount: 96
+RandomDeckCount: 72
+	Passed
+RandomHandCount: 459
+RandomDeckCount: 142
+	Passed
+RandomHandCount: 380
+RandomDeckCount: 415
+	Passed
+RandomHandCount: 193
+RandomDeckCount: 448
+	Passed
+RandomHandCount: 365
+RandomDeckCount: 108
+	Passed
+RandomHandCount: 86
+RandomDeckCount: 392
+	Passed
+RandomHandCount: 196
+RandomDeckCount: 309
+	Passed
+RandomHandCount: 315
+RandomDeckCount: 211
+	Passed
+RandomHandCount: 378
+RandomDeckCount: 340
+	Passed
+RandomHandCount: 318
+RandomDeckCount: 203
+	Passed
+RandomHandCount: 62
+RandomDeckCount: 49
+	Passed
+RandomHandCount: 209
+RandomDeckCount: 448
+	Passed
+RandomHandCount: 420
+RandomDeckCount: 152
+	Passed
+RandomHandCount: 281
+RandomDeckCount: 127
+	Passed
+RandomHandCount: 16
+RandomDeckCount: 134
+	Passed
+RandomHandCount: 349
+RandomDeckCount: 115
+	Passed
+RandomHandCount: 57
+RandomDeckCount: 310
+	Passed
+RandomHandCount: 108
+RandomDeckCount: 292
+	Passed
+RandomHandCount: 76
+RandomDeckCount: 156
+	Passed
+RandomHandCount: 91
+RandomDeckCount: 443
+	Passed
+RandomHandCount: 263
+RandomDeckCount: 179
+	Passed
+RandomHandCount: 334
+RandomDeckCount: 313
+	Passed
+RandomHandCount: 339
+RandomDeckCount: 3
+	Passed
+RandomHandCount: 23
+RandomDeckCount: 220
+	Passed
+RandomHandCount: 194
+RandomDeckCount: 195
+	Passed
+RandomHandCount: 422
+RandomDeckCount: 111
+	Passed
+RandomHandCount: 95
+RandomDeckCount: 485
+	Passed
+RandomHandCount: 58
+RandomDeckCount: 17
+	Passed
+RandomHandCount: 489
+RandomDeckCount: 193
+	Passed
+RandomHandCount: 496
+RandomDeckCount: 7
+	Passed
+RandomHandCount: 326
+RandomDeckCount: 347
+	Passed
+RandomHandCount: 121
+RandomDeckCount: 238
+	Passed
+RandomHandCount: 9
+RandomDeckCount: 232
+	Passed
+RandomHandCount: 29
+RandomDeckCount: 439
+	Passed
+RandomHandCount: 387
+RandomDeckCount: 474
+	Passed
+RandomHandCount: 382
+RandomDeckCount: 4
+	Passed
+RandomHandCount: 152
+RandomDeckCount: 70
+	Passed
+RandomHandCount: 316
+RandomDeckCount: 493
+	Passed
+RandomHandCount: 425
+RandomDeckCount: 193
+	Passed
+RandomHandCount: 64
+RandomDeckCount: 121
+	Passed
+RandomHandCount: 387
+RandomDeckCount: 489
+	Passed
+RandomHandCount: 83
+RandomDeckCount: 484
+	Passed
+RandomHandCount: 325
+RandomDeckCount: 143
+	Passed
+RandomHandCount: 352
+RandomDeckCount: 316
+	Passed
+RandomHandCount: 335
+RandomDeckCount: 202
+	Passed
+RandomHandCount: 323
+RandomDeckCount: 16
+	Passed
+RandomHandCount: 401
+RandomDeckCount: 298
+	Passed
+RandomHandCount: 105
+RandomDeckCount: 264
+	Passed
+RandomHandCount: 381
+RandomDeckCount: 488
+	Passed
+RandomHandCount: 202
+RandomDeckCount: 122
+	Passed
+RandomHandCount: 461
+RandomDeckCount: 86
+	Passed
+RandomHandCount: 477
+RandomDeckCount: 467
+	Passed
+RandomHandCount: 8
+RandomDeckCount: 295
+	Passed
+RandomHandCount: 311
+RandomDeckCount: 435
+	Passed
+RandomHandCount: 339
+RandomDeckCount: 378
+	Passed
+RandomHandCount: 407
+RandomDeckCount: 228
+	Passed
+RandomHandCount: 218
+RandomDeckCount: 493
+	Passed
+RandomHandCount: 63
+RandomDeckCount: 45
+	Passed
+RandomHandCount: 487
+RandomDeckCount: 270
+	Passed
+RandomHandCount: 361
+RandomDeckCount: 325
+	Passed
+RandomHandCount: 471
+RandomDeckCount: 38
+	Passed
+RandomHandCount: 192
+RandomDeckCount: 374
+	Passed
+RandomHandCount: 187
+RandomDeckCount: 299
+	Passed
+RandomHandCount: 489
+RandomDeckCount: 71
+	Passed
+RandomHandCount: 286
+RandomDeckCount: 194
+	Passed
+RandomHandCount: 44
+RandomDeckCount: 101
+	Passed
+RandomHandCount: 131
+RandomDeckCount: 24
+	Passed
+RandomHandCount: 67
+RandomDeckCount: 141
+	Passed
+RandomHandCount: 170
+RandomDeckCount: 380
+	Passed
+RandomHandCount: 427
+RandomDeckCount: 12
+	Passed
+RandomHandCount: 257
+RandomDeckCount: 189
+	Passed
+RandomHandCount: 91
+RandomDeckCount: 477
+	Passed
+RandomHandCount: 181
+RandomDeckCount: 157
+	Passed
+RandomHandCount: 22
+RandomDeckCount: 170
+	Passed
+RandomHandCount: 278
+RandomDeckCount: 237
+	Passed
+RandomHandCount: 346
+RandomDeckCount: 251
+	Passed
+RandomHandCount: 126
+RandomDeckCount: 392
+	Passed
+RandomHandCount: 477
+RandomDeckCount: 315
+	Passed
+RandomHandCount: 42
+RandomDeckCount: 468
+	Passed
+RandomHandCount: 385
+RandomDeckCount: 182
+	Passed
+RandomHandCount: 161
+RandomDeckCount: 432
+	Passed
+RandomHandCount: 282
+RandomDeckCount: 295
+	Passed
+RandomHandCount: 455
+RandomDeckCount: 351
+	Passed
+RandomHandCount: 287
+RandomDeckCount: 127
+	Passed
+RandomHandCount: 231
+RandomDeckCount: 217
+	Passed
+RandomHandCount: 490
+RandomDeckCount: 490
+	Passed
+RandomHandCount: 257
+RandomDeckCount: 84
+	Passed
+RandomHandCount: 319
+RandomDeckCount: 440
+	Passed
+RandomHandCount: 92
+RandomDeckCount: 343
+	Passed
+RandomHandCount: 461
+RandomDeckCount: 372
+	Passed
+RandomHandCount: 431
+RandomDeckCount: 162
+	Passed
+RandomHandCount: 474
+RandomDeckCount: 59
+	Passed
+RandomHandCount: 405
+RandomDeckCount: 453
+	Passed
+RandomHandCount: 373
+RandomDeckCount: 450
+	Passed
+RandomHandCount: 421
+RandomDeckCount: 113
+	Passed
+RandomHandCount: 131
+RandomDeckCount: 436
+	Passed
+RandomHandCount: 396
+RandomDeckCount: 268
+	Passed
+RandomHandCount: 82
+RandomDeckCount: 205
+	Passed
+RandomHandCount: 118
+RandomDeckCount: 372
+	Passed
+RandomHandCount: 183
+RandomDeckCount: 351
+	Passed
+RandomHandCount: 440
+RandomDeckCount: 176
+	Passed
+RandomHandCount: 193
+RandomDeckCount: 199
+	Passed
+RandomHandCount: 111
+RandomDeckCount: 14
+	Passed
+RandomHandCount: 490
+RandomDeckCount: 57
+	Passed
+RandomHandCount: 208
+RandomDeckCount: 305
+	Passed
+RandomHandCount: 428
+RandomDeckCount: 493
+	Passed
+RandomHandCount: 318
+RandomDeckCount: 256
+	Passed
+RandomHandCount: 51
+RandomDeckCount: 226
+	Passed
+RandomHandCount: 209
+RandomDeckCount: 278
+	Passed
+RandomHandCount: 175
+RandomDeckCount: 484
+	Passed
+RandomHandCount: 390
+RandomDeckCount: 160
+	Passed
+RandomHandCount: 271
+RandomDeckCount: 140
+	Passed
+RandomHandCount: 427
+RandomDeckCount: 356
+	Passed
+RandomHandCount: 344
+RandomDeckCount: 400
+	Passed
+RandomHandCount: 79
+RandomDeckCount: 382
+	Passed
+RandomHandCount: 102
+RandomDeckCount: 373
+	Passed
+RandomHandCount: 409
+RandomDeckCount: 297
+	Passed
+RandomHandCount: 71
+RandomDeckCount: 22
+	Passed
+RandomHandCount: 162
+RandomDeckCount: 415
+	Passed
+RandomHandCount: 430
+RandomDeckCount: 224
+	Passed
+RandomHandCount: 71
+RandomDeckCount: 212
+	Passed
+RandomHandCount: 216
+RandomDeckCount: 392
+	Passed
+RandomHandCount: 467
+RandomDeckCount: 121
+	Passed
+RandomHandCount: 117
+RandomDeckCount: 178
+	Passed
+RandomHandCount: 399
+RandomDeckCount: 146
+	Passed
+RandomHandCount: 13
+RandomDeckCount: 143
+	Passed
+RandomHandCount: 157
+RandomDeckCount: 287
+	Passed
+RandomHandCount: 283
+RandomDeckCount: 87
+	Passed
+RandomHandCount: 142
+RandomDeckCount: 481
+	Passed
+RandomHandCount: 338
+RandomDeckCount: 75
+	Passed
+RandomHandCount: 214
+RandomDeckCount: 442
+	Passed
+RandomHandCount: 447
+RandomDeckCount: 125
+	Passed
+RandomHandCount: 91
+RandomDeckCount: 372
+	Passed
+RandomHandCount: 498
+RandomDeckCount: 255
+	Passed
+RandomHandCount: 286
+RandomDeckCount: 430
+	Passed
+RandomHandCount: 331
+RandomDeckCount: 359
+	Passed
+RandomHandCount: 141
+RandomDeckCount: 49
+	Passed
+RandomHandCount: 102
+RandomDeckCount: 111
+	Passed
+RandomHandCount: 170
+RandomDeckCount: 221
+	Passed
+RandomHandCount: 140
+RandomDeckCount: 423
+	Passed
+RandomHandCount: 366
+RandomDeckCount: 156
+	Passed
+RandomHandCount: 65
+RandomDeckCount: 378
+	Passed
+RandomHandCount: 442
+RandomDeckCount: 202
+	Passed
+RandomHandCount: 316
+RandomDeckCount: 438
+	Passed
+RandomHandCount: 183
+RandomDeckCount: 156
+	Passed
+RandomHandCount: 12
+RandomDeckCount: 251
+	Passed
+RandomHandCount: 97
+RandomDeckCount: 461
+	Passed
+RandomHandCount: 376
+RandomDeckCount: 190
+	Passed
+RandomHandCount: 184
+RandomDeckCount: 376
+	Passed
+RandomHandCount: 297
+RandomDeckCount: 472
+	Passed
+RandomHandCount: 158
+RandomDeckCount: 130
+	Passed
+RandomHandCount: 182
+RandomDeckCount: 153
+	Passed
+RandomHandCount: 30
+RandomDeckCount: 287
+	Passed
+RandomHandCount: 263
+RandomDeckCount: 54
+	Passed
+RandomHandCount: 359
+RandomDeckCount: 406
+	Passed
+RandomHandCount: 476
+RandomDeckCount: 80
+	Passed
+RandomHandCount: 413
+RandomDeckCount: 396
+	Passed
+RandomHandCount: 457
+RandomDeckCount: 209
+	Passed
+RandomHandCount: 97
+RandomDeckCount: 275
+	Passed
+RandomHandCount: 146
+RandomDeckCount: 134
+	Passed
+RandomHandCount: 282
+RandomDeckCount: 12
+	Passed
+RandomHandCount: 385
+RandomDeckCount: 381
+	Passed
+RandomHandCount: 324
+RandomDeckCount: 115
+	Passed
+RandomHandCount: 423
+RandomDeckCount: 10
+	Passed
+RandomHandCount: 342
+RandomDeckCount: 222
+	Passed
+RandomHandCount: 481
+RandomDeckCount: 2
+	Passed
+RandomHandCount: 203
+RandomDeckCount: 17
+	Passed
+RandomHandCount: 155
+RandomDeckCount: 235
+	Passed
+RandomHandCount: 155
+RandomDeckCount: 272
+	Passed
+RandomHandCount: 141
+RandomDeckCount: 17
+	Passed
+RandomHandCount: 29
+RandomDeckCount: 471
+	Passed
+RandomHandCount: 448
+RandomDeckCount: 444
+	Passed
+RandomHandCount: 366
+RandomDeckCount: 407
+	Passed
+RandomHandCount: 152
+RandomDeckCount: 318
+	Passed
+RandomHandCount: 33
+RandomDeckCount: 152
+	Passed
+RandomHandCount: 303
+RandomDeckCount: 317
+	Passed
+RandomHandCount: 163
+RandomDeckCount: 190
+	Passed
+RandomHandCount: 49
+RandomDeckCount: 489
+	Passed
+RandomHandCount: 304
+RandomDeckCount: 474
+	Passed
+RandomHandCount: 498
+RandomDeckCount: 149
+	Passed
+RandomHandCount: 195
+RandomDeckCount: 333
+	Passed
+RandomHandCount: 2
+RandomDeckCount: 252
+	Passed
+RandomHandCount: 202
+RandomDeckCount: 11
+	Passed
+RandomHandCount: 339
+RandomDeckCount: 359
+	Passed
+RandomHandCount: 283
+RandomDeckCount: 482
+	Passed
+RandomHandCount: 227
+RandomDeckCount: 314
+	Passed
+RandomHandCount: 304
+RandomDeckCount: 29
+	Passed
+RandomHandCount: 110
+RandomDeckCount: 25
+	Passed
+RandomHandCount: 435
+RandomDeckCount: 264
+	Passed
+RandomHandCount: 342
+RandomDeckCount: 322
+	Passed
+RandomHandCount: 268
+RandomDeckCount: 499
+	Passed
+RandomHandCount: 138
+RandomDeckCount: 433
+	Passed
+RandomHandCount: 41
+RandomDeckCount: 42
+	Passed
+RandomHandCount: 274
+RandomDeckCount: 347
+	Passed
+RandomHandCount: 15
+RandomDeckCount: 274
+	Passed
+RandomHandCount: 347
+RandomDeckCount: 65
+	Passed
+RandomHandCount: 107
+RandomDeckCount: 204
+	Passed
+RandomHandCount: 316
+RandomDeckCount: 163
+	Passed
+RandomHandCount: 214
+RandomDeckCount: 157
+	Passed
+RandomHandCount: 373
+RandomDeckCount: 351
+	Passed
+RandomHandCount: 490
+RandomDeckCount: 103
+	Passed
+RandomHandCount: 165
+RandomDeckCount: 297
+	Passed
+RandomHandCount: 131
+RandomDeckCount: 129
+	Passed
+RandomHandCount: 173
+RandomDeckCount: 421
+	Passed
+RandomHandCount: 244
+RandomDeckCount: 369
+	Passed
+RandomHandCount: 94
+RandomDeckCount: 14
+	Passed
+RandomHandCount: 367
+RandomDeckCount: 87
+	Passed
+RandomHandCount: 447
+RandomDeckCount: 410
+	Passed
+RandomHandCount: 128
+RandomDeckCount: 223
+	Passed
+RandomHandCount: 109
+RandomDeckCount: 145
+	Passed
+RandomHandCount: 348
+RandomDeckCount: 310
+	Passed
+RandomHandCount: 209
+RandomDeckCount: 309
+	Passed
+RandomHandCount: 13
+RandomDeckCount: 28
+	Passed
+RandomHandCount: 471
+RandomDeckCount: 82
+	Passed
+RandomHandCount: 36
+RandomDeckCount: 347
+	Passed
+RandomHandCount: 432
+RandomDeckCount: 29
+	Passed
+RandomHandCount: 301
+RandomDeckCount: 451
+	Passed
+RandomHandCount: 177
+RandomDeckCount: 286
+	Passed
+RandomHandCount: 79
+RandomDeckCount: 352
+	Passed
+RandomHandCount: 58
+RandomDeckCount: 326
+	Passed
+RandomHandCount: 220
+RandomDeckCount: 155
+	Passed
+RandomHandCount: 339
+RandomDeckCount: 441
+	Passed
+RandomHandCount: 241
+RandomDeckCount: 140
+	Passed
+RandomHandCount: 351
+RandomDeckCount: 371
+	Passed
+RandomHandCount: 214
+RandomDeckCount: 462
+	Passed
+RandomHandCount: 367
+RandomDeckCount: 65
+	Passed
+RandomHandCount: 123
+RandomDeckCount: 79
+	Passed
+RandomHandCount: 225
+RandomDeckCount: 139
+	Passed
+RandomHandCount: 458
+RandomDeckCount: 199
+	Passed
+RandomHandCount: 72
+RandomDeckCount: 348
+	Passed
+RandomHandCount: 397
+RandomDeckCount: 6
+	Passed
+RandomHandCount: 376
+RandomDeckCount: 200
+	Passed
+RandomHandCount: 309
+RandomDeckCount: 407
+	Passed
+RandomHandCount: 337
+RandomDeckCount: 390
+	Passed
+RandomHandCount: 110
+RandomDeckCount: 398
+	Passed
+RandomHandCount: 67
+RandomDeckCount: 332
+	Passed
+RandomHandCount: 404
+RandomDeckCount: 409
+	Passed
+RandomHandCount: 125
+RandomDeckCount: 499
+	Passed
+RandomHandCount: 400
+RandomDeckCount: 478
+	Passed
+RandomHandCount: 221
+RandomDeckCount: 117
+	Passed
+RandomHandCount: 291
+RandomDeckCount: 90
+	Passed
+RandomHandCount: 33
+RandomDeckCount: 416
+	Passed
+RandomHandCount: 20
+RandomDeckCount: 260
+	Passed
+RandomHandCount: 406
+RandomDeckCount: 480
+	Passed
+RandomHandCount: 310
+RandomDeckCount: 480
+	Passed
+RandomHandCount: 328
+RandomDeckCount: 61
+	Passed
+RandomHandCount: 338
+RandomDeckCount: 58
+	Passed
+RandomHandCount: 112
+RandomDeckCount: 149
+	Passed
+RandomHandCount: 317
+RandomDeckCount: 452
+	Passed
+RandomHandCount: 390
+RandomDeckCount: 429
+	Passed
+RandomHandCount: 201
+RandomDeckCount: 460
+	Passed
+RandomHandCount: 113
+RandomDeckCount: 107
+	Passed
+RandomHandCount: 220
+RandomDeckCount: 240
+	Passed
+RandomHandCount: 457
+RandomDeckCount: 122
+	Passed
+RandomHandCount: 69
+RandomDeckCount: 180
+	Passed
+RandomHandCount: 90
+RandomDeckCount: 362
+	Passed
+RandomHandCount: 269
+RandomDeckCount: 477
+	Passed
+RandomHandCount: 277
+RandomDeckCount: 292
+	Passed
+RandomHandCount: 89
+RandomDeckCount: 186
+	Passed
+RandomHandCount: 123
+RandomDeckCount: 401
+	Passed
+RandomHandCount: 17
+RandomDeckCount: 305
+	Passed
+RandomHandCount: 462
+RandomDeckCount: 357
+	Passed
+RandomHandCount: 215
+RandomDeckCount: 76
+	Passed
+RandomHandCount: 5
+RandomDeckCount: 34
+	Passed
+RandomHandCount: 379
+RandomDeckCount: 398
+	Passed
+RandomHandCount: 314
+RandomDeckCount: 82
+	Passed
+RandomHandCount: 209
+RandomDeckCount: 281
+	Passed
+RandomHandCount: 40
+RandomDeckCount: 431
+	Passed
+RandomHandCount: 20
+RandomDeckCount: 499
+	Passed
+RandomHandCount: 52
+RandomDeckCount: 443
+	Passed
+RandomHandCount: 178
+RandomDeckCount: 497
+	Passed
+RandomHandCount: 304
+RandomDeckCount: 302
+	Passed
+RandomHandCount: 473
+RandomDeckCount: 436
+	Passed
+RandomHandCount: 93
+RandomDeckCount: 64
+	Passed
+RandomHandCount: 473
+RandomDeckCount: 70
+	Passed
+RandomHandCount: 317
+RandomDeckCount: 492
+	Passed
+RandomHandCount: 375
+RandomDeckCount: 133
+	Passed
+RandomHandCount: 349
+RandomDeckCount: 92
+	Passed
+RandomHandCount: 60
+RandomDeckCount: 208
+	Passed
+RandomHandCount: 477
+RandomDeckCount: 294
+	Passed
+RandomHandCount: 457
+RandomDeckCount: 145
+	Passed
+RandomHandCount: 375
+RandomDeckCount: 168
+	Passed
+RandomHandCount: 426
+RandomDeckCount: 270
+	Passed
+RandomHandCount: 98
+RandomDeckCount: 300
+	Passed
+RandomHandCount: 120
+RandomDeckCount: 5
+	Passed
+RandomHandCount: 243
+RandomDeckCount: 301
+	Passed
+RandomHandCount: 1
+RandomDeckCount: 401
+	Passed
+RandomHandCount: 102
+RandomDeckCount: 328
+	Passed
+RandomHandCount: 336
+RandomDeckCount: 49
+	Passed
+RandomHandCount: 244
+RandomDeckCount: 163
+	Passed
+RandomHandCount: 118
+RandomDeckCount: 63
+	Passed
+RandomHandCount: 155
+RandomDeckCount: 347
+	Passed
+RandomHandCount: 47
+RandomDeckCount: 358
+	Passed
+RandomHandCount: 290
+RandomDeckCount: 461
+	Passed
+RandomHandCount: 65
+RandomDeckCount: 121
+	Passed
+RandomHandCount: 254
+RandomDeckCount: 25
+	Passed
+RandomHandCount: 266
+RandomDeckCount: 484
+	Passed
+RandomHandCount: 44
+RandomDeckCount: 194
+	Passed
+RandomHandCount: 253
+RandomDeckCount: 145
+	Passed
+RandomHandCount: 345
+RandomDeckCount: 227
+	Passed
+RandomHandCount: 149
+RandomDeckCount: 90
+	Passed
+RandomHandCount: 27
+RandomDeckCount: 4
+	Passed
+RandomHandCount: 343
+RandomDeckCount: 483
+	Passed
+RandomHandCount: 331
+RandomDeckCount: 33
+	Passed
+RandomHandCount: 383
+RandomDeckCount: 77
+	Passed
+RandomHandCount: 196
+RandomDeckCount: 356
+	Passed
+RandomHandCount: 491
+RandomDeckCount: 353
+	Passed
+RandomHandCount: 202
+RandomDeckCount: 40
+	Passed
+RandomHandCount: 62
+RandomDeckCount: 347
+	Passed
+RandomHandCount: 353
+RandomDeckCount: 129
+	Passed
+RandomHandCount: 467
+RandomDeckCount: 109
+	Passed
+RandomHandCount: 5
+RandomDeckCount: 235
+	Passed
+RandomHandCount: 92
+RandomDeckCount: 52
+	Passed
+RandomHandCount: 280
+RandomDeckCount: 199
+	Passed
+RandomHandCount: 48
+RandomDeckCount: 128
+	Passed
+RandomHandCount: 426
+RandomDeckCount: 199
+	Passed
+RandomHandCount: 69
+RandomDeckCount: 307
+	Passed
+RandomHandCount: 202
+RandomDeckCount: 414
+	Passed
+RandomHandCount: 142
+RandomDeckCount: 35
+	Passed
+RandomHandCount: 447
+RandomDeckCount: 379
+	Passed
+RandomHandCount: 464
+RandomDeckCount: 145
+	Passed
+RandomHandCount: 234
+RandomDeckCount: 457
+	Passed
+RandomHandCount: 349
+RandomDeckCount: 291
+	Passed
+RandomHandCount: 349
+RandomDeckCount: 413
+	Passed
+RandomHandCount: 137
+RandomDeckCount: 204
+	Passed
+RandomHandCount: 393
+RandomDeckCount: 106
+	Passed
+RandomHandCount: 312
+RandomDeckCount: 253
+	Passed
+RandomHandCount: 193
+RandomDeckCount: 259
+	Passed
+RandomHandCount: 156
+RandomDeckCount: 327
+	Passed
+RandomHandCount: 309
+RandomDeckCount: 206
+	Passed
+RandomHandCount: 454
+RandomDeckCount: 89
+	Passed
+RandomHandCount: 404
+RandomDeckCount: 378
+	Passed
+RandomHandCount: 248
+RandomDeckCount: 460
+	Passed
+RandomHandCount: 291
+RandomDeckCount: 244
+	Passed
+RandomHandCount: 346
+RandomDeckCount: 92
+	Passed
+RandomHandCount: 122
+RandomDeckCount: 312
+	Passed
+RandomHandCount: 88
+RandomDeckCount: 211
+	Passed
+RandomHandCount: 121
+RandomDeckCount: 439
+	Passed
+RandomHandCount: 1
+RandomDeckCount: 472
+	Passed
+RandomHandCount: 203
+RandomDeckCount: 492
+	Passed
+RandomHandCount: 175
+RandomDeckCount: 451
+	Passed
+RandomHandCount: 449
+RandomDeckCount: 341
+	Passed
+RandomHandCount: 203
+RandomDeckCount: 144
+	Passed
+RandomHandCount: 451
+RandomDeckCount: 361
+	Passed
+RandomHandCount: 471
+RandomDeckCount: 115
+	Passed
+RandomHandCount: 66
+RandomDeckCount: 279
+	Passed
+RandomHandCount: 55
+RandomDeckCount: 324
+	Passed
+RandomHandCount: 156
+RandomDeckCount: 305
+	Passed
+RandomHandCount: 135
+RandomDeckCount: 302
+	Passed
+RandomHandCount: 48
+RandomDeckCount: 483
+	Passed
+RandomHandCount: 393
+RandomDeckCount: 25
+	Passed
+RandomHandCount: 147
+RandomDeckCount: 336
+	Passed
+RandomHandCount: 235
+RandomDeckCount: 122
+	Passed
+RandomHandCount: 126
+RandomDeckCount: 90
+	Passed
+RandomHandCount: 93
+RandomDeckCount: 332
+	Passed
+RandomHandCount: 81
+RandomDeckCount: 122
+	Passed
+RandomHandCount: 282
+RandomDeckCount: 32
+	Passed
+RandomHandCount: 314
+RandomDeckCount: 339
+	Passed
+RandomHandCount: 28
+RandomDeckCount: 120
+	Passed
+RandomHandCount: 199
+RandomDeckCount: 353
+	Passed
+RandomHandCount: 234
+RandomDeckCount: 119
+	Passed
+RandomHandCount: 131
+RandomDeckCount: 291
+	Passed
+RandomHandCount: 294
+RandomDeckCount: 142
+	Passed
+RandomHandCount: 448
+RandomDeckCount: 431
+	Passed
+RandomHandCount: 443
+RandomDeckCount: 350
+	Passed
+RandomHandCount: 265
+RandomDeckCount: 190
+	Passed
+RandomHandCount: 374
+RandomDeckCount: 266
+	Passed
+RandomHandCount: 25
+RandomDeckCount: 111
+	Passed
+RandomHandCount: 387
+RandomDeckCount: 154
+	Passed
+RandomHandCount: 52
+RandomDeckCount: 334
+	Passed
+RandomHandCount: 337
+RandomDeckCount: 135
+	Passed
+RandomHandCount: 455
+RandomDeckCount: 473
+	Passed
+RandomHandCount: 167
+RandomDeckCount: 124
+	Passed
+RandomHandCount: 163
+RandomDeckCount: 49
+	Passed
+RandomHandCount: 243
+RandomDeckCount: 216
+	Passed
+RandomHandCount: 401
+RandomDeckCount: 479
+	Passed
+RandomHandCount: 334
+RandomDeckCount: 386
+	Passed
+RandomHandCount: 121
+RandomDeckCount: 130
+	Passed
+RandomHandCount: 27
+RandomDeckCount: 71
+	Passed
+RandomHandCount: 412
+RandomDeckCount: 324
+	Passed
+RandomHandCount: 273
+RandomDeckCount: 179
+	Passed
+RandomHandCount: 366
+RandomDeckCount: 149
+	Passed
+RandomHandCount: 445
+RandomDeckCount: 393
+	Passed
+RandomHandCount: 112
+RandomDeckCount: 186
+	Passed
+RandomHandCount: 398
+RandomDeckCount: 166
+	Passed
+RandomHandCount: 20
+RandomDeckCount: 89
+	Passed
+RandomHandCount: 153
+RandomDeckCount: 329
+	Passed
+RandomHandCount: 413
+RandomDeckCount: 322
+	Passed
+RandomHandCount: 452
+RandomDeckCount: 78
+	Passed
+RandomHandCount: 222
+RandomDeckCount: 197
+	Passed
+RandomHandCount: 293
+RandomDeckCount: 125
+	Passed
+RandomHandCount: 27
+RandomDeckCount: 129
+	Passed
+RandomHandCount: 10
+RandomDeckCount: 3
+	Passed
+RandomHandCount: 110
+RandomDeckCount: 392
+	Passed
+RandomHandCount: 425
+RandomDeckCount: 24
+	Passed
+RandomHandCount: 215
+RandomDeckCount: 200
+	Passed
+RandomHandCount: 203
+RandomDeckCount: 83
+	Passed
+RandomHandCount: 201
+RandomDeckCount: 2
+	Passed
+RandomHandCount: 328
+RandomDeckCount: 315
+	Passed
+RandomHandCount: 187
+RandomDeckCount: 80
+	Passed
+RandomHandCount: 332
+RandomDeckCount: 61
+	Passed
+RandomHandCount: 169
+RandomDeckCount: 487
+	Passed
+RandomHandCount: 390
+RandomDeckCount: 84
+	Passed
+RandomHandCount: 160
+RandomDeckCount: 344
+	Passed
+RandomHandCount: 14
+RandomDeckCount: 384
+	Passed
+RandomHandCount: 393
+RandomDeckCount: 309
+	Passed
+RandomHandCount: 360
+RandomDeckCount: 274
+	Passed
+RandomHandCount: 290
+RandomDeckCount: 373
+	Passed
+RandomHandCount: 276
+RandomDeckCount: 402
+	Passed
+RandomHandCount: 116
+RandomDeckCount: 204
+	Passed
+RandomHandCount: 278
+RandomDeckCount: 185
+	Passed
+RandomHandCount: 403
+RandomDeckCount: 483
+	Passed
+RandomHandCount: 120
+RandomDeckCount: 106
+	Passed
+RandomHandCount: 336
+RandomDeckCount: 450
+	Passed
+RandomHandCount: 272
+RandomDeckCount: 377
+	Passed
+RandomHandCount: 381
+RandomDeckCount: 107
+	Passed
+RandomHandCount: 438
+RandomDeckCount: 52
+	Passed
+RandomHandCount: 445
+RandomDeckCount: 182
+	Passed
+RandomHandCount: 488
+RandomDeckCount: 108
+	Passed
+RandomHandCount: 25
+RandomDeckCount: 4
+	Passed
+RandomHandCount: 343
+RandomDeckCount: 272
+	Passed
+RandomHandCount: 312
+RandomDeckCount: 206
+	Passed
+RandomHandCount: 46
+RandomDeckCount: 104
+	Passed
+RandomHandCount: 430
+RandomDeckCount: 324
+	Passed
+RandomHandCount: 358
+RandomDeckCount: 48
+	Passed
+RandomHandCount: 379
+RandomDeckCount: 138
+	Passed
+RandomHandCount: 84
+RandomDeckCount: 285
+	Passed
+RandomHandCount: 472
+RandomDeckCount: 206
+	Passed
+RandomHandCount: 242
+RandomDeckCount: 162
+	Passed
+RandomHandCount: 155
+RandomDeckCount: 369
+	Passed
+RandomHandCount: 38
+RandomDeckCount: 39
+	Passed
+RandomHandCount: 327
+RandomDeckCount: 330
+	Passed
+RandomHandCount: 442
+RandomDeckCount: 274
+	Passed
+RandomHandCount: 11
+RandomDeckCount: 284
+	Passed
+RandomHandCount: 233
+RandomDeckCount: 391
+	Passed
+RandomHandCount: 287
+RandomDeckCount: 79
+	Passed
+RandomHandCount: 162
+RandomDeckCount: 454
+	Passed
+RandomHandCount: 136
+RandomDeckCount: 62
+	Passed
+RandomHandCount: 409
+RandomDeckCount: 68
+	Passed
+RandomHandCount: 386
+RandomDeckCount: 121
+	Passed
+RandomHandCount: 467
+RandomDeckCount: 267
+	Passed
+RandomHandCount: 258
+RandomDeckCount: 53
+	Passed
+RandomHandCount: 403
+RandomDeckCount: 84
+	Passed
+RandomHandCount: 259
+RandomDeckCount: 0
+	Failed
+RandomHandCount: 245
+RandomDeckCount: 268
+	Passed
+RandomHandCount: 368
+RandomDeckCount: 286
+	Passed
+RandomHandCount: 158
+RandomDeckCount: 49
+	Passed
+RandomHandCount: 467
+RandomDeckCount: 103
+	Passed
+RandomHandCount: 322
+RandomDeckCount: 481
+	Passed
+RandomHandCount: 238
+RandomDeckCount: 410
+	Passed
+RandomHandCount: 371
+RandomDeckCount: 28
+	Passed
+RandomHandCount: 340
+RandomDeckCount: 387
+	Passed
+RandomHandCount: 333
+RandomDeckCount: 478
+	Passed
+RandomHandCount: 449
+RandomDeckCount: 244
+	Passed
+RandomHandCount: 397
+RandomDeckCount: 189
+	Passed
+RandomHandCount: 217
+RandomDeckCount: 366
+	Passed
+RandomHandCount: 307
+RandomDeckCount: 477
+	Passed
+RandomHandCount: 270
+RandomDeckCount: 65
+	Passed
+RandomHandCount: 61
+RandomDeckCount: 383
+	Passed
+RandomHandCount: 64
+RandomDeckCount: 308
+	Passed
+RandomHandCount: 151
+RandomDeckCount: 286
+	Passed
+RandomHandCount: 445
+RandomDeckCount: 311
+	Passed
+RandomHandCount: 334
+RandomDeckCount: 415
+	Passed
+RandomHandCount: 265
+RandomDeckCount: 10
+	Passed
+RandomHandCount: 247
+RandomDeckCount: 6
+	Passed
+RandomHandCount: 271
+RandomDeckCount: 472
+	Passed
+RandomHandCount: 385
+RandomDeckCount: 113
+	Passed
+RandomHandCount: 358
+RandomDeckCount: 220
+	Passed
+RandomHandCount: 442
+RandomDeckCount: 161
+	Passed
+RandomHandCount: 315
+RandomDeckCount: 341
+	Passed
+RandomHandCount: 349
+RandomDeckCount: 386
+	Passed
+RandomHandCount: 58
+RandomDeckCount: 11
+	Passed
+RandomHandCount: 363
+RandomDeckCount: 331
+	Passed
+RandomHandCount: 75
+RandomDeckCount: 278
+	Passed
+RandomHandCount: 213
+RandomDeckCount: 141
+	Passed
+RandomHandCount: 437
+RandomDeckCount: 218
+	Passed
+RandomHandCount: 278
+RandomDeckCount: 385
+	Passed
+RandomHandCount: 381
+RandomDeckCount: 466
+	Passed
+RandomHandCount: 151
+RandomDeckCount: 0
+	Failed
+RandomHandCount: 475
+RandomDeckCount: 400
+	Passed
+RandomHandCount: 5
+RandomDeckCount: 101
+	Passed
+RandomHandCount: 223
+RandomDeckCount: 244
+	Passed
+RandomHandCount: 213
+RandomDeckCount: 83
+	Passed
+RandomHandCount: 315
+RandomDeckCount: 158
+	Passed
+RandomHandCount: 96
+RandomDeckCount: 485
+	Passed
+RandomHandCount: 498
+RandomDeckCount: 299
+	Passed
+RandomHandCount: 370
+RandomDeckCount: 411
+	Passed
+RandomHandCount: 309
+RandomDeckCount: 87
+	Passed
+RandomHandCount: 241
+RandomDeckCount: 386
+	Passed
+RandomHandCount: 364
+RandomDeckCount: 308
+	Passed
+RandomHandCount: 378
+RandomDeckCount: 304
+	Passed
+RandomHandCount: 26
+RandomDeckCount: 10
+	Passed
+RandomHandCount: 40
+RandomDeckCount: 409
+	Passed
+RandomHandCount: 475
+RandomDeckCount: 45
+	Passed
+RandomHandCount: 408
+RandomDeckCount: 305
+	Passed
+RandomHandCount: 296
+RandomDeckCount: 268
+	Passed
+RandomHandCount: 405
+RandomDeckCount: 21
+	Passed
+RandomHandCount: 363
+RandomDeckCount: 472
+	Passed
+RandomHandCount: 455
+RandomDeckCount: 181
+	Passed
+RandomHandCount: 129
+RandomDeckCount: 53
+	Passed
+RandomHandCount: 17
+RandomDeckCount: 482
+	Passed
+RandomHandCount: 352
+RandomDeckCount: 389
+	Passed
+RandomHandCount: 392
+RandomDeckCount: 15
+	Passed
+RandomHandCount: 476
+RandomDeckCount: 135
+	Passed
+RandomHandCount: 253
+RandomDeckCount: 194
+	Passed
+RandomHandCount: 294
+RandomDeckCount: 133
+	Passed
+RandomHandCount: 349
+RandomDeckCount: 322
+	Passed
+RandomHandCount: 495
+RandomDeckCount: 391
+	Passed
+RandomHandCount: 82
+RandomDeckCount: 472
+	Passed
+RandomHandCount: 435
+RandomDeckCount: 345
+	Passed
+RandomHandCount: 128
+RandomDeckCount: 85
+	Passed
+RandomHandCount: 112
+RandomDeckCount: 35
+	Passed
+RandomHandCount: 105
+RandomDeckCount: 477
+	Passed
+RandomHandCount: 7
+RandomDeckCount: 63
+	Passed
+RandomHandCount: 9
+RandomDeckCount: 490
+	Passed
+RandomHandCount: 467
+RandomDeckCount: 28
+	Passed
+RandomHandCount: 471
+RandomDeckCount: 173
+	Passed
+RandomHandCount: 269
+RandomDeckCount: 217
+	Passed
+RandomHandCount: 188
+RandomDeckCount: 99
+	Passed
+RandomHandCount: 203
+RandomDeckCount: 443
+	Passed
+RandomHandCount: 144
+RandomDeckCount: 0
+	Failed
+RandomHandCount: 427
+RandomDeckCount: 496
+	Passed
+RandomHandCount: 173
+RandomDeckCount: 424
+	Passed
+RandomHandCount: 238
+RandomDeckCount: 258
+	Passed
+RandomHandCount: 248
+RandomDeckCount: 28
+	Passed
+RandomHandCount: 102
+RandomDeckCount: 230
+	Passed
+RandomHandCount: 112
+RandomDeckCount: 68
+	Passed
+RandomHandCount: 117
+RandomDeckCount: 220
+	Passed
+RandomHandCount: 396
+RandomDeckCount: 126
+	Passed
+RandomHandCount: 282
+RandomDeckCount: 408
+	Passed
+RandomHandCount: 467
+RandomDeckCount: 251
+	Passed
+RandomHandCount: 287
+RandomDeckCount: 293
+	Passed
+RandomHandCount: 424
+RandomDeckCount: 410
+	Passed
+RandomHandCount: 9
+RandomDeckCount: 466
+	Passed
+RandomHandCount: 8
+RandomDeckCount: 215
+	Passed
+RandomHandCount: 260
+RandomDeckCount: 155
+	Passed
+RandomHandCount: 66
+RandomDeckCount: 189
+	Passed
+RandomHandCount: 2
+RandomDeckCount: 241
+	Passed
+RandomHandCount: 465
+RandomDeckCount: 242
+	Passed
+RandomHandCount: 498
+RandomDeckCount: 67
+	Passed
+RandomHandCount: 269
+RandomDeckCount: 454
+	Passed
+RandomHandCount: 296
+RandomDeckCount: 384
+	Passed
+RandomHandCount: 21
+RandomDeckCount: 415
+	Passed
+RandomHandCount: 103
+RandomDeckCount: 420
+	Passed
+RandomHandCount: 392
+RandomDeckCount: 239
+	Passed
+RandomHandCount: 179
+RandomDeckCount: 362
+	Passed
+RandomHandCount: 341
+RandomDeckCount: 468
+	Passed
+RandomHandCount: 6
+RandomDeckCount: 119
+	Passed
+RandomHandCount: 230
+RandomDeckCount: 17
+	Passed
+RandomHandCount: 84
+RandomDeckCount: 240
+	Passed
+RandomHandCount: 83
+RandomDeckCount: 346
+	Passed
+RandomHandCount: 246
+RandomDeckCount: 151
+	Passed
+RandomHandCount: 387
+RandomDeckCount: 250
+	Passed
+RandomHandCount: 392
+RandomDeckCount: 354
+	Passed
+RandomHandCount: 492
+RandomDeckCount: 392
+	Passed
+RandomHandCount: 272
+RandomDeckCount: 263
+	Passed
+RandomHandCount: 346
+RandomDeckCount: 70
+	Passed
+RandomHandCount: 498
+RandomDeckCount: 221
+	Passed
+RandomHandCount: 337
+RandomDeckCount: 103
+	Passed
+RandomHandCount: 140
+RandomDeckCount: 83
+	Passed
+RandomHandCount: 193
+RandomDeckCount: 321
+	Passed
+RandomHandCount: 296
+RandomDeckCount: 37
+	Passed
+RandomHandCount: 141
+RandomDeckCount: 304
+	Passed
+RandomHandCount: 155
+RandomDeckCount: 373
+	Passed
+RandomHandCount: 321
+RandomDeckCount: 94
+	Passed
+RandomHandCount: 464
+RandomDeckCount: 406
+	Passed
+RandomHandCount: 439
+RandomDeckCount: 65
+	Passed
+RandomHandCount: 57
+RandomDeckCount: 180
+	Passed
+RandomHandCount: 166
+RandomDeckCount: 303
+	Passed
+RandomHandCount: 385
+RandomDeckCount: 160
+	Passed
+RandomHandCount: 46
+RandomDeckCount: 159
+	Passed
+RandomHandCount: 275
+RandomDeckCount: 246
+	Passed
+RandomHandCount: 81
+RandomDeckCount: 127
+	Passed
+RandomHandCount: 467
+RandomDeckCount: 420
+	Passed
+RandomHandCount: 82
+RandomDeckCount: 109
+	Passed
+RandomHandCount: 2
+RandomDeckCount: 277
+	Passed
+RandomHandCount: 282
+RandomDeckCount: 301
+	Passed
+RandomHandCount: 313
+RandomDeckCount: 277
+	Passed
+RandomHandCount: 456
+RandomDeckCount: 323
+	Passed
+RandomHandCount: 1
+RandomDeckCount: 279
+	Passed
+RandomHandCount: 268
+RandomDeckCount: 319
+	Passed
+RandomHandCount: 37
+RandomDeckCount: 61
+	Passed
+RandomHandCount: 383
+RandomDeckCount: 448
+	Passed
+RandomHandCount: 241
+RandomDeckCount: 52
+	Passed
+RandomHandCount: 250
+RandomDeckCount: 128
+	Passed
+RandomHandCount: 63
+RandomDeckCount: 150
+	Passed
+RandomHandCount: 287
+RandomDeckCount: 192
+	Passed
+RandomHandCount: 396
+RandomDeckCount: 370
+	Passed
+RandomHandCount: 319
+RandomDeckCount: 365
+	Passed
+RandomHandCount: 141
+RandomDeckCount: 403
+	Passed
+RandomHandCount: 325
+RandomDeckCount: 497
+	Passed
+RandomHandCount: 179
+RandomDeckCount: 461
+	Passed
+RandomHandCount: 149
+RandomDeckCount: 347
+	Passed
+RandomHandCount: 237
+RandomDeckCount: 108
+	Passed
+RandomHandCount: 21
+RandomDeckCount: 92
+	Passed
+RandomHandCount: 238
+RandomDeckCount: 291
+	Passed
+RandomHandCount: 411
+RandomDeckCount: 277
+	Passed
+RandomHandCount: 203
+RandomDeckCount: 148
+	Passed
+RandomHandCount: 76
+RandomDeckCount: 446
+	Passed
+RandomHandCount: 199
+RandomDeckCount: 328
+	Passed
+RandomHandCount: 74
+RandomDeckCount: 117
+	Passed
+RandomHandCount: 330
+RandomDeckCount: 215
+	Passed
+RandomHandCount: 308
+RandomDeckCount: 228
+	Passed
+RandomHandCount: 436
+RandomDeckCount: 481
+	Passed
+RandomHandCount: 92
+RandomDeckCount: 79
+	Passed
+RandomHandCount: 235
+RandomDeckCount: 271
+	Passed
+RandomHandCount: 427
+RandomDeckCount: 269
+	Passed
+RandomHandCount: 232
+RandomDeckCount: 79
+	Passed
+RandomHandCount: 467
+RandomDeckCount: 323
+	Passed
+RandomHandCount: 186
+RandomDeckCount: 490
+	Passed
+RandomHandCount: 267
+RandomDeckCount: 278
+	Passed
+RandomHandCount: 132
+RandomDeckCount: 180
+	Passed
+RandomHandCount: 55
+RandomDeckCount: 337
+	Passed
+RandomHandCount: 327
+RandomDeckCount: 133
+	Passed
+RandomHandCount: 135
+RandomDeckCount: 381
+	Passed
+RandomHandCount: 313
+RandomDeckCount: 211
+	Passed
+RandomHandCount: 497
+RandomDeckCount: 145
+	Passed
+RandomHandCount: 277
+RandomDeckCount: 159
+	Passed
+RandomHandCount: 224
+RandomDeckCount: 215
+	Passed
+RandomHandCount: 492
+RandomDeckCount: 170
+	Passed
+RandomHandCount: 293
+RandomDeckCount: 229
+	Passed
+RandomHandCount: 440
+RandomDeckCount: 222
+	Passed
+RandomHandCount: 497
+RandomDeckCount: 26
+	Passed
+RandomHandCount: 152
+RandomDeckCount: 466
+	Passed
+RandomHandCount: 201
+RandomDeckCount: 192
+	Passed
+RandomHandCount: 307
+RandomDeckCount: 470
+	Passed
+RandomHandCount: 470
+RandomDeckCount: 293
+	Passed
+RandomHandCount: 1
+RandomDeckCount: 27
+	Passed
+RandomHandCount: 482
+RandomDeckCount: 182
+	Passed
+RandomHandCount: 11
+RandomDeckCount: 119
+	Passed
+RandomHandCount: 62
+RandomDeckCount: 178
+	Passed
+RandomHandCount: 181
+RandomDeckCount: 413
+	Passed
+RandomHandCount: 174
+RandomDeckCount: 312
+	Passed
+RandomHandCount: 424
+RandomDeckCount: 252
+	Passed
+RandomHandCount: 26
+RandomDeckCount: 418
+	Passed
+RandomHandCount: 421
+RandomDeckCount: 173
+	Passed
+RandomHandCount: 498
+RandomDeckCount: 364
+	Passed
+RandomHandCount: 246
+RandomDeckCount: 350
+	Passed
+RandomHandCount: 241
+RandomDeckCount: 401
+	Passed
+RandomHandCount: 167
+RandomDeckCount: 444
+	Passed
+RandomHandCount: 92
+RandomDeckCount: 329
+	Passed
+RandomHandCount: 413
+RandomDeckCount: 64
+	Passed
+RandomHandCount: 121
+RandomDeckCount: 268
+	Passed
+RandomHandCount: 442
+RandomDeckCount: 457
+	Passed
+RandomHandCount: 450
+RandomDeckCount: 308
+	Passed
+RandomHandCount: 427
+RandomDeckCount: 14
+	Passed
+RandomHandCount: 337
+RandomDeckCount: 110
+	Passed
+RandomHandCount: 279
+RandomDeckCount: 366
+	Passed
+RandomHandCount: 273
+RandomDeckCount: 57
+	Passed
+RandomHandCount: 117
+RandomDeckCount: 301
+	Passed
+RandomHandCount: 326
+RandomDeckCount: 41
+	Passed
+RandomHandCount: 473
+RandomDeckCount: 326
+	Passed
+RandomHandCount: 256
+RandomDeckCount: 222
+	Passed
+RandomHandCount: 27
+RandomDeckCount: 499
+	Passed
+RandomHandCount: 474
+RandomDeckCount: 197
+	Passed
+RandomHandCount: 443
+RandomDeckCount: 68
+	Passed
+RandomHandCount: 25
+RandomDeckCount: 210
+	Passed
+RandomHandCount: 484
+RandomDeckCount: 0
+	Failed
+RandomHandCount: 330
+RandomDeckCount: 280
+	Passed
+RandomHandCount: 457
+RandomDeckCount: 282
+	Passed
+RandomHandCount: 87
+RandomDeckCount: 386
+	Passed
+RandomHandCount: 147
+RandomDeckCount: 279
+	Passed
+RandomHandCount: 348
+RandomDeckCount: 428
+	Passed
+RandomHandCount: 144
+RandomDeckCount: 123
+	Passed
+RandomHandCount: 484
+RandomDeckCount: 115
+	Passed
+RandomHandCount: 276
+RandomDeckCount: 164
+	Passed
+RandomHandCount: 155
+RandomDeckCount: 251
+	Passed
+RandomHandCount: 490
+RandomDeckCount: 265
+	Passed
+RandomHandCount: 324
+RandomDeckCount: 19
+	Passed
+RandomHandCount: 264
+RandomDeckCount: 300
+	Passed
+RandomHandCount: 67
+RandomDeckCount: 61
+	Passed
+RandomHandCount: 220
+RandomDeckCount: 94
+	Passed
+RandomHandCount: 122
+RandomDeckCount: 58
+	Passed
+RandomHandCount: 446
+RandomDeckCount: 454
+	Passed
+RandomHandCount: 337
+RandomDeckCount: 405
+	Passed
+RandomHandCount: 235
+RandomDeckCount: 279
+	Passed
+RandomHandCount: 142
+RandomDeckCount: 385
+	Passed
+RandomHandCount: 409
+RandomDeckCount: 492
+	Passed
+RandomHandCount: 164
+RandomDeckCount: 55
+	Passed
+RandomHandCount: 467
+RandomDeckCount: 3
+	Passed
+RandomHandCount: 21
+RandomDeckCount: 245
+	Passed
+RandomHandCount: 166
+RandomDeckCount: 31
+	Passed
+RandomHandCount: 347
+RandomDeckCount: 10
+	Passed
+RandomHandCount: 295
+RandomDeckCount: 26
+	Passed
+RandomHandCount: 381
+RandomDeckCount: 61
+	Passed
+RandomHandCount: 177
+RandomDeckCount: 450
+	Passed
+RandomHandCount: 121
+RandomDeckCount: 251
+	Passed
+RandomHandCount: 396
+RandomDeckCount: 246
+	Passed
+RandomHandCount: 308
+RandomDeckCount: 344
+	Passed
+RandomHandCount: 51
+RandomDeckCount: 0
+	Failed
+RandomHandCount: 100
+RandomDeckCount: 289
+	Passed
+RandomHandCount: 278
+RandomDeckCount: 244
+	Passed
+RandomHandCount: 25
+RandomDeckCount: 189
+	Passed
+RandomHandCount: 88
+RandomDeckCount: 191
+	Passed
+RandomHandCount: 95
+RandomDeckCount: 409
+	Passed
+RandomHandCount: 45
+RandomDeckCount: 470
+	Passed
+RandomHandCount: 5
+RandomDeckCount: 214
+	Passed
+
+
+here is happend->
+
+RandomHandCount: 0
+RandomDeckCount: 354
+	Passed
+RandomHandCount: 223
+RandomDeckCount: 298
+	Passed
+RandomHandCount: 231
+RandomDeckCount: 106
+	Passed
+RandomHandCount: 358
+RandomDeckCount: 411
+	Passed
+RandomHandCount: 408
+RandomDeckCount: 334
+	Passed
+RandomHandCount: 13
+RandomDeckCount: 306
+	Passed
+RandomHandCount: 431
+RandomDeckCount: 324
+	Passed
+RandomHandCount: 1
+RandomDeckCount: 484
+	Passed
+RandomHandCount: 175
+RandomDeckCount: 103
+	Passed
+RandomHandCount: 124
+RandomDeckCount: 455
+	Passed
+RandomHandCount: 346
+RandomDeckCount: 151
+	Passed
+RandomHandCount: 495
+RandomDeckCount: 288
+	Passed
+RandomHandCount: 194
+RandomDeckCount: 444
+	Passed
+RandomHandCount: 196
+RandomDeckCount: 241
+	Passed
+RandomHandCount: 413
+RandomDeckCount: 203
+	Passed
+RandomHandCount: 454
+RandomDeckCount: 268
+	Passed
+RandomHandCount: 409
+RandomDeckCount: 32
+	Passed
+RandomHandCount: 65
+RandomDeckCount: 142
+	Passed
+RandomHandCount: 489
+RandomDeckCount: 277
+	Passed
+RandomHandCount: 404
+RandomDeckCount: 399
+	Passed
+RandomHandCount: 110
+RandomDeckCount: 420
+	Passed
+RandomHandCount: 204
+RandomDeckCount: 395
+	Passed
+RandomHandCount: 95
+RandomDeckCount: 207
+	Passed
+RandomHandCount: 231
+RandomDeckCount: 272
+	Passed
+RandomHandCount: 161
+RandomDeckCount: 357
+	Passed
+RandomHandCount: 78
+RandomDeckCount: 10
+	Passed
+RandomHandCount: 360
+RandomDeckCount: 427
+	Passed
+RandomHandCount: 297
+RandomDeckCount: 56
+	Passed
+RandomHandCount: 370
+RandomDeckCount: 348
+	Passed
+RandomHandCount: 296
+RandomDeckCount: 137
+	Passed
+RandomHandCount: 50
+RandomDeckCount: 105
+	Passed
+RandomHandCount: 404
+RandomDeckCount: 461
+	Passed
+RandomHandCount: 136
+RandomDeckCount: 471
+	Passed
+RandomHandCount: 103
+RandomDeckCount: 127
+	Passed
+RandomHandCount: 100
+RandomDeckCount: 361
+	Passed
+RandomHandCount: 26
+RandomDeckCount: 212
+	Passed
+RandomHandCount: 280
+RandomDeckCount: 84
+	Passed
+RandomHandCount: 459
+RandomDeckCount: 229
+	Passed
+RandomHandCount: 143
+RandomDeckCount: 192
+	Passed
+
+
+here is happend->
+
+RandomHandCount: 0
+RandomDeckCount: 306
+	Passed
+RandomHandCount: 400
+RandomDeckCount: 432
+	Passed
+RandomHandCount: 167
+RandomDeckCount: 262
+	Passed
+RandomHandCount: 358
+RandomDeckCount: 319
+	Passed
+RandomHandCount: 317
+RandomDeckCount: 82
+	Passed
+RandomHandCount: 166
+RandomDeckCount: 468
+	Passed
+RandomHandCount: 71
+RandomDeckCount: 218
+	Passed
+RandomHandCount: 72
+RandomDeckCount: 477
+	Passed
+RandomHandCount: 31
+RandomDeckCount: 62
+	Passed
+RandomHandCount: 300
+RandomDeckCount: 488
+	Passed
+RandomHandCount: 188
+RandomDeckCount: 402
+	Passed
+RandomHandCount: 348
+RandomDeckCount: 68
+	Passed
+RandomHandCount: 465
+RandomDeckCount: 483
+	Passed
+RandomHandCount: 4
+RandomDeckCount: 278
+	Passed
+RandomHandCount: 211
+RandomDeckCount: 1
+	Failed
+RandomHandCount: 469
+RandomDeckCount: 66
+	Passed
+RandomHandCount: 158
+RandomDeckCount: 224
+	Passed
+RandomHandCount: 349
+RandomDeckCount: 328
+	Passed
+RandomHandCount: 485
+RandomDeckCount: 210
+	Passed
+RandomHandCount: 498
+RandomDeckCount: 157
+	Passed
+RandomHandCount: 291
+RandomDeckCount: 166
+	Passed
+RandomHandCount: 476
+RandomDeckCount: 364
+	Passed
+RandomHandCount: 235
+RandomDeckCount: 402
+	Passed
+RandomHandCount: 193
+RandomDeckCount: 120
+	Passed
+RandomHandCount: 463
+RandomDeckCount: 347
+	Passed
+RandomHandCount: 107
+RandomDeckCount: 5
+	Passed
+RandomHandCount: 100
+RandomDeckCount: 458
+	Passed
+RandomHandCount: 425
+RandomDeckCount: 67
+	Passed
+RandomHandCount: 292
+RandomDeckCount: 431
+	Passed
+RandomHandCount: 345
+RandomDeckCount: 357
+	Passed
+RandomHandCount: 283
+RandomDeckCount: 168
+	Passed
+RandomHandCount: 422
+RandomDeckCount: 443
+	Passed
+RandomHandCount: 243
+RandomDeckCount: 126
+	Passed
+RandomHandCount: 270
+RandomDeckCount: 231
+	Passed
+RandomHandCount: 335
+RandomDeckCount: 122
+	Passed
+RandomHandCount: 239
+RandomDeckCount: 480
+	Passed
+RandomHandCount: 139
+RandomDeckCount: 69
+	Passed
+RandomHandCount: 196
+RandomDeckCount: 229
+	Passed
+RandomHandCount: 470
+RandomDeckCount: 243
+	Passed
+RandomHandCount: 348
+RandomDeckCount: 287
+	Passed
+RandomHandCount: 89
+RandomDeckCount: 458
+	Passed
+RandomHandCount: 291
+RandomDeckCount: 191
+	Passed
+RandomHandCount: 267
+RandomDeckCount: 218
+	Passed
+RandomHandCount: 109
+RandomDeckCount: 61
+	Passed
+
+
+here is happend->
+
+RandomHandCount: 0
+RandomDeckCount: 308
+	Passed
+RandomHandCount: 417
+RandomDeckCount: 285
+	Passed
+RandomHandCount: 328
+RandomDeckCount: 194
+	Passed
+RandomHandCount: 228
+RandomDeckCount: 73
+	Passed
+RandomHandCount: 319
+RandomDeckCount: 352
+	Passed
+RandomHandCount: 155
+RandomDeckCount: 8
+	Passed
+RandomHandCount: 474
+RandomDeckCount: 248
+	Passed
+RandomHandCount: 339
+RandomDeckCount: 467
+	Passed
+RandomHandCount: 316
+RandomDeckCount: 37
+	Passed
+RandomHandCount: 195
+RandomDeckCount: 288
+	Passed
+RandomHandCount: 279
+RandomDeckCount: 46
+	Passed
+RandomHandCount: 74
+RandomDeckCount: 222
+	Passed
+RandomHandCount: 3
+RandomDeckCount: 220
+	Passed
+RandomHandCount: 264
+RandomDeckCount: 272
+	Passed
+RandomHandCount: 289
+RandomDeckCount: 376
+	Passed
+RandomHandCount: 184
+RandomDeckCount: 144
+	Passed
+RandomHandCount: 35
+RandomDeckCount: 103
+	Passed
+RandomHandCount: 428
+RandomDeckCount: 365
+	Passed
+RandomHandCount: 148
+RandomDeckCount: 10
+	Passed
+RandomHandCount: 438
+RandomDeckCount: 321
+	Passed
+RandomHandCount: 214
+RandomDeckCount: 95
+	Passed
+RandomHandCount: 328
+RandomDeckCount: 42
+	Passed
+RandomHandCount: 343
+RandomDeckCount: 22
+	Passed
+RandomHandCount: 8
+RandomDeckCount: 13
+	Passed
+RandomHandCount: 58
+RandomDeckCount: 206
+	Passed
+RandomHandCount: 301
+RandomDeckCount: 192
+	Passed
+RandomHandCount: 251
+RandomDeckCount: 229
+	Passed
+RandomHandCount: 265
+RandomDeckCount: 108
+	Passed
+RandomHandCount: 300
+RandomDeckCount: 32
+	Passed
+RandomHandCount: 231
+RandomDeckCount: 92
+	Passed
+RandomHandCount: 259
+RandomDeckCount: 417
+	Passed
+RandomHandCount: 235
+RandomDeckCount: 296
+	Passed
+RandomHandCount: 371
+RandomDeckCount: 17
+	Passed
+RandomHandCount: 161
+RandomDeckCount: 374
+	Passed
+RandomHandCount: 379
+RandomDeckCount: 101
+	Passed
+RandomHandCount: 194
+RandomDeckCount: 447
+	Passed
+RandomHandCount: 47
+RandomDeckCount: 377
+	Passed
+RandomHandCount: 488
+RandomDeckCount: 244
+	Passed
+RandomHandCount: 398
+RandomDeckCount: 350
+	Passed
+RandomHandCount: 109
+RandomDeckCount: 310
+	Passed
+RandomHandCount: 55
+RandomDeckCount: 412
+	Passed
+RandomHandCount: 353
+RandomDeckCount: 160
+	Passed
+RandomHandCount: 492
+RandomDeckCount: 121
+	Passed
+RandomHandCount: 267
+RandomDeckCount: 295
+	Passed
+RandomHandCount: 152
+RandomDeckCount: 0
+	Failed
+RandomHandCount: 238
+RandomDeckCount: 413
+	Passed
+RandomHandCount: 268
+RandomDeckCount: 327
+	Passed
+RandomHandCount: 208
+RandomDeckCount: 142
+	Passed
+RandomHandCount: 195
+RandomDeckCount: 223
+	Passed
+RandomHandCount: 367
+RandomDeckCount: 428
+	Passed
+RandomHandCount: 175
+RandomDeckCount: 63
+	Passed
+RandomHandCount: 374
+RandomDeckCount: 77
+	Passed
+RandomHandCount: 291
+RandomDeckCount: 216
+	Passed
+RandomHandCount: 320
+RandomDeckCount: 191
+	Passed
+RandomHandCount: 66
+RandomDeckCount: 431
+	Passed
+RandomHandCount: 1
+RandomDeckCount: 123
+	Passed
+RandomHandCount: 194
+RandomDeckCount: 356
+	Passed
+RandomHandCount: 135
+RandomDeckCount: 41
+	Passed
+RandomHandCount: 328
+RandomDeckCount: 404
+	Passed
+RandomHandCount: 187
+RandomDeckCount: 482
+	Passed
+RandomHandCount: 256
+RandomDeckCount: 279
+	Passed
+RandomHandCount: 246
+RandomDeckCount: 26
+	Passed
+RandomHandCount: 105
+RandomDeckCount: 309
+	Passed
+RandomHandCount: 19
+RandomDeckCount: 154
+	Passed
+RandomHandCount: 31
+RandomDeckCount: 240
+	Passed
+RandomHandCount: 82
+RandomDeckCount: 209
+	Passed
+RandomHandCount: 303
+RandomDeckCount: 458
+	Passed
+RandomHandCount: 285
+RandomDeckCount: 96
+	Passed
+RandomHandCount: 174
+RandomDeckCount: 459
+	Passed
+RandomHandCount: 139
+RandomDeckCount: 94
+	Passed
+RandomHandCount: 242
+RandomDeckCount: 494
+	Passed
+RandomHandCount: 216
+RandomDeckCount: 290
+	Passed
+RandomHandCount: 349
+RandomDeckCount: 205
+	Passed
+RandomHandCount: 182
+RandomDeckCount: 32
+	Passed
+RandomHandCount: 109
+RandomDeckCount: 223
+	Passed
+RandomHandCount: 13
+RandomDeckCount: 219
+	Passed
+RandomHandCount: 1
+RandomDeckCount: 114
+	Passed
+RandomHandCount: 96
+RandomDeckCount: 460
+	Passed
+RandomHandCount: 274
+RandomDeckCount: 470
+	Passed
+RandomHandCount: 114
+RandomDeckCount: 307
+	Passed
+RandomHandCount: 209
+RandomDeckCount: 198
+	Passed
+RandomHandCount: 367
+RandomDeckCount: 366
+	Passed
+RandomHandCount: 7
+RandomDeckCount: 6
+	Passed
+RandomHandCount: 314
+RandomDeckCount: 35
+	Passed
+RandomHandCount: 317
+RandomDeckCount: 455
+	Passed
+RandomHandCount: 128
+RandomDeckCount: 413
+	Passed
+RandomHandCount: 448
+RandomDeckCount: 199
+	Passed
+RandomHandCount: 202
+RandomDeckCount: 151
+	Passed
+RandomHandCount: 403
+RandomDeckCount: 239
+	Passed
+RandomHandCount: 182
+RandomDeckCount: 366
+	Passed
+RandomHandCount: 461
+RandomDeckCount: 50
+	Passed
+RandomHandCount: 436
+RandomDeckCount: 465
+	Passed
+RandomHandCount: 15
+RandomDeckCount: 35
+	Passed
+RandomHandCount: 424
+RandomDeckCount: 291
+	Passed
+RandomHandCount: 356
+RandomDeckCount: 392
+	Passed
+RandomHandCount: 97
+RandomDeckCount: 67
+	Passed
+RandomHandCount: 441
+RandomDeckCount: 319
+	Passed
+All tests passed!
+
+Times ran: 2002 | Tests Failed: 9
+File 'dominion.c'
+Lines executed:30.89% of 560
+Creating 'dominion.c.gcov'
+
+        -:    0:Source:dominion.c
+        -:    0:Graph:dominion.gcno
+        -:    0:Data:dominion.gcda
+        -:    0:Runs:9
+        -:    0:Programs:9
+        -:    1:#include "dominion.h"
+        -:    2:#include "dominion_helpers.h"
+        -:    3:#include "rngs.h"
+        -:    4:#include <stdio.h>
+        -:    5:#include <math.h>
+        -:    6:#include <stdlib.h>
+        -:    7:
+        -:    8:/***** Refactored cards - now with bugs!*****/
+        -:    9:
+        -:   10:/* Smithy */
+        -:   11:/* Card Test 1 */
+        -:   12:/* Random tester card1 */
+     1296:   13:int play_smithy(int currentPlayer, struct gameState *state, int handPos)
+        -:   14:{
+        -:   15:	int i;
+        -:   16:
+        -:   17:      //+3 Cards
+     3888:   18:        for (i = 1; i < 3; i++) /* BUG: i = 1 instead of i = 0 */
+        -:   19:	{
+     2592:   20:	  drawCard(currentPlayer, state);
+        -:   21:	}
+        -:   22:			
+        -:   23:      //discard card from hand
+     1296:   24:      discardCard(handPos, currentPlayer, state, 0);
+     1296:   25:      return 0;
+        -:   26:}
+        -:   27:
+        -:   28:/* Adventurer */
+        -:   29:/* Card Test 2 */
+        -:   30:/* Random tester */
+     2997:   31:int play_adventurer(int drawntreasure, struct gameState *state, int currentPlayer, int temphand[], int z)
+        -:   32:{
+        -:   33:	int cardDrawn;
+        -:   34:
+   488728:   35:	while(drawntreasure<2){
+   482734:   36:		if (state->deckCount[currentPlayer] <1){//if the deck is empty we need to shuffle discard and add to deck
+      237:   37:		  shuffle(currentPlayer, state);
+        -:   38:		}
+   482734:   39:		drawCard(currentPlayer, state);
+   482734:   40:		cardDrawn = state->hand[currentPlayer][state->handCount[currentPlayer]-1];//top card of hand is most recently drawn card.
+   482734:   41:		if (cardDrawn == copper || cardDrawn == silver || cardDrawn == gold)
+     5994:   42:		  drawntreasure++;
+        -:   43:		else{
+   476740:   44:		  temphand[z]=cardDrawn;
+   476740:   45:		  state->handCount[currentPlayer]--; //this should just remove the top card (the most recently drawn one).
+   476740:   46:		  z++;
+        -:   47:		}
+        -:   48:	      }
+   480261:   49:	      while(z-1>0){ /* BUG: '>' instead of '>=' */
+   474267:   50:		state->discard[currentPlayer][state->discardCount[currentPlayer]++]=temphand[z-1]; // discard all cards in play that have been drawn
+   474267:   51:		z=z-1;
+        -:   52:	      }
+     2997:   53:	      return 0;
+        -:   54:}
+        -:   55:
+        -:   56:/* Council Room */
+        -:   57:/* Card Test 3 */
+    #####:   58:int play_council_room(int currentPlayer, struct gameState *state, int handPos)
+        -:   59:{
+        -:   60:	int i;
+        -:   61:
+        -:   62:      //+4 Cards
+    #####:   63:      for (i = 0; i < 3; i++) /* BUG: draw 3 cards instead of 4 */
+        -:   64:	{
+    #####:   65:	  drawCard(currentPlayer, state);
+        -:   66:	}
+        -:   67:			
+        -:   68:      //+1 Buy
+    #####:   69:      state->numBuys++;
+        -:   70:			
+        -:   71:      //Each other player draws a card
+    #####:   72:      for (i = 0; i < state->numPlayers; i++)
+        -:   73:	{
+    #####:   74:	  if ( i != currentPlayer )
+        -:   75:	    {
+    #####:   76:	      drawCard(i, state);
+        -:   77:	    }
+        -:   78:	}
+        -:   79:			
+        -:   80:      //put played card in played card pile
+    #####:   81:      discardCard(handPos, currentPlayer, state, 0);
+        -:   82:			
+    #####:   83:      return 0;
+        -:   84:}
+        -:   85:
+        -:   86:/* Mine */
+    #####:   87:int play_mine(struct gameState *state, int choice1, int choice2, int currentPlayer, int handPos)
+        -:   88:{
+        -:   89:	int i;
+        -:   90:	int j;
+        -:   91:
+    #####:   92:	j = state->hand[currentPlayer][choice1];  //store card we will trash
+        -:   93:
+    #####:   94:	if (state->hand[currentPlayer][choice1] < copper || state->hand[currentPlayer][choice1] > gold)
+        -:   95:	  {
+    #####:   96:	    return -1;
+        -:   97:	  }
+        -:   98:		  
+    #####:   99:	if (choice2 > treasure_map || choice2 < curse)
+        -:  100:	  {
+    #####:  101:	    return -1;
+        -:  102:	  }
+        -:  103:
+    #####:  104:	if ( (getCost(state->hand[currentPlayer][choice1]) + 4) > getCost(choice2) ) /* BUG: Gain treasure costing up to 4 more instead of 3 */
+        -:  105:	  {
+    #####:  106:	    return -1;
+        -:  107:	  }
+        -:  108:
+    #####:  109:	gainCard(choice2, state, 2, currentPlayer);
+        -:  110:
+        -:  111:	//discard card from hand
+    #####:  112:	discardCard(handPos, currentPlayer, state, 0);
+        -:  113:
+        -:  114:	//discard trashed card
+    #####:  115:	for (i = 0; i < state->handCount[currentPlayer]; i++)
+        -:  116:	  {
+    #####:  117:	    if (state->hand[currentPlayer][i] == j)
+        -:  118:	      {
+    #####:  119:		discardCard(i, currentPlayer, state, 0);			
+    #####:  120:		break;
+        -:  121:	      }
+        -:  122:	  }
+        -:  123:			  
+    #####:  124:	return 0;
+        -:  125:}
+        -:  126:
+        -:  127:/* Remodel */
+    #####:  128:int play_remodel(struct gameState *state, int choice1, int choice2, int currentPlayer, int handPos)
+        -:  129:{
+        -:  130:	int i;
+        -:  131:	int j;
+        -:  132:
+    #####:  133:      j = state->hand[currentPlayer][choice1];  //store card we will trash
+        -:  134:
+    #####:  135:      if ( (getCost(state->hand[currentPlayer][choice1]) + 2) > getCost(choice2) )
+        -:  136:	{
+    #####:  137:	  return -1;
+        -:  138:	}
+        -:  139:
+    #####:  140:      gainCard(choice2, state, 0, currentPlayer);
+        -:  141:
+        -:  142:      //discard card from hand
+    #####:  143:      discardCard(handPos, currentPlayer, state, 0);
+        -:  144:
+        -:  145:      //discard trashed card
+    #####:  146:      for (i = 0; i < state->handCount[currentPlayer]; i++)
+        -:  147:	{
+    #####:  148:	  if (state->hand[currentPlayer][i] == j)
+        -:  149:	    {
+    #####:  150:	      discardCard(i, currentPlayer, state, 0);			
+    #####:  151:	      break;
+        -:  152:	    }
+        -:  153:	}
+        -:  154:
+        -:  155:
+    #####:  156:      return 0;
+        -:  157:}
+        -:  158:
+        -:  159:/* Village */
+        -:  160:/* Card Test 4 */
+        -:  161:/* Random tester card 2 */
+    #####:  162:int play_village(int currentPlayer, struct gameState *state, int handPos)
+        -:  163:{
+        -:  164:      //+1 Card
+    #####:  165:      drawCard(currentPlayer, state);
+        -:  166:			
+        -:  167:      //+2 Actions
+    #####:  168:      state->numActions = state->numActions + 2;
+        -:  169:			
+        -:  170:      //discard played card from hand
+    #####:  171:      discardCard(handPos, currentPlayer, state, 0);
+    #####:  172:      return 0;
+        -:  173:}
+        -:  174:
+        -:  175:/***** End refactoring *****/
+        -:  176:
+        -:  177:
+   330880:  178:int compare(const void* a, const void* b) {
+   330880:  179:  if (*(int*)a > *(int*)b)
+     4950:  180:    return 1;
+   325930:  181:  if (*(int*)a < *(int*)b)
+    90518:  182:    return -1;
+   235412:  183:  return 0;
+        -:  184:}
+        -:  185:
+    #####:  186:struct gameState* newGame() {
+    #####:  187:  struct gameState* g = malloc(sizeof(struct gameState));
+    #####:  188:  return g;
+        -:  189:}
+        -:  190:
+    #####:  191:int* kingdomCards(int k1, int k2, int k3, int k4, int k5, int k6, int k7,
+        -:  192:		  int k8, int k9, int k10) {
+    #####:  193:  int* k = malloc(10 * sizeof(int));
+    #####:  194:  k[0] = k1;
+    #####:  195:  k[1] = k2;
+    #####:  196:  k[2] = k3;
+    #####:  197:  k[3] = k4;
+    #####:  198:  k[4] = k5;
+    #####:  199:  k[5] = k6;
+    #####:  200:  k[6] = k7;
+    #####:  201:  k[7] = k8;
+    #####:  202:  k[8] = k9;
+    #####:  203:  k[9] = k10;
+    #####:  204:  return k;
+        -:  205:}
+        -:  206:
+    10696:  207:int initializeGame(int numPlayers, int kingdomCards[10], int randomSeed,
+        -:  208:		   struct gameState *state) {
+        -:  209:
+        -:  210:  int i;
+        -:  211:  int j;
+        -:  212:  int it;			
+        -:  213:  //set up random number generator
+    10696:  214:  SelectStream(1);
+    10696:  215:  PutSeed((long)randomSeed);
+        -:  216:  
+        -:  217:  //check number of players
+    10696:  218:  if (numPlayers > MAX_PLAYERS || numPlayers < 2)
+        -:  219:    {
+    #####:  220:      return -1;
+        -:  221:    }
+        -:  222:
+        -:  223:  //set number of players
+    10696:  224:  state->numPlayers = numPlayers;
+        -:  225:
+        -:  226:  //check selected kingdom cards are different
+   117656:  227:  for (i = 0; i < 10; i++)
+        -:  228:    {
+  1176560:  229:      for (j = 0; j < 10; j++)
+        -:  230:        {
+  1069600:  231:	  if (j != i && kingdomCards[j] == kingdomCards[i])
+        -:  232:	    {
+    #####:  233:	      return -1;
+        -:  234:	    }
+        -:  235:        }
+        -:  236:    }
+        -:  237:
+        -:  238:
+        -:  239:  //initialize supply
+        -:  240:  ///////////////////////////////
+        -:  241:
+        -:  242:  //set number of Curse cards
+    10696:  243:  if (numPlayers == 2)
+        -:  244:    {
+    10696:  245:      state->supplyCount[curse] = 10;
+        -:  246:    }
+    #####:  247:  else if (numPlayers == 3)
+        -:  248:    {
+    #####:  249:      state->supplyCount[curse] = 20;
+        -:  250:    }
+        -:  251:  else
+        -:  252:    {
+    #####:  253:      state->supplyCount[curse] = 30;
+        -:  254:    }
+        -:  255:
+        -:  256:  //set number of Victory cards
+    10696:  257:  if (numPlayers == 2)
+        -:  258:    {
+    10696:  259:      state->supplyCount[estate] = 8;
+    10696:  260:      state->supplyCount[duchy] = 8;
+    10696:  261:      state->supplyCount[province] = 8;
+        -:  262:    }
+        -:  263:  else
+        -:  264:    {
+    #####:  265:      state->supplyCount[estate] = 12;
+    #####:  266:      state->supplyCount[duchy] = 12;
+    #####:  267:      state->supplyCount[province] = 12;
+        -:  268:    }
+        -:  269:
+        -:  270:  //set number of Treasure cards
+    10696:  271:  state->supplyCount[copper] = 60 - (7 * numPlayers);
+    10696:  272:  state->supplyCount[silver] = 40;
+    10696:  273:  state->supplyCount[gold] = 30;
+        -:  274:
+        -:  275:  //set number of Kingdom cards
+   224616:  276:  for (i = adventurer; i <= treasure_map; i++)       	//loop all cards
+        -:  277:    {
+  1764840:  278:      for (j = 0; j < 10; j++)           		//loop chosen cards
+        -:  279:	{
+  1657880:  280:	  if (kingdomCards[j] == i)
+        -:  281:	    {
+        -:  282:	      //check if card is a 'Victory' Kingdom card
+   106960:  283:	      if (kingdomCards[j] == great_hall || kingdomCards[j] == gardens)
+        -:  284:		{
+    42784:  285:		  if (numPlayers == 2){ 
+    21392:  286:		    state->supplyCount[i] = 8; 
+        -:  287:		  }
+    #####:  288:		  else{ state->supplyCount[i] = 12; }
+        -:  289:		}
+        -:  290:	      else
+        -:  291:		{
+    85568:  292:		  state->supplyCount[i] = 10;
+        -:  293:		}
+   106960:  294:	      break;
+        -:  295:	    }
+        -:  296:	  else    //card is not in the set choosen for the game
+        -:  297:	    {
+  1550920:  298:	      state->supplyCount[i] = -1;
+        -:  299:	    }
+        -:  300:	}
+        -:  301:
+        -:  302:    }
+        -:  303:
+        -:  304:  ////////////////////////
+        -:  305:  //supply intilization complete
+        -:  306:
+        -:  307:  //set player decks
+    32088:  308:  for (i = 0; i < numPlayers; i++)
+        -:  309:    {
+    21392:  310:      state->deckCount[i] = 0;
+    85568:  311:      for (j = 0; j < 3; j++)
+        -:  312:	{
+    64176:  313:	  state->deck[i][j] = estate;
+    64176:  314:	  state->deckCount[i]++;
+        -:  315:	}
+   171136:  316:      for (j = 3; j < 10; j++)
+        -:  317:	{
+   149744:  318:	  state->deck[i][j] = copper;
+   149744:  319:	  state->deckCount[i]++;		
+        -:  320:	}
+        -:  321:    }
+        -:  322:
+        -:  323:  //shuffle player decks
+    32088:  324:  for (i = 0; i < numPlayers; i++)
+        -:  325:    {
+    21392:  326:      if ( shuffle(i, state) < 0 )
+        -:  327:	{
+    #####:  328:	  return -1;
+        -:  329:	}
+        -:  330:    }
+        -:  331:
+        -:  332:  //draw player hands
+    32088:  333:  for (i = 0; i < numPlayers; i++)
+        -:  334:    {  
+        -:  335:      //initialize hand size to zero
+    21392:  336:      state->handCount[i] = 0;
+    21392:  337:      state->discardCount[i] = 0;
+        -:  338:      //draw 5 cards
+        -:  339:      // for (j = 0; j < 5; j++)
+        -:  340:      //	{
+        -:  341:      //	  drawCard(i, state);
+        -:  342:      //	}
+        -:  343:    }
+        -:  344:  
+        -:  345:  //set embargo tokens to 0 for all supply piles
+   299488:  346:  for (i = 0; i <= treasure_map; i++)
+        -:  347:    {
+   288792:  348:      state->embargoTokens[i] = 0;
+        -:  349:    }
+        -:  350:
+        -:  351:  //initialize first player's turn
+    10696:  352:  state->outpostPlayed = 0;
+    10696:  353:  state->phase = 0;
+    10696:  354:  state->numActions = 1;
+    10696:  355:  state->numBuys = 1;
+    10696:  356:  state->playedCardCount = 0;
+    10696:  357:  state->whoseTurn = 0;
+    10696:  358:  state->handCount[state->whoseTurn] = 0;
+        -:  359:  //int it; move to top
+        -:  360:
+        -:  361:  //Moved draw cards to here, only drawing at the start of a turn
+    64176:  362:  for (it = 0; it < 5; it++){
+    53480:  363:    drawCard(state->whoseTurn, state);
+        -:  364:  }
+        -:  365:
+    10696:  366:  updateCoins(state->whoseTurn, state, 0);
+        -:  367:
+    10696:  368:  return 0;
+        -:  369:}
+        -:  370:
+    22514:  371:int shuffle(int player, struct gameState *state) {
+        -:  372: 
+        -:  373:
+        -:  374:  int newDeck[MAX_DECK];
+    22514:  375:  int newDeckPos = 0;
+        -:  376:  int card;
+        -:  377:  int i;
+        -:  378:
+    22514:  379:  if (state->deckCount[player] < 1)
+     1122:  380:    return -1;
+    21392:  381:  qsort ((void*)(state->deck[player]), state->deckCount[player], sizeof(int), compare); 
+        -:  382:  /* SORT CARDS IN DECK TO ENSURE DETERMINISM! */
+        -:  383:
+   256704:  384:  while (state->deckCount[player] > 0) {
+   213920:  385:    card = floor(Random() * state->deckCount[player]);
+   213920:  386:    newDeck[newDeckPos] = state->deck[player][card];
+   213920:  387:    newDeckPos++;
+   748720:  388:    for (i = card; i < state->deckCount[player]-1; i++) {
+   534800:  389:      state->deck[player][i] = state->deck[player][i+1];
+        -:  390:    }
+   213920:  391:    state->deckCount[player]--;
+        -:  392:  }
+   235312:  393:  for (i = 0; i < newDeckPos; i++) {
+   213920:  394:    state->deck[player][i] = newDeck[i];
+   213920:  395:    state->deckCount[player]++;
+        -:  396:  }
+        -:  397:
+    21392:  398:  return 0;
+        -:  399:}
+        -:  400:
+    #####:  401:int playCard(int handPos, int choice1, int choice2, int choice3, struct gameState *state) 
+        -:  402:{	
+        -:  403:  int card;
+    #####:  404:  int coin_bonus = 0; 		//tracks coins gain from actions
+        -:  405:
+        -:  406:  //check if it is the right phase
+    #####:  407:  if (state->phase != 0)
+        -:  408:    {
+    #####:  409:      return -1;
+        -:  410:    }
+        -:  411:	
+        -:  412:  //check if player has enough actions
+    #####:  413:  if ( state->numActions < 1 )
+        -:  414:    {
+    #####:  415:      return -1;
+        -:  416:    }
+        -:  417:	
+        -:  418:  //get card played
+    #####:  419:  card = handCard(handPos, state);
+        -:  420:	
+        -:  421:  //check if selected card is an action
+    #####:  422:  if ( card < adventurer || card > treasure_map )
+        -:  423:    {
+    #####:  424:      return -1;
+        -:  425:    }
+        -:  426:	
+        -:  427:  //play card
+    #####:  428:  if ( cardEffect(card, choice1, choice2, choice3, state, handPos, &coin_bonus) < 0 )
+        -:  429:    {
+    #####:  430:      return -1;
+        -:  431:    }
+        -:  432:	
+        -:  433:  //reduce number of actions
+    #####:  434:  state->numActions--;
+        -:  435:
+        -:  436:  //update coins (Treasure cards may be added with card draws)
+    #####:  437:  updateCoins(state->whoseTurn, state, coin_bonus);
+        -:  438:	
+    #####:  439:  return 0;
+        -:  440:}
+        -:  441:
+    #####:  442:int buyCard(int supplyPos, struct gameState *state) {
+        -:  443:  int who;
+        -:  444:  if (DEBUG){
+        -:  445:    printf("Entering buyCard...\n");
+        -:  446:  }
+        -:  447:
+        -:  448:  // I don't know what to do about the phase thing.
+        -:  449:
+    #####:  450:  who = state->whoseTurn;
+        -:  451:
+    #####:  452:  if (state->numBuys < 1){
+        -:  453:    if (DEBUG)
+        -:  454:      printf("You do not have any buys left\n");
+    #####:  455:    return -1;
+    #####:  456:  } else if (supplyCount(supplyPos, state) <1){
+        -:  457:    if (DEBUG)
+        -:  458:      printf("There are not any of that type of card left\n");
+    #####:  459:    return -1;
+    #####:  460:  } else if (state->coins < getCost(supplyPos)){
+        -:  461:    if (DEBUG) 
+        -:  462:      printf("You do not have enough money to buy that. You have %d coins.\n", state->coins);
+    #####:  463:    return -1;
+        -:  464:  } else {
+    #####:  465:    state->phase=1;
+        -:  466:    //state->supplyCount[supplyPos]--;
+    #####:  467:    gainCard(supplyPos, state, 0, who); //card goes in discard, this might be wrong.. (2 means goes into hand, 0 goes into discard)
+        -:  468:  
+    #####:  469:    state->coins = (state->coins) - (getCost(supplyPos));
+    #####:  470:    state->numBuys--;
+        -:  471:    if (DEBUG)
+        -:  472:      printf("You bought card number %d for %d coins. You now have %d buys and %d coins.\n", supplyPos, getCost(supplyPos), state->numBuys, state->coins);
+        -:  473:  }
+        -:  474:
+        -:  475:  //state->discard[who][state->discardCount[who]] = supplyPos;
+        -:  476:  //state->discardCount[who]++;
+        -:  477:    
+    #####:  478:  return 0;
+        -:  479:}
+        -:  480:
+        -:  481:/***** Use this function for Unit test 4 *****/
+     3004:  482:int numHandCards(struct gameState *state) {
+     3004:  483:  return state->handCount[ whoseTurn(state) ];
+        -:  484:}
+        -:  485:
+    #####:  486:int handCard(int handPos, struct gameState *state) {
+    #####:  487:  int currentPlayer = whoseTurn(state);
+    #####:  488:  return state->hand[currentPlayer][handPos];
+        -:  489:}
+        -:  490:
+        -:  491:/***** Use this function for Unit test 3 *****/
+    #####:  492:int supplyCount(int card, struct gameState *state) {
+    #####:  493:  return state->supplyCount[card];
+        -:  494:}
+        -:  495:
+     2662:  496:int fullDeckCount(int player, int card, struct gameState *state) {
+        -:  497:  int i;
+     2662:  498:  int count = 0;
+        -:  499:
+    15972:  500:  for (i = 0; i < state->deckCount[player]; i++)
+        -:  501:    {
+    13310:  502:      if (state->deck[player][i] == card) count++;
+        -:  503:    }
+        -:  504:
+    15972:  505:  for (i = 0; i < state->handCount[player]; i++)
+        -:  506:    {
+    13310:  507:      if (state->hand[player][i] == card) count++;
+        -:  508:    }
+        -:  509:
+    15972:  510:  for (i = 0; i < state->discardCount[player]; i++)
+        -:  511:    {
+    13310:  512:      if (state->discard[player][i] == card) count++;
+        -:  513:    }
+        -:  514:
+     2662:  515:  return count;
+        -:  516:}
+        -:  517:
+     9940:  518:int whoseTurn(struct gameState *state) {
+     9940:  519:  return state->whoseTurn;
+        -:  520:}
+        -:  521:
+    #####:  522:int endTurn(struct gameState *state) {
+        -:  523:  int k;
+        -:  524:  int i;
+    #####:  525:  int currentPlayer = whoseTurn(state);
+        -:  526:  
+        -:  527:  //Discard hand
+    #####:  528:  for (i = 0; i < state->handCount[currentPlayer]; i++){
+    #####:  529:    state->discard[currentPlayer][state->discardCount[currentPlayer]++] = state->hand[currentPlayer][i];//Discard
+    #####:  530:    state->hand[currentPlayer][i] = -1;//Set card to -1
+        -:  531:  }
+    #####:  532:  state->handCount[currentPlayer] = 0;//Reset hand count
+        -:  533:    
+        -:  534:  //Code for determining the player
+    #####:  535:  if (currentPlayer < (state->numPlayers - 1)){ 
+    #####:  536:    state->whoseTurn = currentPlayer + 1;//Still safe to increment
+        -:  537:  }
+        -:  538:  else{
+    #####:  539:    state->whoseTurn = 0;//Max player has been reached, loop back around to player 1
+        -:  540:  }
+        -:  541:
+    #####:  542:  state->outpostPlayed = 0;
+    #####:  543:  state->phase = 0;
+    #####:  544:  state->numActions = 1;
+    #####:  545:  state->coins = 0;
+    #####:  546:  state->numBuys = 1;
+    #####:  547:  state->playedCardCount = 0;
+    #####:  548:  state->handCount[state->whoseTurn] = 0;
+        -:  549:
+        -:  550:  //int k; move to top
+        -:  551:  //Next player draws hand
+    #####:  552:  for (k = 0; k < 5; k++){
+    #####:  553:    drawCard(state->whoseTurn, state);//Draw a card
+        -:  554:  }
+        -:  555:
+        -:  556:  //Update money
+    #####:  557:  updateCoins(state->whoseTurn, state , 0);
+        -:  558:
+    #####:  559:  return 0;
+        -:  560:}
+        -:  561:
+        -:  562:/***** Use this function for Unit test 1 *****/
+       90:  563:int isGameOver(struct gameState *state) {
+        -:  564:  int i;
+        -:  565:  int j;
+        -:  566:	
+        -:  567:  //if stack of Province cards is empty, the game ends
+       90:  568:  if (state->supplyCount[province] == 0)
+        -:  569:    {
+       26:  570:      return 1;
+        -:  571:    }
+        -:  572:
+        -:  573:  //if three supply pile are at 0, the game ends
+       64:  574:  j = 0;
+     1664:  575:  for (i = 0; i < 25; i++)
+        -:  576:    {
+     1600:  577:      if (state->supplyCount[i] == 0)
+        -:  578:	{
+       96:  579:	  j++;
+        -:  580:	}
+        -:  581:    }
+       64:  582:  if ( j >= 3)
+        -:  583:    {
+       16:  584:      return 1;
+        -:  585:    }
+        -:  586:
+       48:  587:  return 0;
+        -:  588:}
+        -:  589:
+    #####:  590:int scoreFor (int player, struct gameState *state) {
+        -:  591:
+        -:  592:  int i;
+    #####:  593:  int score = 0;
+        -:  594:  //score from hand
+    #####:  595:  for (i = 0; i < state->handCount[player]; i++)
+        -:  596:    {
+    #####:  597:      if (state->hand[player][i] == curse) { score = score - 1; };
+    #####:  598:      if (state->hand[player][i] == estate) { score = score + 1; };
+    #####:  599:      if (state->hand[player][i] == duchy) { score = score + 3; };
+    #####:  600:      if (state->hand[player][i] == province) { score = score + 6; };
+    #####:  601:      if (state->hand[player][i] == great_hall) { score = score + 1; };
+    #####:  602:      if (state->hand[player][i] == gardens) { score = score + ( fullDeckCount(player, 0, state) / 10 ); };
+        -:  603:    }
+        -:  604:
+        -:  605:  //score from discard
+    #####:  606:  for (i = 0; i < state->discardCount[player]; i++)
+        -:  607:    {
+    #####:  608:      if (state->discard[player][i] == curse) { score = score - 1; };
+    #####:  609:      if (state->discard[player][i] == estate) { score = score + 1; };
+    #####:  610:      if (state->discard[player][i] == duchy) { score = score + 3; };
+    #####:  611:      if (state->discard[player][i] == province) { score = score + 6; };
+    #####:  612:      if (state->discard[player][i] == great_hall) { score = score + 1; };
+    #####:  613:      if (state->discard[player][i] == gardens) { score = score + ( fullDeckCount(player, 0, state) / 10 ); };
+        -:  614:    }
+        -:  615:
+        -:  616:  //score from deck
+    #####:  617:  for (i = 0; i < state->discardCount[player]; i++)
+        -:  618:    {
+    #####:  619:      if (state->deck[player][i] == curse) { score = score - 1; };
+    #####:  620:      if (state->deck[player][i] == estate) { score = score + 1; };
+    #####:  621:      if (state->deck[player][i] == duchy) { score = score + 3; };
+    #####:  622:      if (state->deck[player][i] == province) { score = score + 6; };
+    #####:  623:      if (state->deck[player][i] == great_hall) { score = score + 1; };
+    #####:  624:      if (state->deck[player][i] == gardens) { score = score + ( fullDeckCount(player, 0, state) / 10 ); };
+        -:  625:    }
+        -:  626:
+    #####:  627:  return score;
+        -:  628:}
+        -:  629:
+    #####:  630:int getWinners(int players[MAX_PLAYERS], struct gameState *state) {
+        -:  631:  int i;	
+        -:  632:  int j;
+        -:  633:  int highScore;
+        -:  634:  int currentPlayer;
+        -:  635:
+        -:  636:  //get score for each player
+    #####:  637:  for (i = 0; i < MAX_PLAYERS; i++)
+        -:  638:    {
+        -:  639:      //set unused player scores to -9999
+    #####:  640:      if (i >= state->numPlayers)
+        -:  641:	{
+    #####:  642:	  players[i] = -9999;
+        -:  643:	}
+        -:  644:      else
+        -:  645:	{
+    #####:  646:	  players[i] = scoreFor (i, state);
+        -:  647:	}
+        -:  648:    }
+        -:  649:
+        -:  650:  //find highest score
+    #####:  651:  j = 0;
+    #####:  652:  for (i = 0; i < MAX_PLAYERS; i++)
+        -:  653:    {
+    #####:  654:      if (players[i] > players[j])
+        -:  655:	{
+    #####:  656:	  j = i;
+        -:  657:	}
+        -:  658:    }
+    #####:  659:  highScore = players[j];
+        -:  660:
+        -:  661:  //add 1 to players who had less turns
+    #####:  662:  currentPlayer = whoseTurn(state);
+    #####:  663:  for (i = 0; i < MAX_PLAYERS; i++)
+        -:  664:    {
+    #####:  665:      if ( players[i] == highScore && i > currentPlayer )
+        -:  666:	{
+    #####:  667:	  players[i]++;
+        -:  668:	}
+        -:  669:    }
+        -:  670:
+        -:  671:  //find new highest score
+    #####:  672:  j = 0;
+    #####:  673:  for (i = 0; i < MAX_PLAYERS; i++)
+        -:  674:    {
+    #####:  675:      if ( players[i] > players[j] )
+        -:  676:	{
+    #####:  677:	  j = i;
+        -:  678:	}
+        -:  679:    }
+    #####:  680:  highScore = players[j];
+        -:  681:
+        -:  682:  //set winners in array to 1 and rest to 0
+    #####:  683:  for (i = 0; i < MAX_PLAYERS; i++)
+        -:  684:    {
+    #####:  685:      if ( players[i] == highScore )
+        -:  686:	{
+    #####:  687:	  players[i] = 1;
+        -:  688:	}
+        -:  689:      else
+        -:  690:	{
+    #####:  691:	  players[i] = 0;
+        -:  692:	}
+        -:  693:    }
+        -:  694:
+    #####:  695:  return 0;
+        -:  696:}
+        -:  697:
+   541407:  698:int drawCard(int player, struct gameState *state)
+        -:  699:{	int count;
+        -:  700:  int deckCounter;
+   541407:  701:  if (state->deckCount[player] <= 0){//Deck is empty
+        -:  702:    
+        -:  703:    //Step 1 Shuffle the discard pile back into a deck
+        -:  704:    int i;
+        -:  705:    //Move discard to deck
+      885:  706:    for (i = 0; i < state->discardCount[player];i++){
+    #####:  707:      state->deck[player][i] = state->discard[player][i];
+    #####:  708:      state->discard[player][i] = -1;
+        -:  709:    }
+        -:  710:
+      885:  711:    state->deckCount[player] = state->discardCount[player];
+      885:  712:    state->discardCount[player] = 0;//Reset discard
+        -:  713:
+        -:  714:    //Shufffle the deck
+      885:  715:    shuffle(player, state);//Shuffle the deck up and make it so that we can draw
+        -:  716:   
+        -:  717:    if (DEBUG){//Debug statements
+        -:  718:      printf("Deck count now: %d\n", state->deckCount[player]);
+        -:  719:    }
+        -:  720:    
+      885:  721:    state->discardCount[player] = 0;
+        -:  722:
+        -:  723:    //Step 2 Draw Card
+      885:  724:    count = state->handCount[player];//Get current player's hand count
+        -:  725:    
+        -:  726:    if (DEBUG){//Debug statements
+        -:  727:      printf("Current hand count: %d\n", count);
+        -:  728:    }
+        -:  729:    
+      885:  730:    deckCounter = state->deckCount[player];//Create a holder for the deck count
+        -:  731:
+      885:  732:    if (deckCounter == 0)
+      885:  733:      return -1;
+        -:  734:
+    #####:  735:    state->hand[player][count] = state->deck[player][deckCounter - 1];//Add card to hand
+    #####:  736:    state->deckCount[player]--;
+    #####:  737:    state->handCount[player]++;//Increment hand count
+        -:  738:  }
+        -:  739:
+        -:  740:  else{
+   540522:  741:    int count = state->handCount[player];//Get current hand count for player
+        -:  742:    int deckCounter;
+        -:  743:    if (DEBUG){//Debug statements
+        -:  744:      printf("Current hand count: %d\n", count);
+        -:  745:    }
+        -:  746:
+   540522:  747:    deckCounter = state->deckCount[player];//Create holder for the deck count
+   540522:  748:    state->hand[player][count] = state->deck[player][deckCounter - 1];//Add card to the hand
+   540522:  749:    state->deckCount[player]--;
+   540522:  750:    state->handCount[player]++;//Increment hand count
+        -:  751:  }
+        -:  752:
+   540522:  753:  return 0;
+        -:  754:}
+        -:  755:
+    #####:  756:int getCost(int cardNumber)
+        -:  757:{
+    #####:  758:  switch( cardNumber ) 
+        -:  759:    {
+        -:  760:    case curse:
+    #####:  761:      return 0;
+        -:  762:    case estate:
+    #####:  763:      return 2;
+        -:  764:    case duchy:
+    #####:  765:      return 5;
+        -:  766:    case province:
+    #####:  767:      return 8;
+        -:  768:    case copper:
+    #####:  769:      return 0;
+        -:  770:    case silver:
+    #####:  771:      return 3;
+        -:  772:    case gold:
+    #####:  773:      return 6;
+        -:  774:    case adventurer:
+    #####:  775:      return 6;
+        -:  776:    case council_room:
+    #####:  777:      return 5;
+        -:  778:    case feast:
+    #####:  779:      return 4;
+        -:  780:    case gardens:
+    #####:  781:      return 4;
+        -:  782:    case mine:
+    #####:  783:      return 5;
+        -:  784:    case remodel:
+    #####:  785:      return 4;
+        -:  786:    case smithy:
+    #####:  787:      return 4;
+        -:  788:    case village:
+    #####:  789:      return 3;
+        -:  790:    case baron:
+    #####:  791:      return 4;
+        -:  792:    case great_hall:
+    #####:  793:      return 3;
+        -:  794:    case minion:
+    #####:  795:      return 5;
+        -:  796:    case steward:
+    #####:  797:      return 3;
+        -:  798:    case tribute:
+    #####:  799:      return 5;
+        -:  800:    case ambassador:
+    #####:  801:      return 3;
+        -:  802:    case cutpurse:
+    #####:  803:      return 4;
+        -:  804:    case embargo: 
+    #####:  805:      return 2;
+        -:  806:    case outpost:
+    #####:  807:      return 5;
+        -:  808:    case salvager:
+    #####:  809:      return 4;
+        -:  810:    case sea_hag:
+    #####:  811:      return 4;
+        -:  812:    case treasure_map:
+    #####:  813:      return 4;
+        -:  814:    }
+        -:  815:	
+    #####:  816:  return -1;
+        -:  817:}
+        -:  818:
+        -:  819:/********** BEGINNING of cardEffct **********/
+        -:  820:/* This is where the refactor and bug additions will be done for assignment-2 */
+     6936:  821:int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState *state, int handPos, int *bonus)
+        -:  822:{
+        -:  823:  int i;
+        -:  824:  int j;
+        -:  825:  int k;
+        -:  826:  int x;
+        -:  827:  int index;
+     6936:  828:  int currentPlayer = whoseTurn(state);
+     6936:  829:  int nextPlayer = currentPlayer + 1;
+        -:  830:
+     6936:  831:  int tributeRevealedCards[2] = {-1, -1};
+        -:  832:  int temphand[MAX_HAND];// moved above the if statement
+     6936:  833:  int drawntreasure=0;
+        -:  834:  int cardDrawn;
+     6936:  835:  int z = 0;// this is the counter for the temp hand
+     6936:  836:  if (nextPlayer > (state->numPlayers - 1)){
+     1496:  837:    nextPlayer = 0;
+        -:  838:  }
+        -:  839:  
+        -:  840:  /* Refactoring switch statement so cards are implemented in their own functions */
+        -:  841:  //uses switch to select card and perform actions
+     6936:  842:  switch( card ) 
+        -:  843:    {
+        -:  844:
+        -:  845:    /***** Refactor adventurer *****/
+        -:  846:    case adventurer:
+     2997:  847:	    return play_adventurer(drawntreasure, state, currentPlayer, temphand, z);
+        -:  848:      /*
+        -:  849:      while(drawntreasure<2){
+        -:  850:	if (state->deckCount[currentPlayer] <1){//if the deck is empty we need to shuffle discard and add to deck
+        -:  851:	  shuffle(currentPlayer, state);
+        -:  852:	}
+        -:  853:	drawCard(currentPlayer, state);
+        -:  854:	cardDrawn = state->hand[currentPlayer][state->handCount[currentPlayer]-1];//top card of hand is most recently drawn card.
+        -:  855:	if (cardDrawn == copper || cardDrawn == silver || cardDrawn == gold)
+        -:  856:	  drawntreasure++;
+        -:  857:	else{
+        -:  858:	  temphand[z]=cardDrawn;
+        -:  859:	  state->handCount[currentPlayer]--; //this should just remove the top card (the most recently drawn one).
+        -:  860:	  z++;
+        -:  861:	}
+        -:  862:      }
+        -:  863:      while(z-1>=0){
+        -:  864:	state->discard[currentPlayer][state->discardCount[currentPlayer]++]=temphand[z-1]; // discard all cards in play that have been drawn
+        -:  865:	z=z-1;
+        -:  866:      }
+        -:  867:      return 0;
+        -:  868:      */
+        -:  869:			
+        -:  870:    /***** Refactor council room*****/
+        -:  871:    case council_room:
+    #####:  872:       	return play_council_room(currentPlayer, state, handPos);
+        -:  873:      /*
+        -:  874:      //+4 Cards
+        -:  875:      for (i = 0; i < 4; i++)
+        -:  876:	{
+        -:  877:	  drawCard(currentPlayer, state);
+        -:  878:	}
+        -:  879:			
+        -:  880:      //+1 Buy
+        -:  881:      state->numBuys++;
+        -:  882:			
+        -:  883:      //Each other player draws a card
+        -:  884:      for (i = 0; i < state->numPlayers; i++)
+        -:  885:	{
+        -:  886:	  if ( i != currentPlayer )
+        -:  887:	    {
+        -:  888:	      drawCard(i, state);
+        -:  889:	    }
+        -:  890:	}
+        -:  891:			
+        -:  892:      //put played card in played card pile
+        -:  893:      discardCard(handPos, currentPlayer, state, 0);
+        -:  894:			
+        -:  895:      return 0;
+        -:  896:      */
+        -:  897:			
+        -:  898:    case feast:
+        -:  899:      //gain card with cost up to 5
+        -:  900:      //Backup hand
+    #####:  901:      for (i = 0; i <= state->handCount[currentPlayer]; i++){
+    #####:  902:	temphand[i] = state->hand[currentPlayer][i];//Backup card
+    #####:  903:	state->hand[currentPlayer][i] = -1;//Set to nothing
+        -:  904:      }
+        -:  905:      //Backup hand
+        -:  906:
+        -:  907:      //Update Coins for Buy
+    #####:  908:      updateCoins(currentPlayer, state, 5);
+    #####:  909:      x = 1;//Condition to loop on
+    #####:  910:      while( x == 1) {//Buy one card
+    #####:  911:	if (supplyCount(choice1, state) <= 0){
+        -:  912:	  if (DEBUG)
+        -:  913:	    printf("None of that card left, sorry!\n");
+        -:  914:
+        -:  915:	  if (DEBUG){
+        -:  916:	    printf("Cards Left: %d\n", supplyCount(choice1, state));
+        -:  917:	  }
+        -:  918:	}
+    #####:  919:	else if (state->coins < getCost(choice1)){
+    #####:  920:	  printf("That card is too expensive!\n");
+        -:  921:
+        -:  922:	  if (DEBUG){
+        -:  923:	    printf("Coins: %d < %d\n", state->coins, getCost(choice1));
+        -:  924:	  }
+        -:  925:	}
+        -:  926:	else{
+        -:  927:
+        -:  928:	  if (DEBUG){
+        -:  929:	    printf("Deck Count: %d\n", state->handCount[currentPlayer] + state->deckCount[currentPlayer] + state->discardCount[currentPlayer]);
+        -:  930:	  }
+        -:  931:
+    #####:  932:	  gainCard(choice1, state, 0, currentPlayer);//Gain the card
+    #####:  933:	  x = 0;//No more buying cards
+        -:  934:
+        -:  935:	  if (DEBUG){
+        -:  936:	    printf("Deck Count: %d\n", state->handCount[currentPlayer] + state->deckCount[currentPlayer] + state->discardCount[currentPlayer]);
+        -:  937:	  }
+        -:  938:
+        -:  939:	}
+        -:  940:      }     
+        -:  941:
+        -:  942:      //Reset Hand
+    #####:  943:      for (i = 0; i <= state->handCount[currentPlayer]; i++){
+    #####:  944:	state->hand[currentPlayer][i] = temphand[i];
+    #####:  945:	temphand[i] = -1;
+        -:  946:      }
+        -:  947:      //Reset Hand
+        -:  948:      			
+    #####:  949:      return 0;
+        -:  950:			
+        -:  951:    case gardens:
+    #####:  952:      return -1;
+        -:  953:			
+        -:  954:    /***** Refactor mine*****/
+        -:  955:    case mine:
+    #####:  956:	return play_mine(state, choice1, choice2, currentPlayer, handPos);
+        -:  957:      /*
+        -:  958:      j = state->hand[currentPlayer][choice1];  //store card we will trash
+        -:  959:
+        -:  960:      if (state->hand[currentPlayer][choice1] < copper || state->hand[currentPlayer][choice1] > gold)
+        -:  961:	{
+        -:  962:	  return -1;
+        -:  963:	}
+        -:  964:		
+        -:  965:      if (choice2 > treasure_map || choice2 < curse)
+        -:  966:	{
+        -:  967:	  return -1;
+        -:  968:	}
+        -:  969:
+        -:  970:      if ( (getCost(state->hand[currentPlayer][choice1]) + 3) > getCost(choice2) )
+        -:  971:	{
+        -:  972:	  return -1;
+        -:  973:	}
+        -:  974:
+        -:  975:      gainCard(choice2, state, 2, currentPlayer);
+        -:  976:
+        -:  977:      //discard card from hand
+        -:  978:      discardCard(handPos, currentPlayer, state, 0);
+        -:  979:
+        -:  980:      //discard trashed card
+        -:  981:      for (i = 0; i < state->handCount[currentPlayer]; i++)
+        -:  982:	{
+        -:  983:	  if (state->hand[currentPlayer][i] == j)
+        -:  984:	    {
+        -:  985:	      discardCard(i, currentPlayer, state, 0);			
+        -:  986:	      break;
+        -:  987:	    }
+        -:  988:	}
+        -:  989:			
+        -:  990:      return 0;
+        -:  991:      */
+        -:  992:			
+        -:  993:    /***** Refactor remodel*****/
+        -:  994:    case remodel:
+    #####:  995:      return play_remodel(state, choice1, choice2, currentPlayer, handPos);
+        -:  996:      /*
+        -:  997:      j = state->hand[currentPlayer][choice1];  //store card we will trash
+        -:  998:
+        -:  999:      if ( (getCost(state->hand[currentPlayer][choice1]) + 2) > getCost(choice2) )
+        -: 1000:	{
+        -: 1001:	  return -1;
+        -: 1002:	}
+        -: 1003:
+        -: 1004:      gainCard(choice2, state, 0, currentPlayer);
+        -: 1005:
+        -: 1006:      //discard card from hand
+        -: 1007:      discardCard(handPos, currentPlayer, state, 0);
+        -: 1008:
+        -: 1009:      //discard trashed card
+        -: 1010:      for (i = 0; i < state->handCount[currentPlayer]; i++)
+        -: 1011:	{
+        -: 1012:	  if (state->hand[currentPlayer][i] == j)
+        -: 1013:	    {
+        -: 1014:	      discardCard(i, currentPlayer, state, 0);			
+        -: 1015:	      break;
+        -: 1016:	    }
+        -: 1017:	}
+        -: 1018:
+        -: 1019:
+        -: 1020:      return 0;
+        -: 1021:      */
+        -: 1022:		
+        -: 1023:    /***** Refactor smithy *****/
+        -: 1024:    case smithy:
+     1296: 1025:      return play_smithy(currentPlayer, state, handPos);
+        -: 1026:      /* 
+        -: 1027:      //+3 Cards
+        -: 1028:      for (i = 0; i < 3; i++)
+        -: 1029:	{
+        -: 1030:	  drawCard(currentPlayer, state);
+        -: 1031:	}
+        -: 1032:			
+        -: 1033:      //discard card from hand
+        -: 1034:      discardCard(handPos, currentPlayer, state, 0);
+        -: 1035:      return 0;
+        -: 1036:      */
+        -: 1037:		
+        -: 1038:
+        -: 1039:    /***** Refactored village for assignment-3 (no new bugs introduced) *****/
+        -: 1040:    case village:
+    #####: 1041:      return play_village(currentPlayer, state, handPos);
+        -: 1042:      /*
+        -: 1043:      //+1 Card
+        -: 1044:      drawCard(currentPlayer, state);
+        -: 1045:			
+        -: 1046:      //+2 Actions
+        -: 1047:      state->numActions = state->numActions + 2;
+        -: 1048:			
+        -: 1049:      //discard played card from hand
+        -: 1050:      discardCard(handPos, currentPlayer, state, 0);
+        -: 1051:      return 0;
+        -: 1052:      */
+        -: 1053:		
+        -: 1054:    case baron:
+    #####: 1055:      state->numBuys++;//Increase buys by 1!
+    #####: 1056:      if (choice1 > 0){//Boolean true or going to discard an estate
+    #####: 1057:	int p = 0;//Iterator for hand!
+    #####: 1058:	int card_not_discarded = 1;//Flag for discard set!
+    #####: 1059:	while(card_not_discarded){
+    #####: 1060:	  if (state->hand[currentPlayer][p] == estate){//Found an estate card!
+    #####: 1061:	    state->coins += 4;//Add 4 coins to the amount of coins
+    #####: 1062:	    state->discard[currentPlayer][state->discardCount[currentPlayer]] = state->hand[currentPlayer][p];
+    #####: 1063:	    state->discardCount[currentPlayer]++;
+    #####: 1064:	    for (;p < state->handCount[currentPlayer]; p++){
+    #####: 1065:	      state->hand[currentPlayer][p] = state->hand[currentPlayer][p+1];
+        -: 1066:	    }
+    #####: 1067:	    state->hand[currentPlayer][state->handCount[currentPlayer]] = -1;
+    #####: 1068:	    state->handCount[currentPlayer]--;
+    #####: 1069:	    card_not_discarded = 0;//Exit the loop
+        -: 1070:	  }
+    #####: 1071:	  else if (p > state->handCount[currentPlayer]){
+        -: 1072:	    if(DEBUG) {
+        -: 1073:	      printf("No estate cards in your hand, invalid choice\n");
+        -: 1074:	      printf("Must gain an estate if there are any\n");
+        -: 1075:	    }
+    #####: 1076:	    if (supplyCount(estate, state) > 0){
+    #####: 1077:	      gainCard(estate, state, 0, currentPlayer);
+    #####: 1078:	      state->supplyCount[estate]--;//Decrement estates
+    #####: 1079:	      if (supplyCount(estate, state) == 0){
+    #####: 1080:		isGameOver(state);
+        -: 1081:	      }
+        -: 1082:	    }
+    #####: 1083:	    card_not_discarded = 0;//Exit the loop
+        -: 1084:	  }
+        -: 1085:			    
+        -: 1086:	  else{
+    #####: 1087:	    p++;//Next card
+        -: 1088:	  }
+        -: 1089:	}
+        -: 1090:      }
+        -: 1091:			    
+        -: 1092:      else{
+    #####: 1093:	if (supplyCount(estate, state) > 0){
+    #####: 1094:	  gainCard(estate, state, 0, currentPlayer);//Gain an estate
+    #####: 1095:	  state->supplyCount[estate]--;//Decrement Estates
+    #####: 1096:	  if (supplyCount(estate, state) == 0){
+    #####: 1097:	    isGameOver(state);
+        -: 1098:	  }
+        -: 1099:	}
+        -: 1100:      }
+        -: 1101:	    
+        -: 1102:      
+    #####: 1103:      return 0;
+        -: 1104:		
+        -: 1105:    case great_hall:
+        -: 1106:      //+1 Card
+     2601: 1107:      drawCard(currentPlayer, state);
+        -: 1108:			
+        -: 1109:      //+1 Actions
+     2601: 1110:      state->numActions++;
+        -: 1111:			
+        -: 1112:      //discard card from hand
+     2601: 1113:      discardCard(handPos, currentPlayer, state, 0);
+     2601: 1114:      return 0;
+        -: 1115:		
+        -: 1116:    case minion:
+        -: 1117:      //+1 action
+    #####: 1118:      state->numActions++;
+        -: 1119:			
+        -: 1120:      //discard card from hand
+    #####: 1121:      discardCard(handPos, currentPlayer, state, 0);
+        -: 1122:			
+    #####: 1123:      if (choice1)		//+2 coins
+        -: 1124:	{
+    #####: 1125:	  state->coins = state->coins + 2;
+        -: 1126:	}
+        -: 1127:			
+    #####: 1128:      else if (choice2)		//discard hand, redraw 4, other players with 5+ cards discard hand and draw 4
+        -: 1129:	{
+        -: 1130:	  //discard hand
+    #####: 1131:	  while(numHandCards(state) > 0)
+        -: 1132:	    {
+    #####: 1133:	      discardCard(handPos, currentPlayer, state, 0);
+        -: 1134:	    }
+        -: 1135:				
+        -: 1136:	  //draw 4
+    #####: 1137:	  for (i = 0; i < 4; i++)
+        -: 1138:	    {
+    #####: 1139:	      drawCard(currentPlayer, state);
+        -: 1140:	    }
+        -: 1141:				
+        -: 1142:	  //other players discard hand and redraw if hand size > 4
+    #####: 1143:	  for (i = 0; i < state->numPlayers; i++)
+        -: 1144:	    {
+    #####: 1145:	      if (i != currentPlayer)
+        -: 1146:		{
+    #####: 1147:		  if ( state->handCount[i] > 4 )
+        -: 1148:		    {
+        -: 1149:		      //discard hand
+    #####: 1150:		      while( state->handCount[i] > 0 )
+        -: 1151:			{
+    #####: 1152:			  discardCard(handPos, i, state, 0);
+        -: 1153:			}
+        -: 1154:							
+        -: 1155:		      //draw 4
+    #####: 1156:		      for (j = 0; j < 4; j++)
+        -: 1157:			{
+    #####: 1158:			  drawCard(i, state);
+        -: 1159:			}
+        -: 1160:		    }
+        -: 1161:		}
+        -: 1162:	    }
+        -: 1163:				
+        -: 1164:	}
+    #####: 1165:      return 0;
+        -: 1166:		
+        -: 1167:    case steward:
+    #####: 1168:      if (choice1 == 1)
+        -: 1169:	{
+        -: 1170:	  //+2 cards
+    #####: 1171:	  drawCard(currentPlayer, state);
+    #####: 1172:	  drawCard(currentPlayer, state);
+        -: 1173:	}
+    #####: 1174:      else if (choice1 == 2)
+        -: 1175:	{
+        -: 1176:	  //+2 coins
+    #####: 1177:	  state->coins = state->coins + 2;
+        -: 1178:	}
+        -: 1179:      else
+        -: 1180:	{
+        -: 1181:	  //trash 2 cards in hand
+    #####: 1182:	  discardCard(choice2, currentPlayer, state, 1);
+    #####: 1183:	  discardCard(choice3, currentPlayer, state, 1);
+        -: 1184:	}
+        -: 1185:			
+        -: 1186:      //discard card from hand
+    #####: 1187:      discardCard(handPos, currentPlayer, state, 0);
+    #####: 1188:      return 0;
+        -: 1189:		
+        -: 1190:    case tribute:
+    #####: 1191:      if ((state->discardCount[nextPlayer] + state->deckCount[nextPlayer]) <= 1){
+    #####: 1192:	if (state->deckCount[nextPlayer] > 0){
+    #####: 1193:	  tributeRevealedCards[0] = state->deck[nextPlayer][state->deckCount[nextPlayer]-1];
+    #####: 1194:	  state->deckCount[nextPlayer]--;
+        -: 1195:	}
+    #####: 1196:	else if (state->discardCount[nextPlayer] > 0){
+    #####: 1197:	  tributeRevealedCards[0] = state->discard[nextPlayer][state->discardCount[nextPlayer]-1];
+    #####: 1198:	  state->discardCount[nextPlayer]--;
+        -: 1199:	}
+        -: 1200:	else{
+        -: 1201:	  //No Card to Reveal
+        -: 1202:	  if (DEBUG){
+        -: 1203:	    printf("No cards to reveal\n");
+        -: 1204:	  }
+        -: 1205:	}
+        -: 1206:      }
+        -: 1207:	    
+        -: 1208:      else{
+    #####: 1209:	if (state->deckCount[nextPlayer] == 0){
+    #####: 1210:	  for (i = 0; i < state->discardCount[nextPlayer]; i++){
+    #####: 1211:	    state->deck[nextPlayer][i] = state->discard[nextPlayer][i];//Move to deck
+    #####: 1212:	    state->deckCount[nextPlayer]++;
+    #####: 1213:	    state->discard[nextPlayer][i] = -1;
+    #####: 1214:	    state->discardCount[nextPlayer]--;
+        -: 1215:	  }
+        -: 1216:			    
+    #####: 1217:	  shuffle(nextPlayer,state);//Shuffle the deck
+        -: 1218:	} 
+    #####: 1219:	tributeRevealedCards[0] = state->deck[nextPlayer][state->deckCount[nextPlayer]-1];
+    #####: 1220:	state->deck[nextPlayer][state->deckCount[nextPlayer]--] = -1;
+    #####: 1221:	state->deckCount[nextPlayer]--;
+    #####: 1222:	tributeRevealedCards[1] = state->deck[nextPlayer][state->deckCount[nextPlayer]-1];
+    #####: 1223:	state->deck[nextPlayer][state->deckCount[nextPlayer]--] = -1;
+    #####: 1224:	state->deckCount[nextPlayer]--;
+        -: 1225:      }    
+        -: 1226:		       
+    #####: 1227:      if (tributeRevealedCards[0] == tributeRevealedCards[1]){//If we have a duplicate card, just drop one 
+    #####: 1228:	state->playedCards[state->playedCardCount] = tributeRevealedCards[1];
+    #####: 1229:	state->playedCardCount++;
+    #####: 1230:	tributeRevealedCards[1] = -1;
+        -: 1231:      }
+        -: 1232:
+    #####: 1233:      for (i = 0; i <= 2; i ++){
+    #####: 1234:	if (tributeRevealedCards[i] == copper || tributeRevealedCards[i] == silver || tributeRevealedCards[i] == gold){//Treasure cards
+    #####: 1235:	  state->coins += 2;
+        -: 1236:	}
+        -: 1237:		    
+    #####: 1238:	else if (tributeRevealedCards[i] == estate || tributeRevealedCards[i] == duchy || tributeRevealedCards[i] == province || tributeRevealedCards[i] == gardens || tributeRevealedCards[i] == great_hall){//Victory Card Found
+    #####: 1239:	  drawCard(currentPlayer, state);
+    #####: 1240:	  drawCard(currentPlayer, state);
+        -: 1241:	}
+        -: 1242:	else{//Action Card
+    #####: 1243:	  state->numActions = state->numActions + 2;
+        -: 1244:	}
+        -: 1245:      }
+        -: 1246:	    
+    #####: 1247:      return 0;
+        -: 1248:		
+        -: 1249:    case ambassador:
+    #####: 1250:      j = 0;		//used to check if player has enough cards to discard
+        -: 1251:
+    #####: 1252:      if (choice2 > 2 || choice2 < 0)
+        -: 1253:	{
+    #####: 1254:	  return -1;				
+        -: 1255:	}
+        -: 1256:
+    #####: 1257:      if (choice1 == handPos)
+        -: 1258:	{
+    #####: 1259:	  return -1;
+        -: 1260:	}
+        -: 1261:
+    #####: 1262:      for (i = 0; i < state->handCount[currentPlayer]; i++)
+        -: 1263:	{
+    #####: 1264:	  if (i != handPos && i == state->hand[currentPlayer][choice1] && i != choice1)
+        -: 1265:	    {
+    #####: 1266:	      j++;
+        -: 1267:	    }
+        -: 1268:	}
+    #####: 1269:      if (j < choice2)
+        -: 1270:	{
+    #####: 1271:	  return -1;				
+        -: 1272:	}
+        -: 1273:
+        -: 1274:      if (DEBUG) 
+        -: 1275:	printf("Player %d reveals card number: %d\n", currentPlayer, state->hand[currentPlayer][choice1]);
+        -: 1276:
+        -: 1277:      //increase supply count for choosen card by amount being discarded
+    #####: 1278:      state->supplyCount[state->hand[currentPlayer][choice1]] += choice2;
+        -: 1279:			
+        -: 1280:      //each other player gains a copy of revealed card
+    #####: 1281:      for (i = 0; i < state->numPlayers; i++)
+        -: 1282:	{
+    #####: 1283:	  if (i != currentPlayer)
+        -: 1284:	    {
+    #####: 1285:	      gainCard(state->hand[currentPlayer][choice1], state, 0, i);
+        -: 1286:	    }
+        -: 1287:	}
+        -: 1288:
+        -: 1289:      //discard played card from hand
+    #####: 1290:      discardCard(handPos, currentPlayer, state, 0);			
+        -: 1291:
+        -: 1292:      //trash copies of cards returned to supply
+    #####: 1293:      for (j = 0; j < choice2; j++)
+        -: 1294:	{
+    #####: 1295:	  for (i = 0; i < state->handCount[currentPlayer]; i++)
+        -: 1296:	    {
+    #####: 1297:	      if (state->hand[currentPlayer][i] == state->hand[currentPlayer][choice1])
+        -: 1298:		{
+    #####: 1299:		  discardCard(i, currentPlayer, state, 1);
+    #####: 1300:		  break;
+        -: 1301:		}
+        -: 1302:	    }
+        -: 1303:	}			
+        -: 1304:
+    #####: 1305:      return 0;
+        -: 1306:		
+        -: 1307:    case cutpurse:
+        -: 1308:
+    #####: 1309:      updateCoins(currentPlayer, state, 2);
+    #####: 1310:      for (i = 0; i < state->numPlayers; i++)
+        -: 1311:	{
+    #####: 1312:	  if (i != currentPlayer)
+        -: 1313:	    {
+    #####: 1314:	      for (j = 0; j < state->handCount[i]; j++)
+        -: 1315:		{
+    #####: 1316:		  if (state->hand[i][j] == copper)
+        -: 1317:		    {
+    #####: 1318:		      discardCard(j, i, state, 0);
+    #####: 1319:		      break;
+        -: 1320:		    }
+    #####: 1321:		  if (j == state->handCount[i])
+        -: 1322:		    {
+    #####: 1323:		      for (k = 0; k < state->handCount[i]; k++)
+        -: 1324:			{
+        -: 1325:			  if (DEBUG)
+        -: 1326:			    printf("Player %d reveals card number %d\n", i, state->hand[i][k]);
+        -: 1327:			}	
+    #####: 1328:		      break;
+        -: 1329:		    }		
+        -: 1330:		}
+        -: 1331:					
+        -: 1332:	    }
+        -: 1333:				
+        -: 1334:	}				
+        -: 1335:
+        -: 1336:      //discard played card from hand
+    #####: 1337:      discardCard(handPos, currentPlayer, state, 0);			
+        -: 1338:
+    #####: 1339:      return 0;
+        -: 1340:
+        -: 1341:		
+        -: 1342:    case embargo: 
+        -: 1343:      //+2 Coins
+    #####: 1344:      state->coins = state->coins + 2;
+        -: 1345:			
+        -: 1346:      //see if selected pile is in play
+    #####: 1347:      if ( state->supplyCount[choice1] == -1 )
+        -: 1348:	{
+    #####: 1349:	  return -1;
+        -: 1350:	}
+        -: 1351:			
+        -: 1352:      //add embargo token to selected supply pile
+    #####: 1353:      state->embargoTokens[choice1]++;
+        -: 1354:			
+        -: 1355:      //trash card
+    #####: 1356:      discardCard(handPos, currentPlayer, state, 1);		
+    #####: 1357:      return 0;
+        -: 1358:		
+        -: 1359:    case outpost:
+        -: 1360:      //set outpost flag
+       42: 1361:      state->outpostPlayed++;
+        -: 1362:			
+        -: 1363:      //discard card
+       42: 1364:      discardCard(handPos, currentPlayer, state, 0);
+       42: 1365:      return 0;
+        -: 1366:		
+        -: 1367:    case salvager:
+        -: 1368:      //+1 buy
+    #####: 1369:      state->numBuys++;
+        -: 1370:			
+    #####: 1371:      if (choice1)
+        -: 1372:	{
+        -: 1373:	  //gain coins equal to trashed card
+    #####: 1374:	  state->coins = state->coins + getCost( handCard(choice1, state) );
+        -: 1375:	  //trash card
+    #####: 1376:	  discardCard(choice1, currentPlayer, state, 1);	
+        -: 1377:	}
+        -: 1378:			
+        -: 1379:      //discard card
+    #####: 1380:      discardCard(handPos, currentPlayer, state, 0);
+    #####: 1381:      return 0;
+        -: 1382:		
+        -: 1383:    case sea_hag:
+    #####: 1384:      for (i = 0; i < state->numPlayers; i++){
+    #####: 1385:	if (i != currentPlayer){
+    #####: 1386:	  state->discard[i][state->discardCount[i]] = state->deck[i][state->deckCount[i]--];			    state->deckCount[i]--;
+    #####: 1387:	  state->discardCount[i]++;
+    #####: 1388:	  state->deck[i][state->deckCount[i]--] = curse;//Top card now a curse
+        -: 1389:	}
+        -: 1390:      }
+    #####: 1391:      return 0;
+        -: 1392:		
+        -: 1393:    case treasure_map:
+        -: 1394:      //search hand for another treasure_map
+    #####: 1395:      index = -1;
+    #####: 1396:      for (i = 0; i < state->handCount[currentPlayer]; i++)
+        -: 1397:	{
+    #####: 1398:	  if (state->hand[currentPlayer][i] == treasure_map && i != handPos)
+        -: 1399:	    {
+    #####: 1400:	      index = i;
+    #####: 1401:	      break;
+        -: 1402:	    }
+        -: 1403:	}
+    #####: 1404:      if (index > -1)
+        -: 1405:	{
+        -: 1406:	  //trash both treasure cards
+    #####: 1407:	  discardCard(handPos, currentPlayer, state, 1);
+    #####: 1408:	  discardCard(index, currentPlayer, state, 1);
+        -: 1409:
+        -: 1410:	  //gain 4 Gold cards
+    #####: 1411:	  for (i = 0; i < 4; i++)
+        -: 1412:	    {
+    #####: 1413:	      gainCard(gold, state, 1, currentPlayer);
+        -: 1414:	    }
+        -: 1415:				
+        -: 1416:	  //return success
+    #####: 1417:	  return 1;
+        -: 1418:	}
+        -: 1419:			
+        -: 1420:      //no second treasure_map found in hand
+    #####: 1421:      return -1;
+        -: 1422:    }
+        -: 1423:	
+    #####: 1424:  return -1;
+        -: 1425:}
+        -: 1426:
+        -: 1427:/********** END of cardEffct **********/
+        -: 1428:
+     3939: 1429:int discardCard(int handPos, int currentPlayer, struct gameState *state, int trashFlag)
+        -: 1430:{
+        -: 1431:	
+        -: 1432:  //if card is not trashed, added to Played pile 
+     3939: 1433:  if (trashFlag < 1)
+        -: 1434:    {
+        -: 1435:      //add card to played pile
+     3939: 1436:      state->playedCards[state->playedCardCount] = state->hand[currentPlayer][handPos]; 
+     3939: 1437:      state->playedCardCount++;
+        -: 1438:    }
+        -: 1439:	
+        -: 1440:  //set played card to -1
+     3939: 1441:  state->hand[currentPlayer][handPos] = -1;
+        -: 1442:	
+        -: 1443:  //remove card from player's hand
+     3939: 1444:  if ( handPos == (state->handCount[currentPlayer] - 1) ) 	//last card in hand array is played
+        -: 1445:    {
+        -: 1446:      //reduce number of cards in hand
+      125: 1447:      state->handCount[currentPlayer]--;
+        -: 1448:    }
+     3814: 1449:  else if ( state->handCount[currentPlayer] == 1 ) //only one card in hand
+        -: 1450:    {
+        -: 1451:      //reduce number of cards in hand
+    #####: 1452:      state->handCount[currentPlayer]--;
+        -: 1453:    }
+        -: 1454:  else 	
+        -: 1455:    {
+        -: 1456:      //replace discarded card with last card in hand
+     3814: 1457:      state->hand[currentPlayer][handPos] = state->hand[currentPlayer][ (state->handCount[currentPlayer] - 1)];
+        -: 1458:      //set last card to -1
+     3814: 1459:      state->hand[currentPlayer][state->handCount[currentPlayer] - 1] = -1;
+        -: 1460:      //reduce number of cards in hand
+     3814: 1461:      state->handCount[currentPlayer]--;
+        -: 1462:    }
+        -: 1463:	
+     3939: 1464:  return 0;
+        -: 1465:}
+        -: 1466:
+    #####: 1467:int gainCard(int supplyPos, struct gameState *state, int toFlag, int player)
+        -: 1468:{
+        -: 1469:  //Note: supplyPos is enum of choosen card
+        -: 1470:	
+        -: 1471:  //check if supply pile is empty (0) or card is not used in game (-1)
+    #####: 1472:  if ( supplyCount(supplyPos, state) < 1 )
+        -: 1473:    {
+    #####: 1474:      return -1;
+        -: 1475:    }
+        -: 1476:	
+        -: 1477:  //added card for [whoseTurn] current player:
+        -: 1478:  // toFlag = 0 : add to discard
+        -: 1479:  // toFlag = 1 : add to deck
+        -: 1480:  // toFlag = 2 : add to hand
+        -: 1481:
+    #####: 1482:  if (toFlag == 1)
+        -: 1483:    {
+    #####: 1484:      state->deck[ player ][ state->deckCount[player] ] = supplyPos;
+    #####: 1485:      state->deckCount[player]++;
+        -: 1486:    }
+    #####: 1487:  else if (toFlag == 2)
+        -: 1488:    {
+    #####: 1489:      state->hand[ player ][ state->handCount[player] ] = supplyPos;
+    #####: 1490:      state->handCount[player]++;
+        -: 1491:    }
+        -: 1492:  else
+        -: 1493:    {
+    #####: 1494:      state->discard[player][ state->discardCount[player] ] = supplyPos;
+    #####: 1495:      state->discardCount[player]++;
+        -: 1496:    }
+        -: 1497:	
+        -: 1498:  //decrease number in supply pile
+    #####: 1499:  state->supplyCount[supplyPos]--;
+        -: 1500:	 
+    #####: 1501:  return 0;
+        -: 1502:}
+        -: 1503:
+        -: 1504:/***** Use this function for Unit test 2 *****/
+    10696: 1505:int updateCoins(int player, struct gameState *state, int bonus)
+        -: 1506:{
+        -: 1507:  int i;
+        -: 1508:	
+        -: 1509:  //reset coin count
+    10696: 1510:  state->coins = 0;
+        -: 1511:
+        -: 1512:  //add coins for each Treasure card in player's hand
+    64176: 1513:  for (i = 0; i < state->handCount[player]; i++)
+        -: 1514:    {
+    53480: 1515:      if (state->hand[player][i] == copper)
+        -: 1516:	{
+    42784: 1517:	  state->coins += 1;
+        -: 1518:	}
+    10696: 1519:      else if (state->hand[player][i] == silver)
+        -: 1520:	{
+    #####: 1521:	  state->coins += 2;
+        -: 1522:	}
+    10696: 1523:      else if (state->hand[player][i] == gold)
+        -: 1524:	{
+    #####: 1525:	  state->coins += 3;
+        -: 1526:	}	
+        -: 1527:    }	
+        -: 1528:
+        -: 1529:  //add bonus
+    10696: 1530:  state->coins += bonus;
+        -: 1531:
+    10696: 1532:  return 0;
+        -: 1533:}
+        -: 1534:
+        -: 1535:
+        -: 1536://end of dominion.c
+        -: 1537:
